@@ -1,0 +1,20 @@
+general:
+  branches:
+    ignore:
+      - gh-pages
+
+machine:
+  node:
+    version: 6.1.0
+
+test:
+  override:
+    - echo 'no tests'
+
+deployment:
+  gh-pages:
+    branch: master
+    commands:
+      - git config --global user.email "matt@mplewis.com"
+      - git config --global user.name "Matt Lewis"
+      - gulp
