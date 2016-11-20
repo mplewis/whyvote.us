@@ -1,4 +1,7 @@
 .container
   .row
     .col-xs-12
-      h1 Hello world!
+      h1 What state do you live in?
+  select
+    each state in states
+      option(value=state.slug)= state.name

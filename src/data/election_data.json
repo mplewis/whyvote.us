@@ -1,0 +1,1838 @@
+[
+  {
+    "name": "Alabama",
+    "slug": "alabama",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -13
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -15
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -12
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -7
+      }
+    ]
+  },
+  {
+    "name": "Alaska",
+    "slug": "alaska",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -9
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -15
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -12
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -18
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -15
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -10
+      }
+    ]
+  },
+  {
+    "name": "Arizona",
+    "slug": "arizona",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -5
+      }
+    ]
+  },
+  {
+    "name": "Arkansas",
+    "slug": "arkansas",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -14
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -14
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -3
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 7
+      }
+    ]
+  },
+  {
+    "name": "California",
+    "slug": "california",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 10
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 9
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 5
+      }
+    ]
+  },
+  {
+    "name": "Colorado",
+    "slug": "colorado",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -1
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -5
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -5
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -1
+      }
+    ]
+  },
+  {
+    "name": "Connecticut",
+    "slug": "connecticut",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 7
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 8
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 7
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 9
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 1
+      }
+    ]
+  },
+  {
+    "name": "Delaware",
+    "slug": "delaware",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 7
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 9
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 4
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 2
+      }
+    ]
+  },
+  {
+    "name": "Florida",
+    "slug": "florida",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -2
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -2
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -1
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -2
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -5
+      }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "slug": "georgia",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -6
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -6
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -6
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -5
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -3
+      }
+    ]
+  },
+  {
+    "name": "Hawaii",
+    "slug": "hawaii",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 20
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 19
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 10
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 10
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 3
+      }
+    ]
+  },
+  {
+    "name": "Idaho",
+    "slug": "idaho",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -18
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -17
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -18
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -21
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -16
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -13
+      }
+    ]
+  },
+  {
+    "name": "Illinois",
+    "slug": "illinois",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 7
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 9
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 5
+      }
+    ]
+  },
+  {
+    "name": "Indiana",
+    "slug": "indiana",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -3
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -9
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -7
+      }
+    ]
+  },
+  {
+    "name": "Iowa",
+    "slug": "iowa",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 0
+      }
+    ]
+  },
+  {
+    "name": "Kansas",
+    "slug": "kansas",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -13
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -11
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -12
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -11
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -15
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -7
+      }
+    ]
+  },
+  {
+    "name": "Kentucky",
+    "slug": "kentucky",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -14
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -12
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -9
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -2
+      }
+    ]
+  },
+  {
+    "name": "Louisiana",
+    "slug": "louisiana",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -11
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -13
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -6
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -1
+      }
+    ]
+  },
+  {
+    "name": "Maine",
+    "slug": "maine",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 8
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 3
+      }
+    ]
+  },
+  {
+    "name": "Maryland",
+    "slug": "maryland",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 11
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 9
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 8
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 8
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 4
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 5
+      }
+    ]
+  },
+  {
+    "name": "Massachusetts",
+    "slug": "massachusetts",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 10
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 10
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 14
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 15
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 14
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 9
+      }
+    ]
+  },
+  {
+    "name": "Michigan",
+    "slug": "michigan",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 1
+      }
+    ]
+  },
+  {
+    "name": "Minnesota",
+    "slug": "minnesota",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 4
+      }
+    ]
+  },
+  {
+    "name": "Mississippi",
+    "slug": "mississippi",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -10
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -9
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -9
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -8
+      }
+    ]
+  },
+  {
+    "name": "Missouri",
+    "slug": "missouri",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -2
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -2
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -1
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 3
+      }
+    ]
+  },
+  {
+    "name": "Montana",
+    "slug": "montana",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -9
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -5
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -9
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -14
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -6
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -2
+      }
+    ]
+  },
+  {
+    "name": "Nebraska",
+    "slug": "nebraska",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -13
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -11
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -16
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -15
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -15
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -15
+      }
+    ]
+  },
+  {
+    "name": "Nevada",
+    "slug": "nevada",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -2
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -2
+      }
+    ]
+  },
+  {
+    "name": "New Hampshire",
+    "slug": "new-hampshire",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -1
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -3
+      }
+    ]
+  },
+  {
+    "name": "New Jersey",
+    "slug": "new-jersey",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 7
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 4
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 8
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -2
+      }
+    ]
+  },
+  {
+    "name": "New Mexico",
+    "slug": "new-mexico",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 4
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -1
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 2
+      }
+    ]
+  },
+  {
+    "name": "New York",
+    "slug": "new-york",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 12
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 10
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 11
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 13
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 11
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 6
+      }
+    ]
+  },
+  {
+    "name": "North Carolina",
+    "slug": "north-carolina",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -3
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -5
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -4
+      }
+    ]
+  },
+  {
+    "name": "North Dakota",
+    "slug": "north-dakota",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -12
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -13
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -15
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -9
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -11
+      }
+    ]
+  },
+  {
+    "name": "Ohio",
+    "slug": "ohio",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -1
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -2
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -1
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -2
+      }
+    ]
+  },
+  {
+    "name": "Oklahoma",
+    "slug": "oklahoma",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -19
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -19
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -14
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -11
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -9
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -9
+      }
+    ]
+  },
+  {
+    "name": "Oregon",
+    "slug": "oregon",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 4
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 3
+      }
+    ]
+  },
+  {
+    "name": "Pennsylvania",
+    "slug": "pennsylvania",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 2
+      }
+    ]
+  },
+  {
+    "name": "Rhode Island",
+    "slug": "rhode-island",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 12
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 11
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 12
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 15
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 14
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 8
+      }
+    ]
+  },
+  {
+    "name": "South Carolina",
+    "slug": "south-carolina",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -8
+      }
+    ]
+  },
+  {
+    "name": "South Dakota",
+    "slug": "south-dakota",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -11
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -8
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -10
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -12
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -6
+      }
+    ]
+  },
+  {
+    "name": "Tennessee",
+    "slug": "tennessee",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -12
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -11
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -6
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -2
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -3
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -1
+      }
+    ]
+  },
+  {
+    "name": "Texas",
+    "slug": "texas",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -10
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -10
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -10
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -11
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -7
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -6
+      }
+    ]
+  },
+  {
+    "name": "Utah",
+    "slug": "utah",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -27
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -18
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -22
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -22
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -17
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -17
+      }
+    ]
+  },
+  {
+    "name": "Vermont",
+    "slug": "vermont",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 16
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 15
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 12
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 8
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 7
+      }
+    ]
+  },
+  {
+    "name": "Virginia",
+    "slug": "virginia",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -1
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -3
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -6
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -6
+      }
+    ]
+  },
+  {
+    "name": "Washington",
+    "slug": "washington",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 6
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 5
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 4
+      }
+    ]
+  },
+  {
+    "name": "West Virginia",
+    "slug": "west-virginia",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -16
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -10
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -5
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -4
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 4
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 4
+      }
+    ]
+  },
+  {
+    "name": "Wisconsin",
+    "slug": "wisconsin",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 2
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 3
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": 0
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 1
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -1
+      }
+    ]
+  },
+  {
+    "name": "Wyoming",
+    "slug": "wyoming",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": false,
+        "dem_win_margin": -23
+      },
+      {
+        "year": "2008",
+        "dem_win": false,
+        "dem_win_margin": -20
+      },
+      {
+        "year": "2004",
+        "dem_win": false,
+        "dem_win_margin": -19
+      },
+      {
+        "year": "2000",
+        "dem_win": false,
+        "dem_win_margin": -21
+      },
+      {
+        "year": "1996",
+        "dem_win": false,
+        "dem_win_margin": -12
+      },
+      {
+        "year": "1992",
+        "dem_win": false,
+        "dem_win_margin": -7
+      }
+    ]
+  },
+  {
+    "name": "Washington DC",
+    "slug": "washington-dc",
+    "history": [
+      {
+        "year": "2012",
+        "dem_win": true,
+        "dem_win_margin": 41
+      },
+      {
+        "year": "2008",
+        "dem_win": true,
+        "dem_win_margin": 40
+      },
+      {
+        "year": "2004",
+        "dem_win": true,
+        "dem_win_margin": 42
+      },
+      {
+        "year": "2000",
+        "dem_win": true,
+        "dem_win_margin": 40
+      },
+      {
+        "year": "1996",
+        "dem_win": true,
+        "dem_win_margin": 35
+      },
+      {
+        "year": "1992",
+        "dem_win": true,
+        "dem_win_margin": 37
+      }
+    ]
+  }
+]

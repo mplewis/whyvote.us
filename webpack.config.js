@@ -18,6 +18,10 @@ module.exports = {
         loader: 'pug-loader'
       },
       {
+        test: /\.json$/,
+        loader: 'json-loader'
+      },
+      {
         test: /\.(jpe?g|png|gif|svg)$/,
         loader: 'url-loader',
         query: {limit: maxDataUriBytes}
