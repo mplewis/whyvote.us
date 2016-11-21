@@ -15,6 +15,7 @@ gulp.task('build', ['clean'], function () {
 gulp.task('default', ['build'], function () {
   return gulp
     .src('index.html')
+    .pipe(addSrc('CNAME'))
     .pipe(addSrc('dist/**/*', {base: '.'}))
     .pipe(ghPages())
 })
