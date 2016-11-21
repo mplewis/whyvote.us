@@ -1,20 +1,25 @@
 .container
-  .row
+  .row.picker
     .col-xs-12
       h1 What state do you live in?
-  select#state-picker
-    option Select a state...
-    each state in states
-      option(value=state.slug)= state.name
+      select#state-picker
+        option Select a state...
+        each state in states
+          option(value=state.slug)= state.name
 
   #states
-    each state in states
-      .row(id='state-' + state.slug)
-        .col-xs-12
-          h1= state.name
-          p Swinginess: #{state.swinginess}
-          p Flip likelihood: #{state.flipLikelihood}
-          each row in state.history
+    each s in states
+      .row.state(id='state-' + s.slug)
+        .col-sm-6.name
+          h1= s.name
+          p Picture goes here
+        .col-sm-6.stats
+          h1= s.headline
+          p
+            strong= s.electionsClose
+            |  of seven recent presidential elections have been close (±10%):
+
+          each row in s.elections
             .row(class=row.close ? 'close-race' : '')
               .col-sm-4
                 p= row.year
@@ -22,3 +27,7 @@
                 p Dem win: #{row.dem_win}
               .col-sm-4
                 p Margin: #{row.dem_win_margin}
+
+          p The odds of #{s.name} flipping are
+            strong= ' ' + s.flipLikelihood + '. '
+            = s.flavorText
