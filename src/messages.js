@@ -4,13 +4,15 @@ const messages = {
       headline: [
         "Don't bother voting.",
         "You won't make a difference.",
-        'Meh. Who cares?'
+        'Meh. Who cares?',
+        "Your vote doesn't matter."
       ],
       flavorText: [
         'You might as well skip out and go to trivia instead.',
         'Just stay home and play video games.',
+        'Grab a beer and complain about stuff instead of voting.',
         "Lucky you! You won't have to wait in line for hours.",
-        "You're probably fine protest-voting for a third party here."
+        "You're probably fine protest-voting for a third party."
       ]
     },
     moderate: {
@@ -31,8 +33,9 @@ const messages = {
       headline: [
         'Your vote actually counts.',
         'Your vote makes a difference.',
+        'You could be a decider.',
         'Get out and vote.',
-        'You should actually vote.'
+        'You should definitely vote.'
       ],
       flavorText: [
         "If you don't vote, your friends will be mad at you.",

@@ -29,6 +29,7 @@ export function layout (electionData) {
     data.flavorText = choice(mfl[fl].flavorText)
 
     data.electionsClose = title(numberText[state.swinginess])
+    data.havePlural = state.swinginess === 1 ? 'has' : 'have'
     data.electionsTotal = numberText[state.history.length]
 
     data.elections = state.history  // TODO actually process this stuff

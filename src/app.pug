@@ -2,8 +2,8 @@
   .row.picker
     .col-xs-12
       h1 What state do you live in?
-      select#state-picker
-        option Select a state...
+      select#state-picker.chosen-select(data-placeholder='Pick a state...')
+        option
         each state in states
           option(value=state.slug)= state.name
 
@@ -17,7 +17,9 @@
           h1= s.headline
           p
             strong= s.electionsClose
-            |  of seven recent presidential elections have been close (±10%):
+            |  of seven recent presidential elections
+            = ' ' + s.havePlural + ' '
+            | been close (±10%):
 
           each row in s.elections
             .row(class=row.close ? 'close-race' : '')
