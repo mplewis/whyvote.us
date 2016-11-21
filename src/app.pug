@@ -12,5 +12,12 @@
       .row(id='state-' + state.slug)
         .col-xs-12
           h1= state.name
+          p Swinginess: #{state.swinginess}
           each row in state.history
-            p=row.year
+            .row(class=row.close ? 'close-race' : '')
+              .col-sm-4
+                p= row.year
+              .col-sm-4
+                p Dem win: #{row.dem_win}
+              .col-sm-4
+                p Margin: #{row.dem_win_margin}
