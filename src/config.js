@@ -1,5 +1,5 @@
 const config = {
-  swinginessMargin: 3,
+  swinginessMargin: 10,
   scroll: {
     duration: 1500,
     easing: 'easeOutQuart'

@@ -4,34 +4,59 @@
     "slug": "alabama",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 62.9,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -13
+        "dem_win_margin": -28.3,
+        "dem_pct": 34.6
       },
       {
-        "year": "2008",
+        "dem_win_margin": -22.1,
+        "rep_pct": 60.5,
         "dem_win": false,
-        "dem_win_margin": -15
+        "dem_pct": 38.4,
+        "cook_pvi_dem": -13,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -21.6,
+        "rep_pct": 60.3,
         "dem_win": false,
-        "dem_win_margin": -12
+        "dem_pct": 38.7,
+        "cook_pvi_dem": -15,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -25.7,
+        "rep_pct": 62.5,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 36.8,
+        "cook_pvi_dem": -12,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -14.9,
+        "rep_pct": 56.5,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 41.6,
+        "cook_pvi_dem": -8,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -6.9,
+        "rep_pct": 50.1,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 43.2,
+        "cook_pvi_dem": -8,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -6.7,
+        "rep_pct": 47.6,
+        "dem_win": false,
+        "dem_pct": 40.9,
+        "cook_pvi_dem": -7,
+        "year": "1992"
       }
     ]
   },
@@ -40,34 +65,59 @@
     "slug": "alaska",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 52.9,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_win_margin": -15.2,
+        "dem_pct": 37.7
       },
       {
-        "year": "2008",
+        "dem_win_margin": -14.0,
+        "rep_pct": 54.8,
         "dem_win": false,
-        "dem_win_margin": -15
+        "dem_pct": 40.8,
+        "cook_pvi_dem": -9,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -21.5,
+        "rep_pct": 59.4,
         "dem_win": false,
-        "dem_win_margin": -12
+        "dem_pct": 37.9,
+        "cook_pvi_dem": -15,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -25.6,
+        "rep_pct": 61.1,
         "dem_win": false,
-        "dem_win_margin": -18
+        "dem_pct": 35.5,
+        "cook_pvi_dem": -12,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -30.9,
+        "rep_pct": 58.6,
         "dem_win": false,
-        "dem_win_margin": -15
+        "dem_pct": 27.7,
+        "cook_pvi_dem": -18,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -17.5,
+        "rep_pct": 50.8,
         "dem_win": false,
-        "dem_win_margin": -10
+        "dem_pct": 33.3,
+        "cook_pvi_dem": -15,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -9.2,
+        "rep_pct": 39.5,
+        "dem_win": false,
+        "dem_pct": 30.3,
+        "cook_pvi_dem": -10,
+        "year": "1992"
       }
     ]
   },
@@ -76,34 +126,59 @@
     "slug": "arizona",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 49.5,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_win_margin": -4.1,
+        "dem_pct": 45.4
       },
       {
-        "year": "2008",
+        "dem_win_margin": -9.1,
+        "rep_pct": 53.5,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 44.4,
+        "cook_pvi_dem": -7,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -8.5,
+        "rep_pct": 53.4,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 44.9,
+        "cook_pvi_dem": -8,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -10.5,
+        "rep_pct": 54.8,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 44.3,
+        "cook_pvi_dem": -4,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -6.3,
+        "rep_pct": 51.0,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 44.7,
+        "cook_pvi_dem": -4,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 2.2,
+        "rep_pct": 44.3,
         "dem_win": false,
-        "dem_win_margin": -5
+        "dem_pct": 46.5,
+        "cook_pvi_dem": -4,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -2.0,
+        "rep_pct": 38.5,
+        "dem_win": false,
+        "dem_pct": 36.5,
+        "cook_pvi_dem": -5,
+        "year": "1992"
       }
     ]
   },
@@ -112,34 +187,59 @@
     "slug": "arkansas",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 60.4,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -14
+        "dem_win_margin": -26.6,
+        "dem_pct": 33.8
       },
       {
-        "year": "2008",
+        "dem_win_margin": -23.7,
+        "rep_pct": 60.6,
         "dem_win": false,
-        "dem_win_margin": -14
+        "dem_pct": 36.9,
+        "cook_pvi_dem": -14,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -19.8,
+        "rep_pct": 58.7,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 38.9,
+        "cook_pvi_dem": -14,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -9.8,
+        "rep_pct": 54.3,
         "dem_win": false,
-        "dem_win_margin": -3
+        "dem_pct": 44.5,
+        "cook_pvi_dem": -4,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -5.4,
+        "rep_pct": 51.3,
+        "dem_win": false,
+        "dem_pct": 45.9,
+        "cook_pvi_dem": -3,
+        "year": "2000"
+      },
+      {
+        "dem_win_margin": 16.9,
+        "rep_pct": 36.8,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 53.7,
+        "cook_pvi_dem": 5,
+        "year": "1996"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 17.7,
+        "rep_pct": 35.5,
         "dem_win": true,
-        "dem_win_margin": 7
+        "dem_pct": 53.2,
+        "cook_pvi_dem": 7,
+        "year": "1992"
       }
     ]
   },
@@ -148,34 +248,59 @@
     "slug": "california",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 32.7,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 10
+        "dem_win_margin": 28.9,
+        "dem_pct": 61.6
       },
       {
-        "year": "2008",
+        "dem_win_margin": 23.1,
+        "rep_pct": 37.1,
         "dem_win": true,
-        "dem_win_margin": 9
+        "dem_pct": 60.2,
+        "cook_pvi_dem": 10,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 24.0,
+        "rep_pct": 36.9,
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_pct": 60.9,
+        "cook_pvi_dem": 9,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 9.9,
+        "rep_pct": 44.4,
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_pct": 54.3,
+        "cook_pvi_dem": 6,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 11.7,
+        "rep_pct": 41.7,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 53.4,
+        "cook_pvi_dem": 6,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 12.9,
+        "rep_pct": 38.2,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 51.1,
+        "cook_pvi_dem": 2,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 13.4,
+        "rep_pct": 32.6,
+        "dem_win": true,
+        "dem_pct": 46.0,
+        "cook_pvi_dem": 5,
+        "year": "1992"
       }
     ]
   },
@@ -184,34 +309,59 @@
     "slug": "colorado",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 44.4,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_win_margin": 2.9,
+        "dem_pct": 47.3
       },
       {
-        "year": "2008",
+        "dem_win_margin": 5.3,
+        "rep_pct": 46.1,
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_pct": 51.4,
+        "cook_pvi_dem": 1,
+        "year": "2012"
       },
       {
-        "year": "2004",
-        "dem_win": false,
-        "dem_win_margin": -1
+        "dem_win_margin": 9.0,
+        "rep_pct": 44.7,
+        "dem_win": true,
+        "dem_pct": 53.7,
+        "cook_pvi_dem": 1,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -4.7,
+        "rep_pct": 51.7,
         "dem_win": false,
-        "dem_win_margin": -5
+        "dem_pct": 47.0,
+        "cook_pvi_dem": -1,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -8.4,
+        "rep_pct": 50.8,
         "dem_win": false,
-        "dem_win_margin": -5
+        "dem_pct": 42.4,
+        "cook_pvi_dem": -5,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -1.4,
+        "rep_pct": 45.8,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 44.4,
+        "cook_pvi_dem": -5,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 4.2,
+        "rep_pct": 35.9,
+        "dem_win": false,
+        "dem_pct": 40.1,
+        "cook_pvi_dem": -1,
+        "year": "1992"
       }
     ]
   },
@@ -220,34 +370,59 @@
     "slug": "connecticut",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 41.2,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 7
+        "dem_win_margin": 13.3,
+        "dem_pct": 54.5
       },
       {
-        "year": "2008",
+        "dem_win_margin": 17.4,
+        "rep_pct": 40.7,
         "dem_win": true,
-        "dem_win_margin": 8
+        "dem_pct": 58.1,
+        "cook_pvi_dem": 7,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 22.4,
+        "rep_pct": 38.2,
         "dem_win": true,
-        "dem_win_margin": 7
+        "dem_pct": 60.6,
+        "cook_pvi_dem": 8,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 10.4,
+        "rep_pct": 43.9,
         "dem_win": true,
-        "dem_win_margin": 9
+        "dem_pct": 54.3,
+        "cook_pvi_dem": 7,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 17.5,
+        "rep_pct": 38.4,
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_pct": 55.9,
+        "cook_pvi_dem": 9,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 18.1,
+        "rep_pct": 34.7,
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_pct": 52.8,
+        "cook_pvi_dem": 6,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 6.4,
+        "rep_pct": 35.8,
+        "dem_win": true,
+        "dem_pct": 42.2,
+        "cook_pvi_dem": 1,
+        "year": "1992"
       }
     ]
   },
@@ -256,34 +431,59 @@
     "slug": "delaware",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 41.9,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 7
+        "dem_win_margin": 11.5,
+        "dem_pct": 53.4
       },
       {
-        "year": "2008",
+        "dem_win_margin": 18.6,
+        "rep_pct": 40.0,
         "dem_win": true,
-        "dem_win_margin": 9
+        "dem_pct": 58.6,
+        "cook_pvi_dem": 7,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 25.0,
+        "rep_pct": 36.9,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 61.9,
+        "cook_pvi_dem": 9,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 7.6,
+        "rep_pct": 45.7,
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_pct": 53.3,
+        "cook_pvi_dem": 5,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 13.1,
+        "rep_pct": 41.9,
         "dem_win": true,
-        "dem_win_margin": 4
+        "dem_pct": 55.0,
+        "cook_pvi_dem": 6,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 15.3,
+        "rep_pct": 36.5,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 51.8,
+        "cook_pvi_dem": 4,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 8.2,
+        "rep_pct": 35.3,
+        "dem_win": true,
+        "dem_pct": 43.5,
+        "cook_pvi_dem": 2,
+        "year": "1992"
       }
     ]
   },
@@ -292,34 +492,59 @@
     "slug": "florida",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 49.1,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_win_margin": -1.3,
+        "dem_pct": 47.8
       },
       {
-        "year": "2008",
+        "dem_win_margin": 0.9,
+        "rep_pct": 49.0,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 49.9,
+        "cook_pvi_dem": -2,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 2.8,
+        "rep_pct": 48.1,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 50.9,
+        "cook_pvi_dem": -2,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -5.0,
+        "rep_pct": 52.1,
         "dem_win": false,
-        "dem_win_margin": 0
+        "dem_pct": 47.1,
+        "cook_pvi_dem": -1,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 0.0,
+        "rep_pct": 48.8,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 48.8,
+        "cook_pvi_dem": 0,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 5.7,
+        "rep_pct": 42.3,
         "dem_win": false,
-        "dem_win_margin": -5
+        "dem_pct": 48.0,
+        "cook_pvi_dem": -2,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -1.9,
+        "rep_pct": 40.9,
+        "dem_win": false,
+        "dem_pct": 39.0,
+        "cook_pvi_dem": -5,
+        "year": "1992"
       }
     ]
   },
@@ -328,34 +553,59 @@
     "slug": "georgia",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 51.3,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_win_margin": -5.7,
+        "dem_pct": 45.6
       },
       {
-        "year": "2008",
+        "dem_win_margin": -7.8,
+        "rep_pct": 53.2,
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_pct": 45.4,
+        "cook_pvi_dem": -6,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -5.2,
+        "rep_pct": 52.1,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 46.9,
+        "cook_pvi_dem": -6,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -16.6,
+        "rep_pct": 57.9,
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_pct": 41.3,
+        "cook_pvi_dem": -7,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -11.7,
+        "rep_pct": 54.7,
         "dem_win": false,
-        "dem_win_margin": -5
+        "dem_pct": 43.0,
+        "cook_pvi_dem": -6,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -1.2,
+        "rep_pct": 47.0,
         "dem_win": false,
-        "dem_win_margin": -3
+        "dem_pct": 45.8,
+        "cook_pvi_dem": -5,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 0.6,
+        "rep_pct": 42.9,
+        "dem_win": false,
+        "dem_pct": 43.5,
+        "cook_pvi_dem": -3,
+        "year": "1992"
       }
     ]
   },
@@ -364,34 +614,59 @@
     "slug": "hawaii",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 30.0,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 20
+        "dem_win_margin": 32.2,
+        "dem_pct": 62.2
       },
       {
-        "year": "2008",
+        "dem_win_margin": 42.7,
+        "rep_pct": 27.8,
         "dem_win": true,
-        "dem_win_margin": 19
+        "dem_pct": 70.5,
+        "cook_pvi_dem": 20,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 45.2,
+        "rep_pct": 26.6,
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_pct": 71.8,
+        "cook_pvi_dem": 19,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 8.7,
+        "rep_pct": 45.3,
         "dem_win": true,
-        "dem_win_margin": 10
+        "dem_pct": 54.0,
+        "cook_pvi_dem": 6,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 18.3,
+        "rep_pct": 37.5,
         "dem_win": true,
-        "dem_win_margin": 10
+        "dem_pct": 55.8,
+        "cook_pvi_dem": 10,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 25.3,
+        "rep_pct": 31.6,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 56.9,
+        "cook_pvi_dem": 10,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 11.4,
+        "rep_pct": 36.7,
+        "dem_win": true,
+        "dem_pct": 48.1,
+        "cook_pvi_dem": 3,
+        "year": "1992"
       }
     ]
   },
@@ -400,34 +675,59 @@
     "slug": "idaho",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 59.2,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -18
+        "dem_win_margin": -31.6,
+        "dem_pct": 27.6
       },
       {
-        "year": "2008",
+        "dem_win_margin": -31.7,
+        "rep_pct": 64.1,
         "dem_win": false,
-        "dem_win_margin": -17
+        "dem_pct": 32.4,
+        "cook_pvi_dem": -18,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -25.3,
+        "rep_pct": 61.2,
         "dem_win": false,
-        "dem_win_margin": -18
+        "dem_pct": 35.9,
+        "cook_pvi_dem": -17,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -38.1,
+        "rep_pct": 68.4,
         "dem_win": false,
-        "dem_win_margin": -21
+        "dem_pct": 30.3,
+        "cook_pvi_dem": -18,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -39.6,
+        "rep_pct": 67.2,
         "dem_win": false,
-        "dem_win_margin": -16
+        "dem_pct": 27.6,
+        "cook_pvi_dem": -21,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -18.6,
+        "rep_pct": 52.2,
         "dem_win": false,
-        "dem_win_margin": -13
+        "dem_pct": 33.6,
+        "cook_pvi_dem": -16,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -13.6,
+        "rep_pct": 42.0,
+        "dem_win": false,
+        "dem_pct": 28.4,
+        "cook_pvi_dem": -13,
+        "year": "1992"
       }
     ]
   },
@@ -436,34 +736,59 @@
     "slug": "illinois",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 39.4,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 7
+        "dem_win_margin": 16.0,
+        "dem_pct": 55.4
       },
       {
-        "year": "2008",
+        "dem_win_margin": 16.8,
+        "rep_pct": 40.7,
         "dem_win": true,
-        "dem_win_margin": 9
+        "dem_pct": 57.5,
+        "cook_pvi_dem": 7,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 25.1,
+        "rep_pct": 36.7,
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_pct": 61.8,
+        "cook_pvi_dem": 9,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 10.3,
+        "rep_pct": 44.5,
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_pct": 54.8,
+        "cook_pvi_dem": 6,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 12.0,
+        "rep_pct": 42.6,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 54.6,
+        "cook_pvi_dem": 6,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 17.5,
+        "rep_pct": 36.8,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 54.3,
+        "cook_pvi_dem": 5,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 14.3,
+        "rep_pct": 34.3,
+        "dem_win": true,
+        "dem_pct": 48.6,
+        "cook_pvi_dem": 5,
+        "year": "1992"
       }
     ]
   },
@@ -472,34 +797,59 @@
     "slug": "indiana",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 57.2,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_win_margin": -19.3,
+        "dem_pct": 37.9
       },
       {
-        "year": "2008",
+        "dem_win_margin": -10.2,
+        "rep_pct": 54.0,
         "dem_win": false,
-        "dem_win_margin": -3
+        "dem_pct": 43.8,
+        "cook_pvi_dem": -7,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 1.0,
+        "rep_pct": 48.8,
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_pct": 49.8,
+        "cook_pvi_dem": -3,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -20.6,
+        "rep_pct": 59.9,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 39.3,
+        "cook_pvi_dem": -9,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -15.6,
+        "rep_pct": 56.6,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 41.0,
+        "cook_pvi_dem": -8,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -5.6,
+        "rep_pct": 47.1,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 41.5,
+        "cook_pvi_dem": -8,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -6.1,
+        "rep_pct": 42.9,
+        "dem_win": false,
+        "dem_pct": 36.8,
+        "cook_pvi_dem": -7,
+        "year": "1992"
       }
     ]
   },
@@ -508,34 +858,59 @@
     "slug": "iowa",
     "history": [
       {
-        "year": "2012",
-        "dem_win": true,
-        "dem_win_margin": 1
-      },
-      {
-        "year": "2008",
-        "dem_win": true,
-        "dem_win_margin": 1
-      },
-      {
-        "year": "2004",
-        "dem_win": true,
-        "dem_win_margin": 1
-      },
-      {
-        "year": "2000",
+        "rep_pct": 51.8,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": 0
+        "dem_win_margin": -9.6,
+        "dem_pct": 42.2
       },
       {
-        "year": "1996",
+        "dem_win_margin": 5.8,
+        "rep_pct": 46.2,
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_pct": 52.0,
+        "cook_pvi_dem": 1,
+        "year": "2012"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 9.5,
+        "rep_pct": 44.4,
         "dem_win": true,
-        "dem_win_margin": 0
+        "dem_pct": 53.9,
+        "cook_pvi_dem": 1,
+        "year": "2008"
+      },
+      {
+        "dem_win_margin": -0.7,
+        "rep_pct": 49.9,
+        "dem_win": true,
+        "dem_pct": 49.2,
+        "cook_pvi_dem": 1,
+        "year": "2004"
+      },
+      {
+        "dem_win_margin": 0.3,
+        "rep_pct": 48.2,
+        "dem_win": false,
+        "dem_pct": 48.5,
+        "cook_pvi_dem": 0,
+        "year": "2000"
+      },
+      {
+        "dem_win_margin": 10.4,
+        "rep_pct": 39.9,
+        "dem_win": true,
+        "dem_pct": 50.3,
+        "cook_pvi_dem": 1,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 6.0,
+        "rep_pct": 37.3,
+        "dem_win": true,
+        "dem_pct": 43.3,
+        "cook_pvi_dem": 0,
+        "year": "1992"
       }
     ]
   },
@@ -544,34 +919,59 @@
     "slug": "kansas",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 57.2,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -13
+        "dem_win_margin": -21.0,
+        "dem_pct": 36.2
       },
       {
-        "year": "2008",
+        "dem_win_margin": -21.7,
+        "rep_pct": 59.7,
         "dem_win": false,
-        "dem_win_margin": -11
+        "dem_pct": 38.0,
+        "cook_pvi_dem": -13,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -14.9,
+        "rep_pct": 56.5,
         "dem_win": false,
-        "dem_win_margin": -12
+        "dem_pct": 41.6,
+        "cook_pvi_dem": -11,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -25.4,
+        "rep_pct": 62.0,
         "dem_win": false,
-        "dem_win_margin": -11
+        "dem_pct": 36.6,
+        "cook_pvi_dem": -12,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -20.8,
+        "rep_pct": 58.0,
         "dem_win": false,
-        "dem_win_margin": -15
+        "dem_pct": 37.2,
+        "cook_pvi_dem": -11,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -18.2,
+        "rep_pct": 54.3,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 36.1,
+        "cook_pvi_dem": -15,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -5.2,
+        "rep_pct": 38.9,
+        "dem_win": false,
+        "dem_pct": 33.7,
+        "cook_pvi_dem": -7,
+        "year": "1992"
       }
     ]
   },
@@ -580,34 +980,59 @@
     "slug": "kentucky",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 62.5,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -14
+        "dem_win_margin": -29.8,
+        "dem_pct": 32.7
       },
       {
-        "year": "2008",
+        "dem_win_margin": -22.7,
+        "rep_pct": 60.5,
         "dem_win": false,
-        "dem_win_margin": -12
+        "dem_pct": 37.8,
+        "cook_pvi_dem": -14,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -16.3,
+        "rep_pct": 57.4,
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_pct": 41.1,
+        "cook_pvi_dem": -12,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -19.8,
+        "rep_pct": 59.5,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 39.7,
+        "cook_pvi_dem": -9,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -15.1,
+        "rep_pct": 56.5,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 41.4,
+        "cook_pvi_dem": -8,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 0.9,
+        "rep_pct": 44.9,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 45.8,
+        "cook_pvi_dem": -4,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 3.3,
+        "rep_pct": 41.3,
+        "dem_win": false,
+        "dem_pct": 44.6,
+        "cook_pvi_dem": -2,
+        "year": "1992"
       }
     ]
   },
@@ -616,34 +1041,59 @@
     "slug": "louisiana",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 58.1,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -11
+        "dem_win_margin": -19.7,
+        "dem_pct": 38.4
       },
       {
-        "year": "2008",
+        "dem_win_margin": -17.2,
+        "rep_pct": 57.8,
         "dem_win": false,
-        "dem_win_margin": -13
+        "dem_pct": 40.6,
+        "cook_pvi_dem": -11,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -18.7,
+        "rep_pct": 58.6,
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_pct": 39.9,
+        "cook_pvi_dem": -13,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -14.5,
+        "rep_pct": 56.7,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 42.2,
+        "cook_pvi_dem": -6,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -7.7,
+        "rep_pct": 52.6,
+        "dem_win": false,
+        "dem_pct": 44.9,
+        "cook_pvi_dem": -4,
+        "year": "2000"
+      },
+      {
+        "dem_win_margin": 12.1,
+        "rep_pct": 39.9,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 52.0,
+        "cook_pvi_dem": 2,
+        "year": "1996"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 4.6,
+        "rep_pct": 41.0,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 45.6,
+        "cook_pvi_dem": -1,
+        "year": "1992"
       }
     ]
   },
@@ -652,34 +1102,59 @@
     "slug": "maine",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 45.2,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_win_margin": 2.7,
+        "dem_pct": 47.9
       },
       {
-        "year": "2008",
+        "dem_win_margin": 15.3,
+        "rep_pct": 41.0,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 56.3,
+        "cook_pvi_dem": 6,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 17.3,
+        "rep_pct": 40.4,
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_pct": 57.7,
+        "cook_pvi_dem": 5,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 9.0,
+        "rep_pct": 44.6,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 53.6,
+        "cook_pvi_dem": 6,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 5.1,
+        "rep_pct": 44.0,
         "dem_win": true,
-        "dem_win_margin": 8
+        "dem_pct": 49.1,
+        "cook_pvi_dem": 2,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 20.8,
+        "rep_pct": 30.8,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 51.6,
+        "cook_pvi_dem": 8,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 8.4,
+        "rep_pct": 30.4,
+        "dem_win": true,
+        "dem_pct": 38.8,
+        "cook_pvi_dem": 3,
+        "year": "1992"
       }
     ]
   },
@@ -688,34 +1163,59 @@
     "slug": "maryland",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 35.3,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 11
+        "dem_win_margin": 25.2,
+        "dem_pct": 60.5
       },
       {
-        "year": "2008",
+        "dem_win_margin": 26.1,
+        "rep_pct": 35.9,
         "dem_win": true,
-        "dem_win_margin": 9
+        "dem_pct": 62.0,
+        "cook_pvi_dem": 11,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 25.4,
+        "rep_pct": 36.5,
         "dem_win": true,
-        "dem_win_margin": 8
+        "dem_pct": 61.9,
+        "cook_pvi_dem": 9,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 13.0,
+        "rep_pct": 42.9,
         "dem_win": true,
-        "dem_win_margin": 8
+        "dem_pct": 55.9,
+        "cook_pvi_dem": 8,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 16.4,
+        "rep_pct": 40.2,
         "dem_win": true,
-        "dem_win_margin": 4
+        "dem_pct": 56.6,
+        "cook_pvi_dem": 8,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 16.0,
+        "rep_pct": 38.3,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 54.3,
+        "cook_pvi_dem": 4,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 14.2,
+        "rep_pct": 35.6,
+        "dem_win": true,
+        "dem_pct": 49.8,
+        "cook_pvi_dem": 5,
+        "year": "1992"
       }
     ]
   },
@@ -724,34 +1224,59 @@
     "slug": "massachusetts",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 33.5,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 10
+        "dem_win_margin": 27.3,
+        "dem_pct": 60.8
       },
       {
-        "year": "2008",
+        "dem_win_margin": 23.2,
+        "rep_pct": 37.5,
         "dem_win": true,
-        "dem_win_margin": 10
+        "dem_pct": 60.7,
+        "cook_pvi_dem": 10,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 25.8,
+        "rep_pct": 36.0,
         "dem_win": true,
-        "dem_win_margin": 14
+        "dem_pct": 61.8,
+        "cook_pvi_dem": 10,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 25.1,
+        "rep_pct": 36.8,
         "dem_win": true,
-        "dem_win_margin": 15
+        "dem_pct": 61.9,
+        "cook_pvi_dem": 14,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 27.3,
+        "rep_pct": 32.5,
         "dem_win": true,
-        "dem_win_margin": 14
+        "dem_pct": 59.8,
+        "cook_pvi_dem": 15,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 33.4,
+        "rep_pct": 28.1,
         "dem_win": true,
-        "dem_win_margin": 9
+        "dem_pct": 61.5,
+        "cook_pvi_dem": 14,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 18.5,
+        "rep_pct": 29.0,
+        "dem_win": true,
+        "dem_pct": 47.5,
+        "cook_pvi_dem": 9,
+        "year": "1992"
       }
     ]
   },
@@ -760,34 +1285,59 @@
     "slug": "michigan",
     "history": [
       {
-        "year": "2012",
-        "dem_win": true,
-        "dem_win_margin": 3
+        "rep_pct": 47.6,
+        "year": "2016",
+        "dem_win": null,
+        "dem_win_margin": -0.3,
+        "dem_pct": 47.3
       },
       {
-        "year": "2008",
+        "dem_win_margin": 9.4,
+        "rep_pct": 44.6,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 54.0,
+        "cook_pvi_dem": 3,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 16.4,
+        "rep_pct": 40.9,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 57.3,
+        "cook_pvi_dem": 5,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 3.4,
+        "rep_pct": 47.8,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 51.2,
+        "cook_pvi_dem": 3,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 5.2,
+        "rep_pct": 46.1,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 51.3,
+        "cook_pvi_dem": 2,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 13.2,
+        "rep_pct": 38.5,
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_pct": 51.7,
+        "cook_pvi_dem": 3,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 7.4,
+        "rep_pct": 36.4,
+        "dem_win": true,
+        "dem_pct": 43.8,
+        "cook_pvi_dem": 1,
+        "year": "1992"
       }
     ]
   },
@@ -796,34 +1346,59 @@
     "slug": "minnesota",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 45.4,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_win_margin": 1.5,
+        "dem_pct": 46.9
       },
       {
-        "year": "2008",
+        "dem_win_margin": 7.7,
+        "rep_pct": 45.0,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 52.7,
+        "cook_pvi_dem": 2,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 10.3,
+        "rep_pct": 43.8,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 54.1,
+        "cook_pvi_dem": 2,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 3.5,
+        "rep_pct": 47.6,
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_pct": 51.1,
+        "cook_pvi_dem": 3,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 2.4,
+        "rep_pct": 45.5,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 47.9,
+        "cook_pvi_dem": 1,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 16.1,
+        "rep_pct": 35.0,
         "dem_win": true,
-        "dem_win_margin": 4
+        "dem_pct": 51.1,
+        "cook_pvi_dem": 5,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 11.6,
+        "rep_pct": 31.9,
+        "dem_win": true,
+        "dem_pct": 43.5,
+        "cook_pvi_dem": 4,
+        "year": "1992"
       }
     ]
   },
@@ -832,34 +1407,59 @@
     "slug": "mississippi",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 58.3,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_win_margin": -18.6,
+        "dem_pct": 39.7
       },
       {
-        "year": "2008",
+        "dem_win_margin": -11.5,
+        "rep_pct": 55.3,
         "dem_win": false,
-        "dem_win_margin": -10
+        "dem_pct": 43.8,
+        "cook_pvi_dem": -8,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -13.2,
+        "rep_pct": 56.2,
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_pct": 43.0,
+        "cook_pvi_dem": -10,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -19.6,
+        "rep_pct": 59.4,
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_pct": 39.8,
+        "cook_pvi_dem": -9,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -16.9,
+        "rep_pct": 57.6,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 40.7,
+        "cook_pvi_dem": -9,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -5.1,
+        "rep_pct": 49.2,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 44.1,
+        "cook_pvi_dem": -7,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -8.9,
+        "rep_pct": 49.7,
+        "dem_win": false,
+        "dem_pct": 40.8,
+        "cook_pvi_dem": -8,
+        "year": "1992"
       }
     ]
   },
@@ -868,34 +1468,59 @@
     "slug": "missouri",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 57.1,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_win_margin": -19.1,
+        "dem_pct": 38.0
       },
       {
-        "year": "2008",
+        "dem_win_margin": -9.3,
+        "rep_pct": 53.6,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 44.3,
+        "cook_pvi_dem": -7,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -0.2,
+        "rep_pct": 49.4,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 49.2,
+        "cook_pvi_dem": -4,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -7.2,
+        "rep_pct": 53.3,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 46.1,
+        "cook_pvi_dem": -2,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -3.3,
+        "rep_pct": 50.4,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 47.1,
+        "cook_pvi_dem": -2,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 6.3,
+        "rep_pct": 41.2,
+        "dem_win": false,
+        "dem_pct": 47.5,
+        "cook_pvi_dem": -1,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 10.2,
+        "rep_pct": 33.9,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 44.1,
+        "cook_pvi_dem": 3,
+        "year": "1992"
       }
     ]
   },
@@ -904,34 +1529,59 @@
     "slug": "montana",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 56.5,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_win_margin": -20.5,
+        "dem_pct": 36.0
       },
       {
-        "year": "2008",
+        "dem_win_margin": -13.6,
+        "rep_pct": 55.3,
         "dem_win": false,
-        "dem_win_margin": -5
+        "dem_pct": 41.7,
+        "cook_pvi_dem": -9,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -2.4,
+        "rep_pct": 49.5,
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_pct": 47.1,
+        "cook_pvi_dem": -5,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -20.5,
+        "rep_pct": 59.1,
         "dem_win": false,
-        "dem_win_margin": -14
+        "dem_pct": 38.6,
+        "cook_pvi_dem": -9,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -25.0,
+        "rep_pct": 58.4,
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_pct": 33.4,
+        "cook_pvi_dem": -14,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -2.9,
+        "rep_pct": 44.1,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 41.2,
+        "cook_pvi_dem": -6,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 2.5,
+        "rep_pct": 35.1,
+        "dem_win": false,
+        "dem_pct": 37.6,
+        "cook_pvi_dem": -2,
+        "year": "1992"
       }
     ]
   },
@@ -940,34 +1590,59 @@
     "slug": "nebraska",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 60.3,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -13
+        "dem_win_margin": -26.3,
+        "dem_pct": 34.0
       },
       {
-        "year": "2008",
+        "dem_win_margin": -21.8,
+        "rep_pct": 59.8,
         "dem_win": false,
-        "dem_win_margin": -11
+        "dem_pct": 38.0,
+        "cook_pvi_dem": -13,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -14.9,
+        "rep_pct": 56.5,
         "dem_win": false,
-        "dem_win_margin": -16
+        "dem_pct": 41.6,
+        "cook_pvi_dem": -11,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -33.2,
+        "rep_pct": 65.9,
         "dem_win": false,
-        "dem_win_margin": -15
+        "dem_pct": 32.7,
+        "cook_pvi_dem": -16,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -28.9,
+        "rep_pct": 62.2,
         "dem_win": false,
-        "dem_win_margin": -15
+        "dem_pct": 33.3,
+        "cook_pvi_dem": -15,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -18.7,
+        "rep_pct": 53.7,
         "dem_win": false,
-        "dem_win_margin": -15
+        "dem_pct": 35.0,
+        "cook_pvi_dem": -15,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -17.2,
+        "rep_pct": 46.6,
+        "dem_win": false,
+        "dem_pct": 29.4,
+        "cook_pvi_dem": -15,
+        "year": "1992"
       }
     ]
   },
@@ -976,34 +1651,59 @@
     "slug": "nevada",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 45.5,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_win_margin": 2.4,
+        "dem_pct": 47.9
       },
       {
-        "year": "2008",
+        "dem_win_margin": 6.7,
+        "rep_pct": 45.7,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 52.4,
+        "cook_pvi_dem": 1,
+        "year": "2012"
       },
       {
-        "year": "2004",
-        "dem_win": false,
-        "dem_win_margin": 0
+        "dem_win_margin": 12.4,
+        "rep_pct": 42.7,
+        "dem_win": true,
+        "dem_pct": 55.1,
+        "cook_pvi_dem": 3,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -2.6,
+        "rep_pct": 50.5,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 47.9,
+        "cook_pvi_dem": 0,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -3.5,
+        "rep_pct": 49.5,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 46.0,
+        "cook_pvi_dem": -2,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 1.0,
+        "rep_pct": 42.9,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 43.9,
+        "cook_pvi_dem": -4,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 2.7,
+        "rep_pct": 34.7,
+        "dem_win": false,
+        "dem_pct": 37.4,
+        "cook_pvi_dem": -2,
+        "year": "1992"
       }
     ]
   },
@@ -1012,34 +1712,59 @@
     "slug": "new-hampshire",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 47.2,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_win_margin": 0.4,
+        "dem_pct": 47.6
       },
       {
-        "year": "2008",
+        "dem_win_margin": 5.6,
+        "rep_pct": 46.4,
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_pct": 52.0,
+        "cook_pvi_dem": 1,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 9.6,
+        "rep_pct": 44.5,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 54.1,
+        "cook_pvi_dem": 1,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 1.3,
+        "rep_pct": 48.9,
+        "dem_win": true,
+        "dem_pct": 50.2,
+        "cook_pvi_dem": 2,
+        "year": "2004"
+      },
+      {
+        "dem_win_margin": -1.3,
+        "rep_pct": 48.1,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 46.8,
+        "cook_pvi_dem": -1,
+        "year": "2000"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 9.9,
+        "rep_pct": 39.4,
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_pct": 49.3,
+        "cook_pvi_dem": 1,
+        "year": "1996"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 1.3,
+        "rep_pct": 37.6,
         "dem_win": false,
-        "dem_win_margin": -3
+        "dem_pct": 38.9,
+        "cook_pvi_dem": -3,
+        "year": "1992"
       }
     ]
   },
@@ -1048,34 +1773,59 @@
     "slug": "new-jersey",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 41.8,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 7
+        "dem_win_margin": 13.2,
+        "dem_pct": 55.0
       },
       {
-        "year": "2008",
+        "dem_win_margin": 17.7,
+        "rep_pct": 40.5,
         "dem_win": true,
-        "dem_win_margin": 4
+        "dem_pct": 58.2,
+        "cook_pvi_dem": 7,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 15.5,
+        "rep_pct": 41.6,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 57.1,
+        "cook_pvi_dem": 4,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 6.7,
+        "rep_pct": 46.2,
         "dem_win": true,
-        "dem_win_margin": 8
+        "dem_pct": 52.9,
+        "cook_pvi_dem": 5,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 15.8,
+        "rep_pct": 40.3,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 56.1,
+        "cook_pvi_dem": 8,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 17.8,
+        "rep_pct": 35.9,
+        "dem_win": true,
+        "dem_pct": 53.7,
+        "cook_pvi_dem": 5,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 2.4,
+        "rep_pct": 40.6,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 43.0,
+        "cook_pvi_dem": -2,
+        "year": "1992"
       }
     ]
   },
@@ -1084,34 +1834,59 @@
     "slug": "new-mexico",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 40.0,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_win_margin": 8.3,
+        "dem_pct": 48.3
       },
       {
-        "year": "2008",
+        "dem_win_margin": 10.2,
+        "rep_pct": 42.8,
         "dem_win": true,
-        "dem_win_margin": 4
+        "dem_pct": 53.0,
+        "cook_pvi_dem": 3,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 15.1,
+        "rep_pct": 41.8,
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_pct": 56.9,
+        "cook_pvi_dem": 4,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -0.8,
+        "rep_pct": 49.8,
+        "dem_win": true,
+        "dem_pct": 49.0,
+        "cook_pvi_dem": 1,
+        "year": "2004"
+      },
+      {
+        "dem_win_margin": 0.1,
+        "rep_pct": 47.8,
         "dem_win": false,
-        "dem_win_margin": 0
+        "dem_pct": 47.9,
+        "cook_pvi_dem": 0,
+        "year": "2000"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 7.3,
+        "rep_pct": 41.9,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 49.2,
+        "cook_pvi_dem": -1,
+        "year": "1996"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 8.6,
+        "rep_pct": 37.3,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 45.9,
+        "cook_pvi_dem": 2,
+        "year": "1992"
       }
     ]
   },
@@ -1120,34 +1895,59 @@
     "slug": "new-york",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 37.5,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 12
+        "dem_win_margin": 21.3,
+        "dem_pct": 58.8
       },
       {
-        "year": "2008",
+        "dem_win_margin": 28.1,
+        "rep_pct": 35.2,
         "dem_win": true,
-        "dem_win_margin": 10
+        "dem_pct": 63.3,
+        "cook_pvi_dem": 12,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 26.9,
+        "rep_pct": 36.0,
         "dem_win": true,
-        "dem_win_margin": 11
+        "dem_pct": 62.9,
+        "cook_pvi_dem": 10,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 18.3,
+        "rep_pct": 40.1,
         "dem_win": true,
-        "dem_win_margin": 13
+        "dem_pct": 58.4,
+        "cook_pvi_dem": 11,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 25.0,
+        "rep_pct": 35.2,
         "dem_win": true,
-        "dem_win_margin": 11
+        "dem_pct": 60.2,
+        "cook_pvi_dem": 13,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 28.9,
+        "rep_pct": 30.6,
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_pct": 59.5,
+        "cook_pvi_dem": 11,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 15.8,
+        "rep_pct": 33.9,
+        "dem_win": true,
+        "dem_pct": 49.7,
+        "cook_pvi_dem": 6,
+        "year": "1992"
       }
     ]
   },
@@ -1156,34 +1956,59 @@
     "slug": "north-carolina",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 50.5,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -3
+        "dem_win_margin": -3.8,
+        "dem_pct": 46.7
       },
       {
-        "year": "2008",
+        "dem_win_margin": -2.0,
+        "rep_pct": 50.4,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 48.4,
+        "cook_pvi_dem": -3,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 0.3,
+        "rep_pct": 49.4,
         "dem_win": false,
-        "dem_win_margin": -5
+        "dem_pct": 49.7,
+        "cook_pvi_dem": -4,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -12.4,
+        "rep_pct": 56.0,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 43.6,
+        "cook_pvi_dem": -5,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -12.8,
+        "rep_pct": 56.0,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 43.2,
+        "cook_pvi_dem": -7,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -4.7,
+        "rep_pct": 48.7,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 44.0,
+        "cook_pvi_dem": -7,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -0.7,
+        "rep_pct": 43.4,
+        "dem_win": false,
+        "dem_pct": 42.7,
+        "cook_pvi_dem": -4,
+        "year": "1992"
       }
     ]
   },
@@ -1192,34 +2017,59 @@
     "slug": "north-dakota",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 64.1,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -12
+        "dem_win_margin": -36.3,
+        "dem_pct": 27.8
       },
       {
-        "year": "2008",
+        "dem_win_margin": -19.6,
+        "rep_pct": 58.3,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 38.7,
+        "cook_pvi_dem": -12,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -8.7,
+        "rep_pct": 53.2,
         "dem_win": false,
-        "dem_win_margin": -13
+        "dem_pct": 44.5,
+        "cook_pvi_dem": -8,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -27.4,
+        "rep_pct": 62.9,
         "dem_win": false,
-        "dem_win_margin": -15
+        "dem_pct": 35.5,
+        "cook_pvi_dem": -13,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -27.6,
+        "rep_pct": 60.7,
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_pct": 33.1,
+        "cook_pvi_dem": -15,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -6.8,
+        "rep_pct": 46.9,
         "dem_win": false,
-        "dem_win_margin": -11
+        "dem_pct": 40.1,
+        "cook_pvi_dem": -9,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -12.0,
+        "rep_pct": 44.2,
+        "dem_win": false,
+        "dem_pct": 32.2,
+        "cook_pvi_dem": -11,
+        "year": "1992"
       }
     ]
   },
@@ -1228,34 +2078,59 @@
     "slug": "ohio",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 52.1,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": 0
+        "dem_win_margin": -8.6,
+        "dem_pct": 43.5
       },
       {
-        "year": "2008",
+        "dem_win_margin": 3.0,
+        "rep_pct": 47.6,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 50.6,
+        "cook_pvi_dem": 0,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 4.6,
+        "rep_pct": 46.8,
+        "dem_win": false,
+        "dem_pct": 51.4,
+        "cook_pvi_dem": -1,
+        "year": "2008"
+      },
+      {
+        "dem_win_margin": -2.1,
+        "rep_pct": 50.8,
         "dem_win": true,
-        "dem_win_margin": 0
+        "dem_pct": 48.7,
+        "cook_pvi_dem": 0,
+        "year": "2004"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -3.5,
+        "rep_pct": 50.0,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 46.5,
+        "cook_pvi_dem": -2,
+        "year": "2000"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 6.4,
+        "rep_pct": 41.0,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 47.4,
+        "cook_pvi_dem": -1,
+        "year": "1996"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 1.9,
+        "rep_pct": 38.3,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 40.2,
+        "cook_pvi_dem": -2,
+        "year": "1992"
       }
     ]
   },
@@ -1264,34 +2139,59 @@
     "slug": "oklahoma",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 65.3,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -19
+        "dem_win_margin": -36.4,
+        "dem_pct": 28.9
       },
       {
-        "year": "2008",
+        "dem_win_margin": -33.6,
+        "rep_pct": 66.8,
         "dem_win": false,
-        "dem_win_margin": -19
+        "dem_pct": 33.2,
+        "cook_pvi_dem": -19,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -31.2,
+        "rep_pct": 65.6,
         "dem_win": false,
-        "dem_win_margin": -14
+        "dem_pct": 34.4,
+        "cook_pvi_dem": -19,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -31.2,
+        "rep_pct": 65.6,
         "dem_win": false,
-        "dem_win_margin": -11
+        "dem_pct": 34.4,
+        "cook_pvi_dem": -14,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -21.9,
+        "rep_pct": 60.3,
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_pct": 38.4,
+        "cook_pvi_dem": -11,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -7.9,
+        "rep_pct": 48.3,
         "dem_win": false,
-        "dem_win_margin": -9
+        "dem_pct": 40.4,
+        "cook_pvi_dem": -9,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -8.6,
+        "rep_pct": 42.6,
+        "dem_win": false,
+        "dem_pct": 34.0,
+        "cook_pvi_dem": -9,
+        "year": "1992"
       }
     ]
   },
@@ -1300,34 +2200,59 @@
     "slug": "oregon",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 41.1,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 4
+        "dem_win_margin": 10.6,
+        "dem_pct": 51.7
       },
       {
-        "year": "2008",
+        "dem_win_margin": 12.1,
+        "rep_pct": 42.1,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 54.2,
+        "cook_pvi_dem": 4,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 16.3,
+        "rep_pct": 40.4,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 56.7,
+        "cook_pvi_dem": 5,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 4.1,
+        "rep_pct": 47.2,
+        "dem_win": true,
+        "dem_pct": 51.3,
+        "cook_pvi_dem": 3,
+        "year": "2004"
+      },
+      {
+        "dem_win_margin": 0.5,
+        "rep_pct": 46.5,
         "dem_win": false,
-        "dem_win_margin": 0
+        "dem_pct": 47.0,
+        "cook_pvi_dem": 0,
+        "year": "2000"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 8.1,
+        "rep_pct": 39.1,
         "dem_win": false,
-        "dem_win_margin": 0
+        "dem_pct": 47.2,
+        "cook_pvi_dem": 0,
+        "year": "1996"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 10.0,
+        "rep_pct": 32.5,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 42.5,
+        "cook_pvi_dem": 3,
+        "year": "1992"
       }
     ]
   },
@@ -1336,34 +2261,59 @@
     "slug": "pennsylvania",
     "history": [
       {
-        "year": "2012",
-        "dem_win": true,
-        "dem_win_margin": 1
+        "rep_pct": 48.8,
+        "year": "2016",
+        "dem_win": false,
+        "dem_win_margin": -1.2,
+        "dem_pct": 47.6
       },
       {
-        "year": "2008",
+        "dem_win_margin": 5.4,
+        "rep_pct": 46.6,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 52.0,
+        "cook_pvi_dem": 1,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 10.3,
+        "rep_pct": 44.2,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 54.5,
+        "cook_pvi_dem": 2,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 2.5,
+        "rep_pct": 48.4,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 50.9,
+        "cook_pvi_dem": 3,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 4.2,
+        "rep_pct": 46.4,
         "dem_win": true,
-        "dem_win_margin": 0
+        "dem_pct": 50.6,
+        "cook_pvi_dem": 2,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 9.2,
+        "rep_pct": 40.0,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 49.2,
+        "cook_pvi_dem": 0,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 9.0,
+        "rep_pct": 36.1,
+        "dem_win": true,
+        "dem_pct": 45.1,
+        "cook_pvi_dem": 2,
+        "year": "1992"
       }
     ]
   },
@@ -1372,34 +2322,59 @@
     "slug": "rhode-island",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 39.8,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 12
+        "dem_win_margin": 15.6,
+        "dem_pct": 55.4
       },
       {
-        "year": "2008",
+        "dem_win_margin": 27.5,
+        "rep_pct": 35.2,
         "dem_win": true,
-        "dem_win_margin": 11
+        "dem_pct": 62.7,
+        "cook_pvi_dem": 12,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 27.8,
+        "rep_pct": 35.1,
         "dem_win": true,
-        "dem_win_margin": 12
+        "dem_pct": 62.9,
+        "cook_pvi_dem": 11,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 20.7,
+        "rep_pct": 38.7,
         "dem_win": true,
-        "dem_win_margin": 15
+        "dem_pct": 59.4,
+        "cook_pvi_dem": 12,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 29.1,
+        "rep_pct": 31.9,
         "dem_win": true,
-        "dem_win_margin": 14
+        "dem_pct": 61.0,
+        "cook_pvi_dem": 15,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 32.9,
+        "rep_pct": 26.8,
         "dem_win": true,
-        "dem_win_margin": 8
+        "dem_pct": 59.7,
+        "cook_pvi_dem": 14,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 18.0,
+        "rep_pct": 29.0,
+        "dem_win": true,
+        "dem_pct": 47.0,
+        "cook_pvi_dem": 8,
+        "year": "1992"
       }
     ]
   },
@@ -1408,34 +2383,59 @@
     "slug": "south-carolina",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 54.9,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_win_margin": -14.1,
+        "dem_pct": 40.8
       },
       {
-        "year": "2008",
+        "dem_win_margin": -10.5,
+        "rep_pct": 54.6,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 44.1,
+        "cook_pvi_dem": -7,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -9.0,
+        "rep_pct": 53.9,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 44.9,
+        "cook_pvi_dem": -8,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -17.1,
+        "rep_pct": 58.0,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 40.9,
+        "cook_pvi_dem": -7,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -15.9,
+        "rep_pct": 56.8,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 40.9,
+        "cook_pvi_dem": -8,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -6.0,
+        "rep_pct": 49.9,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 43.9,
+        "cook_pvi_dem": -8,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -8.1,
+        "rep_pct": 48.0,
+        "dem_win": false,
+        "dem_pct": 39.9,
+        "cook_pvi_dem": -8,
+        "year": "1992"
       }
     ]
   },
@@ -1444,34 +2444,59 @@
     "slug": "south-dakota",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 61.5,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -11
+        "dem_win_margin": -29.8,
+        "dem_pct": 31.7
       },
       {
-        "year": "2008",
+        "dem_win_margin": -18.0,
+        "rep_pct": 57.9,
         "dem_win": false,
-        "dem_win_margin": -8
+        "dem_pct": 39.9,
+        "cook_pvi_dem": -11,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -8.5,
+        "rep_pct": 53.2,
         "dem_win": false,
-        "dem_win_margin": -10
+        "dem_pct": 44.7,
+        "cook_pvi_dem": -8,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -21.5,
+        "rep_pct": 59.9,
         "dem_win": false,
-        "dem_win_margin": -12
+        "dem_pct": 38.4,
+        "cook_pvi_dem": -10,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -22.7,
+        "rep_pct": 60.3,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 37.6,
+        "cook_pvi_dem": -12,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -3.5,
+        "rep_pct": 46.5,
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_pct": 43.0,
+        "cook_pvi_dem": -7,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -3.6,
+        "rep_pct": 40.7,
+        "dem_win": false,
+        "dem_pct": 37.1,
+        "cook_pvi_dem": -6,
+        "year": "1992"
       }
     ]
   },
@@ -1480,34 +2505,59 @@
     "slug": "tennessee",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 61.1,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -12
+        "dem_win_margin": -26.2,
+        "dem_pct": 34.9
       },
       {
-        "year": "2008",
+        "dem_win_margin": -20.4,
+        "rep_pct": 59.4,
         "dem_win": false,
-        "dem_win_margin": -11
+        "dem_pct": 39.0,
+        "cook_pvi_dem": -12,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -15.0,
+        "rep_pct": 56.8,
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_pct": 41.8,
+        "cook_pvi_dem": -11,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -14.3,
+        "rep_pct": 56.8,
         "dem_win": false,
-        "dem_win_margin": -2
+        "dem_pct": 42.5,
+        "cook_pvi_dem": -6,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -3.8,
+        "rep_pct": 51.1,
         "dem_win": false,
-        "dem_win_margin": -3
+        "dem_pct": 47.3,
+        "cook_pvi_dem": -2,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 2.4,
+        "rep_pct": 45.6,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 48.0,
+        "cook_pvi_dem": -3,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 4.7,
+        "rep_pct": 42.4,
+        "dem_win": false,
+        "dem_pct": 47.1,
+        "cook_pvi_dem": -1,
+        "year": "1992"
       }
     ]
   },
@@ -1516,34 +2566,59 @@
     "slug": "texas",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 52.6,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -10
+        "dem_win_margin": -9.2,
+        "dem_pct": 43.4
       },
       {
-        "year": "2008",
+        "dem_win_margin": -15.7,
+        "rep_pct": 57.1,
         "dem_win": false,
-        "dem_win_margin": -10
+        "dem_pct": 41.4,
+        "cook_pvi_dem": -10,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -11.8,
+        "rep_pct": 55.4,
         "dem_win": false,
-        "dem_win_margin": -10
+        "dem_pct": 43.6,
+        "cook_pvi_dem": -10,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -22.9,
+        "rep_pct": 61.1,
         "dem_win": false,
-        "dem_win_margin": -11
+        "dem_pct": 38.2,
+        "cook_pvi_dem": -10,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -21.3,
+        "rep_pct": 59.3,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 38.0,
+        "cook_pvi_dem": -11,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -5.0,
+        "rep_pct": 48.8,
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_pct": 43.8,
+        "cook_pvi_dem": -7,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -3.5,
+        "rep_pct": 40.6,
+        "dem_win": false,
+        "dem_pct": 37.1,
+        "cook_pvi_dem": -6,
+        "year": "1992"
       }
     ]
   },
@@ -1552,34 +2627,59 @@
     "slug": "utah",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 45.9,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -27
+        "dem_win_margin": -18.1,
+        "dem_pct": 27.8
       },
       {
-        "year": "2008",
+        "dem_win_margin": -47.8,
+        "rep_pct": 72.5,
         "dem_win": false,
-        "dem_win_margin": -18
+        "dem_pct": 24.7,
+        "cook_pvi_dem": -27,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -28.0,
+        "rep_pct": 62.2,
         "dem_win": false,
-        "dem_win_margin": -22
+        "dem_pct": 34.2,
+        "cook_pvi_dem": -18,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -45.5,
+        "rep_pct": 71.5,
         "dem_win": false,
-        "dem_win_margin": -22
+        "dem_pct": 26.0,
+        "cook_pvi_dem": -22,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -40.5,
+        "rep_pct": 66.8,
         "dem_win": false,
-        "dem_win_margin": -17
+        "dem_pct": 26.3,
+        "cook_pvi_dem": -22,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -21.1,
+        "rep_pct": 54.4,
         "dem_win": false,
-        "dem_win_margin": -17
+        "dem_pct": 33.3,
+        "cook_pvi_dem": -17,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -18.7,
+        "rep_pct": 43.4,
+        "dem_win": false,
+        "dem_pct": 24.7,
+        "cook_pvi_dem": -17,
+        "year": "1992"
       }
     ]
   },
@@ -1588,34 +2688,59 @@
     "slug": "vermont",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 32.6,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 16
+        "dem_win_margin": 28.5,
+        "dem_pct": 61.1
       },
       {
-        "year": "2008",
+        "dem_win_margin": 35.6,
+        "rep_pct": 31.0,
         "dem_win": true,
-        "dem_win_margin": 15
+        "dem_pct": 66.6,
+        "cook_pvi_dem": 16,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 37.1,
+        "rep_pct": 30.4,
         "dem_win": true,
-        "dem_win_margin": 12
+        "dem_pct": 67.5,
+        "cook_pvi_dem": 15,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 20.1,
+        "rep_pct": 38.8,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 58.9,
+        "cook_pvi_dem": 12,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 9.9,
+        "rep_pct": 40.7,
         "dem_win": true,
-        "dem_win_margin": 8
+        "dem_pct": 50.6,
+        "cook_pvi_dem": 5,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 22.3,
+        "rep_pct": 31.1,
         "dem_win": true,
-        "dem_win_margin": 7
+        "dem_pct": 53.4,
+        "cook_pvi_dem": 8,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 15.7,
+        "rep_pct": 30.4,
+        "dem_win": true,
+        "dem_pct": 46.1,
+        "cook_pvi_dem": 7,
+        "year": "1992"
       }
     ]
   },
@@ -1624,34 +2749,59 @@
     "slug": "virginia",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 45.0,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 0
+        "dem_win_margin": 4.9,
+        "dem_pct": 49.9
       },
       {
-        "year": "2008",
-        "dem_win": false,
-        "dem_win_margin": -1
+        "dem_win_margin": 3.9,
+        "rep_pct": 47.3,
+        "dem_win": true,
+        "dem_pct": 51.2,
+        "cook_pvi_dem": 0,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 6.3,
+        "rep_pct": 46.3,
         "dem_win": false,
-        "dem_win_margin": -3
+        "dem_pct": 52.6,
+        "cook_pvi_dem": -1,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -8.2,
+        "rep_pct": 53.7,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 45.5,
+        "cook_pvi_dem": -3,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -8.1,
+        "rep_pct": 52.5,
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_pct": 44.4,
+        "cook_pvi_dem": -4,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -2.0,
+        "rep_pct": 47.1,
         "dem_win": false,
-        "dem_win_margin": -6
+        "dem_pct": 45.1,
+        "cook_pvi_dem": -6,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -4.4,
+        "rep_pct": 45.0,
+        "dem_win": false,
+        "dem_pct": 40.6,
+        "cook_pvi_dem": -6,
+        "year": "1992"
       }
     ]
   },
@@ -1660,34 +2810,59 @@
     "slug": "washington",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 38.2,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 6
+        "dem_win_margin": 16.2,
+        "dem_pct": 54.4
       },
       {
-        "year": "2008",
+        "dem_win_margin": 14.8,
+        "rep_pct": 41.0,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 55.8,
+        "cook_pvi_dem": 6,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 17.0,
+        "rep_pct": 40.3,
         "dem_win": true,
-        "dem_win_margin": 5
+        "dem_pct": 57.3,
+        "cook_pvi_dem": 5,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 7.2,
+        "rep_pct": 45.6,
         "dem_win": true,
-        "dem_win_margin": 3
+        "dem_pct": 52.8,
+        "cook_pvi_dem": 5,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 5.5,
+        "rep_pct": 44.6,
         "dem_win": true,
-        "dem_win_margin": 2
+        "dem_pct": 50.1,
+        "cook_pvi_dem": 3,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 12.5,
+        "rep_pct": 37.3,
         "dem_win": true,
-        "dem_win_margin": 4
+        "dem_pct": 49.8,
+        "cook_pvi_dem": 2,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 11.4,
+        "rep_pct": 32.0,
+        "dem_win": true,
+        "dem_pct": 43.4,
+        "cook_pvi_dem": 4,
+        "year": "1992"
       }
     ]
   },
@@ -1696,34 +2871,59 @@
     "slug": "west-virginia",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 68.7,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -16
+        "dem_win_margin": -42.2,
+        "dem_pct": 26.5
       },
       {
-        "year": "2008",
+        "dem_win_margin": -26.6,
+        "rep_pct": 62.1,
         "dem_win": false,
-        "dem_win_margin": -10
+        "dem_pct": 35.5,
+        "cook_pvi_dem": -16,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -13.1,
+        "rep_pct": 55.6,
         "dem_win": false,
-        "dem_win_margin": -5
+        "dem_pct": 42.5,
+        "cook_pvi_dem": -10,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -12.9,
+        "rep_pct": 56.1,
         "dem_win": false,
-        "dem_win_margin": -4
+        "dem_pct": 43.2,
+        "cook_pvi_dem": -5,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -6.3,
+        "rep_pct": 51.9,
+        "dem_win": false,
+        "dem_pct": 45.6,
+        "cook_pvi_dem": -4,
+        "year": "2000"
+      },
+      {
+        "dem_win_margin": 14.7,
+        "rep_pct": 36.8,
         "dem_win": true,
-        "dem_win_margin": 4
+        "dem_pct": 51.5,
+        "cook_pvi_dem": 4,
+        "year": "1996"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 13.0,
+        "rep_pct": 35.4,
         "dem_win": true,
-        "dem_win_margin": 4
+        "dem_pct": 48.4,
+        "cook_pvi_dem": 4,
+        "year": "1992"
       }
     ]
   },
@@ -1732,34 +2932,59 @@
     "slug": "wisconsin",
     "history": [
       {
-        "year": "2012",
-        "dem_win": true,
-        "dem_win_margin": 2
-      },
-      {
-        "year": "2008",
-        "dem_win": true,
-        "dem_win_margin": 3
-      },
-      {
-        "year": "2004",
-        "dem_win": true,
-        "dem_win_margin": 1
-      },
-      {
-        "year": "2000",
+        "rep_pct": 47.9,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": 0
+        "dem_win_margin": -1.0,
+        "dem_pct": 46.9
       },
       {
-        "year": "1996",
+        "dem_win_margin": 6.9,
+        "rep_pct": 45.9,
         "dem_win": true,
-        "dem_win_margin": 1
+        "dem_pct": 52.8,
+        "cook_pvi_dem": 2,
+        "year": "2012"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 13.9,
+        "rep_pct": 42.3,
+        "dem_win": true,
+        "dem_pct": 56.2,
+        "cook_pvi_dem": 3,
+        "year": "2008"
+      },
+      {
+        "dem_win_margin": 0.4,
+        "rep_pct": 49.3,
+        "dem_win": true,
+        "dem_pct": 49.7,
+        "cook_pvi_dem": 1,
+        "year": "2004"
+      },
+      {
+        "dem_win_margin": 0.2,
+        "rep_pct": 47.6,
         "dem_win": false,
-        "dem_win_margin": -1
+        "dem_pct": 47.8,
+        "cook_pvi_dem": 0,
+        "year": "2000"
+      },
+      {
+        "dem_win_margin": 10.3,
+        "rep_pct": 38.5,
+        "dem_win": true,
+        "dem_pct": 48.8,
+        "cook_pvi_dem": 1,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 4.3,
+        "rep_pct": 36.8,
+        "dem_win": false,
+        "dem_pct": 41.1,
+        "cook_pvi_dem": -1,
+        "year": "1992"
       }
     ]
   },
@@ -1768,34 +2993,59 @@
     "slug": "wyoming",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 70.1,
+        "year": "2016",
         "dem_win": false,
-        "dem_win_margin": -23
+        "dem_win_margin": -47.6,
+        "dem_pct": 22.5
       },
       {
-        "year": "2008",
+        "dem_win_margin": -40.8,
+        "rep_pct": 68.6,
         "dem_win": false,
-        "dem_win_margin": -20
+        "dem_pct": 27.8,
+        "cook_pvi_dem": -23,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": -32.3,
+        "rep_pct": 64.8,
         "dem_win": false,
-        "dem_win_margin": -19
+        "dem_pct": 32.5,
+        "cook_pvi_dem": -20,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": -39.8,
+        "rep_pct": 68.9,
         "dem_win": false,
-        "dem_win_margin": -21
+        "dem_pct": 29.1,
+        "cook_pvi_dem": -19,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": -40.1,
+        "rep_pct": 67.8,
         "dem_win": false,
-        "dem_win_margin": -12
+        "dem_pct": 27.7,
+        "cook_pvi_dem": -21,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": -13.0,
+        "rep_pct": 49.8,
         "dem_win": false,
-        "dem_win_margin": -7
+        "dem_pct": 36.8,
+        "cook_pvi_dem": -12,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": -5.5,
+        "rep_pct": 39.5,
+        "dem_win": false,
+        "dem_pct": 34.0,
+        "cook_pvi_dem": -7,
+        "year": "1992"
       }
     ]
   },
@@ -1804,34 +3054,59 @@
     "slug": "washington-dc",
     "history": [
       {
-        "year": "2012",
+        "rep_pct": 4.1,
+        "year": "2016",
         "dem_win": true,
-        "dem_win_margin": 41
+        "dem_win_margin": 88.7,
+        "dem_pct": 92.8
       },
       {
-        "year": "2008",
+        "dem_win_margin": 83.6,
+        "rep_pct": 7.3,
         "dem_win": true,
-        "dem_win_margin": 40
+        "dem_pct": 90.9,
+        "cook_pvi_dem": 41,
+        "year": "2012"
       },
       {
-        "year": "2004",
+        "dem_win_margin": 86.0,
+        "rep_pct": 6.5,
         "dem_win": true,
-        "dem_win_margin": 42
+        "dem_pct": 92.5,
+        "cook_pvi_dem": 40,
+        "year": "2008"
       },
       {
-        "year": "2000",
+        "dem_win_margin": 79.9,
+        "rep_pct": 9.3,
         "dem_win": true,
-        "dem_win_margin": 40
+        "dem_pct": 89.2,
+        "cook_pvi_dem": 42,
+        "year": "2004"
       },
       {
-        "year": "1996",
+        "dem_win_margin": 76.2,
+        "rep_pct": 9.0,
         "dem_win": true,
-        "dem_win_margin": 35
+        "dem_pct": 85.2,
+        "cook_pvi_dem": 40,
+        "year": "2000"
       },
       {
-        "year": "1992",
+        "dem_win_margin": 75.9,
+        "rep_pct": 9.3,
         "dem_win": true,
-        "dem_win_margin": 37
+        "dem_pct": 85.2,
+        "cook_pvi_dem": 35,
+        "year": "1996"
+      },
+      {
+        "dem_win_margin": 75.5,
+        "rep_pct": 9.1,
+        "dem_win": true,
+        "dem_pct": 84.6,
+        "cook_pvi_dem": 37,
+        "year": "1992"
       }
     ]
   }
