@@ -27,10 +27,20 @@ statePicker.change(() => {
     {easing: config.scroll.easing})
 })
 
+function isSwingy (margin) {
+  return Math.abs(margin) <= config.isSwingyBelowPercent
+}
+
+function flipLikelihood (swinginess) {
+  if (swinginess >= config.swinginess.high) return 'high'
+  else if (swinginess >= config.swinginess.moderate) return 'moderate'
+  else return 'low'
+}
+
 function swinginess (state) {
   return state.history
     .map((data) => data.dem_win_margin)
-    .filter((margin) => Math.abs(margin) <= config.swinginessMargin)
+    .filter(isSwingy)
     .length
 }
 
@@ -38,8 +48,9 @@ function process (electionData) {
   electionData.forEach(state => {
     state.swinginess = swinginess(state)
     state.history.forEach(year => {
-      year.close = Math.abs(year.dem_win_margin) <= config.swinginessMargin
+      year.close = isSwingy(year.dem_win_margin)
     })
+    state.flipLikelihood = flipLikelihood(state.swinginess)
   })
   return electionData
 }

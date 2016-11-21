@@ -13,6 +13,7 @@
         .col-xs-12
           h1= state.name
           p Swinginess: #{state.swinginess}
+          p Flip likelihood: #{state.flipLikelihood}
           each row in state.history
             .row(class=row.close ? 'close-race' : '')
               .col-sm-4
