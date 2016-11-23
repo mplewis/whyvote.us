@@ -1,14 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:100,400,700,900');
+
 body {
   margin-top: 80px;
   margin-bottom: 80px;
 }
 
-#states {
-  display: none;
+p, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Libre Franklin', sans-serif;
 }
 
-.close-race {
-  background: rgba(255, 255, 0, 0.2);
+p {
+  font-size: 16px;
+}
+
+p, h1 {
+  margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+#states {
+  display: none;
 }
 
 .state {
@@ -16,6 +30,47 @@ body {
   margin-bottom: 80px;
 }
 
-.picker, .state .name {
+.state .name {
   text-align: center;
+}
+
+.state .name h1 {
+  font-weight: 400;
+}
+
+.picker {
+  text-align: center;
+}
+
+.chosen-container {
+	text-align: left;
+}
+
+.results {
+  display: flex;
+  justify-content: space-between;
+}
+
+.result {
+  text-align: center;
+}
+
+.result .year {
+  margin-bottom: 0;
+}
+
+.result.close-race {
+  font-weight: 900;
+}
+
+.result.not-close-race {
+  font-weight: 100;
+}
+
+.result .margin.rep {
+  color: #c0392b;
+}
+
+.result .margin.dem {
+  color: #2980b9;
 }

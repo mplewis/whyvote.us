@@ -19,7 +19,11 @@ function title (str) {
 function process (history) {
   history.forEach(row => {
     row.win_margin = sprintf('%.1f%%', Math.abs(row.dem_win_margin) * 100)
-    console.log(row)
+
+    let winKey = 'R'
+    if (row.dem_win) winKey = 'D'
+    const winPts = Math.abs(Math.round(row.dem_win_margin * 100))
+    row.winner_margin_text = `${winKey} +${winPts}`
   })
   return history
 }
