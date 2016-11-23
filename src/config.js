@@ -1,5 +1,5 @@
 const config = {
-  isSwingyBelowPercent: 10,
+  isSwingyBelowPercent: 0.10,
   swinginess: {
     moderate: 2,
     high: 5

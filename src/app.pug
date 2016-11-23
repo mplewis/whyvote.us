@@ -17,7 +17,7 @@
           h1= s.headline
           p
             strong= s.electionsClose
-            |  of seven recent presidential elections
+            |  of #{s.electionsTotal} recent presidential elections
             = ' ' + s.havePlural + ' '
             | been close (±10%):
 
@@ -28,7 +28,7 @@
               .col-sm-4
                 p Dem win: #{row.dem_win}
               .col-sm-4
-                p Margin: #{row.dem_win_margin}
+                p Margin: #{row.win_margin}
 
           p The odds of #{s.name} flipping are
             strong= ' ' + s.flipLikelihood + '. '

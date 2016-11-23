@@ -35,6 +35,7 @@
     "bootstrap": "^3.3.7",
     "jquery": "^3.1.1",
     "jquery.easing": "^1.4.1",
-    "jquery.scrollto": "^2.1.2"
+    "jquery.scrollto": "^2.1.2",
+    "sprintf-js": "^1.0.3"
   }
 }

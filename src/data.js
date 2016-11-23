@@ -1,6 +1,19 @@
 import config from './config'
 import electionData from './data/election_data.json'
 
+function addMargins (states) {
+  states.forEach(state => {
+    state.history.forEach(row => {
+      row.dem_pct = row.dem_votes / row.total_votes
+      row.rep_pct = row.rep_votes / row.total_votes
+      row.dem_win = row.dem_votes > row.rep_votes
+      row.dem_win_margin = row.dem_pct - row.rep_pct
+    })
+    state.history.sort((a, b) => parseInt(a.year) - parseInt(b.year))
+  })
+  return states
+}
+
 function isSwingy (margin) {
   return Math.abs(margin) <= config.isSwingyBelowPercent
 }
@@ -19,7 +32,7 @@ function swinginess (state) {
 }
 
 function process (electionData) {
-  electionData.forEach(state => {
+  addMargins(electionData).forEach(state => {
     state.swinginess = swinginess(state)
     state.history.forEach(year => {
       year.close = isSwingy(year.dem_win_margin)

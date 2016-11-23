@@ -1,3 +1,5 @@
+import {sprintf} from 'sprintf-js'
+
 import messages from './messages'
 
 const numberText = [
@@ -12,6 +14,14 @@ function choice (arr) {
 // http://stackoverflow.com/a/1026087
 function title (str) {
   return str.charAt(0).toUpperCase() + str.slice(1)
+}
+
+function process (history) {
+  history.forEach(row => {
+    row.win_margin = sprintf('%.1f%%', Math.abs(row.dem_win_margin) * 100)
+    console.log(row)
+  })
+  return history
 }
 
 export function layout (electionData) {
@@ -32,7 +42,7 @@ export function layout (electionData) {
     data.havePlural = state.swinginess === 1 ? 'has' : 'have'
     data.electionsTotal = numberText[state.history.length]
 
-    data.elections = state.history  // TODO actually process this stuff
+    data.elections = process(state.history)
 
     return data
   })
