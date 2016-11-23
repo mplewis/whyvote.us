@@ -1,3113 +1,2144 @@
 [
   {
-    "name": "Alabama",
     "slug": "alabama",
     "history": [
       {
-        "rep_pct": 62.9,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -28.3,
-        "dem_pct": 34.6
+        "dem_votes": 690080,
+        "year": "1992",
+        "rep_votes": 804283,
+        "total_votes": 1688060
       },
       {
-        "dem_win_margin": -22.1,
-        "rep_pct": 60.5,
-        "dem_win": false,
-        "dem_pct": 38.4,
-        "cook_pvi_dem": -13,
-        "year": "2012"
+        "dem_votes": 795696,
+        "year": "2012",
+        "rep_votes": 1255925,
+        "total_votes": 2074338
       },
       {
-        "dem_win_margin": -21.6,
-        "rep_pct": 60.3,
-        "dem_win": false,
-        "dem_pct": 38.7,
-        "cook_pvi_dem": -15,
-        "year": "2008"
+        "dem_votes": 693933,
+        "year": "2004",
+        "rep_votes": 1176394,
+        "total_votes": 1883449
       },
       {
-        "dem_win_margin": -25.7,
-        "rep_pct": 62.5,
-        "dem_win": false,
-        "dem_pct": 36.8,
-        "cook_pvi_dem": -12,
-        "year": "2004"
+        "dem_votes": 662165,
+        "year": "1996",
+        "rep_votes": 769044,
+        "total_votes": 1534349
       },
       {
-        "dem_win_margin": -14.9,
-        "rep_pct": 56.5,
-        "dem_win": false,
-        "dem_pct": 41.6,
-        "cook_pvi_dem": -8,
-        "year": "2000"
+        "dem_votes": 813479,
+        "year": "2008",
+        "rep_votes": 1266546,
+        "total_votes": 2099819
       },
       {
-        "dem_win_margin": -6.9,
-        "rep_pct": 50.1,
-        "dem_win": false,
-        "dem_pct": 43.2,
-        "cook_pvi_dem": -8,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -6.7,
-        "rep_pct": 47.6,
-        "dem_win": false,
-        "dem_pct": 40.9,
-        "cook_pvi_dem": -7,
-        "year": "1992"
+        "dem_votes": 695602,
+        "year": "2000",
+        "rep_votes": 944409,
+        "total_votes": 1672551
       }
-    ]
+    ],
+    "name": "Alabama"
   },
   {
-    "name": "Alaska",
     "slug": "alaska",
     "history": [
       {
-        "rep_pct": 52.9,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -15.2,
-        "dem_pct": 37.7
+        "dem_votes": 78294,
+        "year": "1992",
+        "rep_votes": 102000,
+        "total_votes": 258506
       },
       {
-        "dem_win_margin": -14.0,
-        "rep_pct": 54.8,
-        "dem_win": false,
-        "dem_pct": 40.8,
-        "cook_pvi_dem": -9,
-        "year": "2012"
+        "dem_votes": 122640,
+        "year": "2012",
+        "rep_votes": 164676,
+        "total_votes": 300495
       },
       {
-        "dem_win_margin": -21.5,
-        "rep_pct": 59.4,
-        "dem_win": false,
-        "dem_pct": 37.9,
-        "cook_pvi_dem": -15,
-        "year": "2008"
+        "dem_votes": 111025,
+        "year": "2004",
+        "rep_votes": 190889,
+        "total_votes": 312598
       },
       {
-        "dem_win_margin": -25.6,
-        "rep_pct": 61.1,
-        "dem_win": false,
-        "dem_pct": 35.5,
-        "cook_pvi_dem": -12,
-        "year": "2004"
+        "dem_votes": 80380,
+        "year": "1996",
+        "rep_votes": 122746,
+        "total_votes": 241620
       },
       {
-        "dem_win_margin": -30.9,
-        "rep_pct": 58.6,
-        "dem_win": false,
-        "dem_pct": 27.7,
-        "cook_pvi_dem": -18,
-        "year": "2000"
+        "dem_votes": 123594,
+        "year": "2008",
+        "rep_votes": 193841,
+        "total_votes": 326197
       },
       {
-        "dem_win_margin": -17.5,
-        "rep_pct": 50.8,
-        "dem_win": false,
-        "dem_pct": 33.3,
-        "cook_pvi_dem": -15,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -9.2,
-        "rep_pct": 39.5,
-        "dem_win": false,
-        "dem_pct": 30.3,
-        "cook_pvi_dem": -10,
-        "year": "1992"
+        "dem_votes": 79004,
+        "year": "2000",
+        "rep_votes": 167398,
+        "total_votes": 285560
       }
-    ]
+    ],
+    "name": "Alaska"
   },
   {
-    "name": "Arizona",
     "slug": "arizona",
     "history": [
       {
-        "rep_pct": 49.5,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -4.1,
-        "dem_pct": 45.4
+        "dem_votes": 543050,
+        "year": "1992",
+        "rep_votes": 572086,
+        "total_votes": 1487006
       },
       {
-        "dem_win_margin": -9.1,
-        "rep_pct": 53.5,
-        "dem_win": false,
-        "dem_pct": 44.4,
-        "cook_pvi_dem": -7,
-        "year": "2012"
+        "dem_votes": 1025232,
+        "year": "2012",
+        "rep_votes": 1233654,
+        "total_votes": 2306559
       },
       {
-        "dem_win_margin": -8.5,
-        "rep_pct": 53.4,
-        "dem_win": false,
-        "dem_pct": 44.9,
-        "cook_pvi_dem": -8,
-        "year": "2008"
+        "dem_votes": 893524,
+        "year": "2004",
+        "rep_votes": 1104294,
+        "total_votes": 2016102
       },
       {
-        "dem_win_margin": -10.5,
-        "rep_pct": 54.8,
-        "dem_win": false,
-        "dem_pct": 44.3,
-        "cook_pvi_dem": -4,
-        "year": "2004"
+        "dem_votes": 653288,
+        "year": "1996",
+        "rep_votes": 622073,
+        "total_votes": 1404405
       },
       {
-        "dem_win_margin": -6.3,
-        "rep_pct": 51.0,
-        "dem_win": false,
-        "dem_pct": 44.7,
-        "cook_pvi_dem": -4,
-        "year": "2000"
+        "dem_votes": 1034707,
+        "year": "2008",
+        "rep_votes": 1230111,
+        "total_votes": 2303838
       },
       {
-        "dem_win_margin": 2.2,
-        "rep_pct": 44.3,
-        "dem_win": false,
-        "dem_pct": 46.5,
-        "cook_pvi_dem": -4,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -2.0,
-        "rep_pct": 38.5,
-        "dem_win": false,
-        "dem_pct": 36.5,
-        "cook_pvi_dem": -5,
-        "year": "1992"
+        "dem_votes": 685341,
+        "year": "2000",
+        "rep_votes": 781652,
+        "total_votes": 1534113
       }
-    ]
+    ],
+    "name": "Arizona"
   },
   {
-    "name": "Arkansas",
     "slug": "arkansas",
     "history": [
       {
-        "rep_pct": 60.4,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -26.6,
-        "dem_pct": 33.8
+        "dem_votes": 505823,
+        "year": "1992",
+        "rep_votes": 337324,
+        "total_votes": 950653
       },
       {
-        "dem_win_margin": -23.7,
-        "rep_pct": 60.6,
-        "dem_win": false,
-        "dem_pct": 36.9,
-        "cook_pvi_dem": -14,
-        "year": "2012"
+        "dem_votes": 394409,
+        "year": "2012",
+        "rep_votes": 647744,
+        "total_votes": 1069468
       },
       {
-        "dem_win_margin": -19.8,
-        "rep_pct": 58.7,
-        "dem_win": false,
-        "dem_pct": 38.9,
-        "cook_pvi_dem": -14,
-        "year": "2008"
+        "dem_votes": 469953,
+        "year": "2004",
+        "rep_votes": 572898,
+        "total_votes": 1054945
       },
       {
-        "dem_win_margin": -9.8,
-        "rep_pct": 54.3,
-        "dem_win": false,
-        "dem_pct": 44.5,
-        "cook_pvi_dem": -4,
-        "year": "2004"
+        "dem_votes": 475171,
+        "year": "1996",
+        "rep_votes": 325416,
+        "total_votes": 884262
       },
       {
-        "dem_win_margin": -5.4,
-        "rep_pct": 51.3,
-        "dem_win": false,
-        "dem_pct": 45.9,
-        "cook_pvi_dem": -3,
-        "year": "2000"
+        "dem_votes": 422310,
+        "year": "2008",
+        "rep_votes": 638017,
+        "total_votes": 1086617
       },
       {
-        "dem_win_margin": 16.9,
-        "rep_pct": 36.8,
-        "dem_win": true,
-        "dem_pct": 53.7,
-        "cook_pvi_dem": 5,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 17.7,
-        "rep_pct": 35.5,
-        "dem_win": true,
-        "dem_pct": 53.2,
-        "cook_pvi_dem": 7,
-        "year": "1992"
+        "dem_votes": 422768,
+        "year": "2000",
+        "rep_votes": 472940,
+        "total_votes": 921781
       }
-    ]
+    ],
+    "name": "Arkansas"
   },
   {
-    "name": "California",
     "slug": "california",
     "history": [
       {
-        "rep_pct": 32.7,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 28.9,
-        "dem_pct": 61.6
+        "dem_votes": 5121325,
+        "year": "1992",
+        "rep_votes": 3630574,
+        "total_votes": 11131721
       },
       {
-        "dem_win_margin": 23.1,
-        "rep_pct": 37.1,
-        "dem_win": true,
-        "dem_pct": 60.2,
-        "cook_pvi_dem": 10,
-        "year": "2012"
+        "dem_votes": 7854285,
+        "year": "2012",
+        "rep_votes": 4839958,
+        "total_votes": 13055815
       },
       {
-        "dem_win_margin": 24.0,
-        "rep_pct": 36.9,
-        "dem_win": true,
-        "dem_pct": 60.9,
-        "cook_pvi_dem": 9,
-        "year": "2008"
+        "dem_votes": 6745485,
+        "year": "2004",
+        "rep_votes": 5509826,
+        "total_votes": 12421859
       },
       {
-        "dem_win_margin": 9.9,
-        "rep_pct": 44.4,
-        "dem_win": true,
-        "dem_pct": 54.3,
-        "cook_pvi_dem": 6,
-        "year": "2004"
+        "dem_votes": 5119835,
+        "year": "1996",
+        "rep_votes": 3828380,
+        "total_votes": 10019484
       },
       {
-        "dem_win_margin": 11.7,
-        "rep_pct": 41.7,
-        "dem_win": true,
-        "dem_pct": 53.4,
-        "cook_pvi_dem": 6,
-        "year": "2000"
+        "dem_votes": 8274473,
+        "year": "2008",
+        "rep_votes": 5011781,
+        "total_votes": 13583083
       },
       {
-        "dem_win_margin": 12.9,
-        "rep_pct": 38.2,
-        "dem_win": true,
-        "dem_pct": 51.1,
-        "cook_pvi_dem": 2,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 13.4,
-        "rep_pct": 32.6,
-        "dem_win": true,
-        "dem_pct": 46.0,
-        "cook_pvi_dem": 5,
-        "year": "1992"
+        "dem_votes": 5861203,
+        "year": "2000",
+        "rep_votes": 4567429,
+        "total_votes": 10965856
       }
-    ]
+    ],
+    "name": "California"
   },
   {
-    "name": "Colorado",
     "slug": "colorado",
     "history": [
       {
-        "rep_pct": 44.4,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 2.9,
-        "dem_pct": 47.3
+        "dem_votes": 629681,
+        "year": "1992",
+        "rep_votes": 562850,
+        "total_votes": 1569180
       },
       {
-        "dem_win_margin": 5.3,
-        "rep_pct": 46.1,
-        "dem_win": true,
-        "dem_pct": 51.4,
-        "cook_pvi_dem": 1,
-        "year": "2012"
+        "dem_votes": 1323102,
+        "year": "2012",
+        "rep_votes": 1185243,
+        "total_votes": 2571846
       },
       {
-        "dem_win_margin": 9.0,
-        "rep_pct": 44.7,
-        "dem_win": true,
-        "dem_pct": 53.7,
-        "cook_pvi_dem": 1,
-        "year": "2008"
+        "dem_votes": 1001725,
+        "year": "2004",
+        "rep_votes": 1101256,
+        "total_votes": 2130325
       },
       {
-        "dem_win_margin": -4.7,
-        "rep_pct": 51.7,
-        "dem_win": false,
-        "dem_pct": 47.0,
-        "cook_pvi_dem": -1,
-        "year": "2004"
+        "dem_votes": 671152,
+        "year": "1996",
+        "rep_votes": 691848,
+        "total_votes": 1510704
       },
       {
-        "dem_win_margin": -8.4,
-        "rep_pct": 50.8,
-        "dem_win": false,
-        "dem_pct": 42.4,
-        "cook_pvi_dem": -5,
-        "year": "2000"
+        "dem_votes": 1288633,
+        "year": "2008",
+        "rep_votes": 1073629,
+        "total_votes": 2401462
       },
       {
-        "dem_win_margin": -1.4,
-        "rep_pct": 45.8,
-        "dem_win": false,
-        "dem_pct": 44.4,
-        "cook_pvi_dem": -5,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 4.2,
-        "rep_pct": 35.9,
-        "dem_win": false,
-        "dem_pct": 40.1,
-        "cook_pvi_dem": -1,
-        "year": "1992"
+        "dem_votes": 738227,
+        "year": "2000",
+        "rep_votes": 883745,
+        "total_votes": 1741365
       }
-    ]
+    ],
+    "name": "Colorado"
   },
   {
-    "name": "Connecticut",
     "slug": "connecticut",
     "history": [
       {
-        "rep_pct": 41.2,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 13.3,
-        "dem_pct": 54.5
+        "dem_votes": 682318,
+        "year": "1992",
+        "rep_votes": 578313,
+        "total_votes": 1616332
       },
       {
-        "dem_win_margin": 17.4,
-        "rep_pct": 40.7,
-        "dem_win": true,
-        "dem_pct": 58.1,
-        "cook_pvi_dem": 7,
-        "year": "2012"
+        "dem_votes": 905109,
+        "year": "2012",
+        "rep_votes": 634899,
+        "total_votes": 1558993
       },
       {
-        "dem_win_margin": 22.4,
-        "rep_pct": 38.2,
-        "dem_win": true,
-        "dem_pct": 60.6,
-        "cook_pvi_dem": 8,
-        "year": "2008"
+        "dem_votes": 857488,
+        "year": "2004",
+        "rep_votes": 693826,
+        "total_votes": 1578769
       },
       {
-        "dem_win_margin": 10.4,
-        "rep_pct": 43.9,
-        "dem_win": true,
-        "dem_pct": 54.3,
-        "cook_pvi_dem": 7,
-        "year": "2004"
+        "dem_votes": 735740,
+        "year": "1996",
+        "rep_votes": 483109,
+        "total_votes": 1392614
       },
       {
-        "dem_win_margin": 17.5,
-        "rep_pct": 38.4,
-        "dem_win": true,
-        "dem_pct": 55.9,
-        "cook_pvi_dem": 9,
-        "year": "2000"
+        "dem_votes": 997773,
+        "year": "2008",
+        "rep_votes": 629428,
+        "total_votes": 1646793
       },
       {
-        "dem_win_margin": 18.1,
-        "rep_pct": 34.7,
-        "dem_win": true,
-        "dem_pct": 52.8,
-        "cook_pvi_dem": 6,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 6.4,
-        "rep_pct": 35.8,
-        "dem_win": true,
-        "dem_pct": 42.2,
-        "cook_pvi_dem": 1,
-        "year": "1992"
+        "dem_votes": 816015,
+        "year": "2000",
+        "rep_votes": 561094,
+        "total_votes": 1459525
       }
-    ]
+    ],
+    "name": "Connecticut"
   },
   {
-    "name": "Delaware",
     "slug": "delaware",
     "history": [
       {
-        "rep_pct": 41.9,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 11.5,
-        "dem_pct": 53.4
+        "dem_votes": 126054,
+        "year": "1992",
+        "rep_votes": 102313,
+        "total_votes": 289735
       },
       {
-        "dem_win_margin": 18.6,
-        "rep_pct": 40.0,
-        "dem_win": true,
-        "dem_pct": 58.6,
-        "cook_pvi_dem": 7,
-        "year": "2012"
+        "dem_votes": 242584,
+        "year": "2012",
+        "rep_votes": 165484,
+        "total_votes": 413921
       },
       {
-        "dem_win_margin": 25.0,
-        "rep_pct": 36.9,
-        "dem_win": true,
-        "dem_pct": 61.9,
-        "cook_pvi_dem": 9,
-        "year": "2008"
+        "dem_votes": 200152,
+        "year": "2004",
+        "rep_votes": 171660,
+        "total_votes": 375270
       },
       {
-        "dem_win_margin": 7.6,
-        "rep_pct": 45.7,
-        "dem_win": true,
-        "dem_pct": 53.3,
-        "cook_pvi_dem": 5,
-        "year": "2004"
+        "dem_votes": 140355,
+        "year": "1996",
+        "rep_votes": 99062,
+        "total_votes": 271084
       },
       {
-        "dem_win_margin": 13.1,
-        "rep_pct": 41.9,
-        "dem_win": true,
-        "dem_pct": 55.0,
-        "cook_pvi_dem": 6,
-        "year": "2000"
+        "dem_votes": 255459,
+        "year": "2008",
+        "rep_votes": 152374,
+        "total_votes": 412616
       },
       {
-        "dem_win_margin": 15.3,
-        "rep_pct": 36.5,
-        "dem_win": true,
-        "dem_pct": 51.8,
-        "cook_pvi_dem": 4,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 8.2,
-        "rep_pct": 35.3,
-        "dem_win": true,
-        "dem_pct": 43.5,
-        "cook_pvi_dem": 2,
-        "year": "1992"
+        "dem_votes": 180068,
+        "year": "2000",
+        "rep_votes": 137288,
+        "total_votes": 327622
       }
-    ]
+    ],
+    "name": "Delaware"
   },
   {
-    "name": "Florida",
     "slug": "florida",
     "history": [
       {
-        "rep_pct": 49.1,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -1.3,
-        "dem_pct": 47.8
+        "dem_votes": 2072698,
+        "year": "1992",
+        "rep_votes": 2173310,
+        "total_votes": 5314392
       },
       {
-        "dem_win_margin": 0.9,
-        "rep_pct": 49.0,
-        "dem_win": false,
-        "dem_pct": 49.9,
-        "cook_pvi_dem": -2,
-        "year": "2012"
+        "dem_votes": 4237756,
+        "year": "2012",
+        "rep_votes": 4163447,
+        "total_votes": 8492175
       },
       {
-        "dem_win_margin": 2.8,
-        "rep_pct": 48.1,
-        "dem_win": false,
-        "dem_pct": 50.9,
-        "cook_pvi_dem": -2,
-        "year": "2008"
+        "dem_votes": 3583544,
+        "year": "2004",
+        "rep_votes": 3964522,
+        "total_votes": 7609810
       },
       {
-        "dem_win_margin": -5.0,
-        "rep_pct": 52.1,
-        "dem_win": false,
-        "dem_pct": 47.1,
-        "cook_pvi_dem": -1,
-        "year": "2004"
+        "dem_votes": 2546870,
+        "year": "1996",
+        "rep_votes": 2244536,
+        "total_votes": 5303794
       },
       {
-        "dem_win_margin": 0.0,
-        "rep_pct": 48.8,
-        "dem_win": false,
-        "dem_pct": 48.8,
-        "cook_pvi_dem": 0,
-        "year": "2000"
+        "dem_votes": 4282367,
+        "year": "2008",
+        "rep_votes": 4046219,
+        "total_votes": 8412248
       },
       {
-        "dem_win_margin": 5.7,
-        "rep_pct": 42.3,
-        "dem_win": false,
-        "dem_pct": 48.0,
-        "cook_pvi_dem": -2,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -1.9,
-        "rep_pct": 40.9,
-        "dem_win": false,
-        "dem_pct": 39.0,
-        "cook_pvi_dem": -5,
-        "year": "1992"
+        "dem_votes": 2912253,
+        "year": "2000",
+        "rep_votes": 2912790,
+        "total_votes": 5963110
       }
-    ]
+    ],
+    "name": "Florida"
   },
   {
-    "name": "Georgia",
     "slug": "georgia",
     "history": [
       {
-        "rep_pct": 51.3,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -5.7,
-        "dem_pct": 45.6
+        "dem_votes": 1008966,
+        "year": "1992",
+        "rep_votes": 995252,
+        "total_votes": 2321133
       },
       {
-        "dem_win_margin": -7.8,
-        "rep_pct": 53.2,
-        "dem_win": false,
-        "dem_pct": 45.4,
-        "cook_pvi_dem": -6,
-        "year": "2012"
+        "dem_votes": 1773827,
+        "year": "2012",
+        "rep_votes": 2078688,
+        "total_votes": 3908369
       },
       {
-        "dem_win_margin": -5.2,
-        "rep_pct": 52.1,
-        "dem_win": false,
-        "dem_pct": 46.9,
-        "cook_pvi_dem": -6,
-        "year": "2008"
+        "dem_votes": 1366149,
+        "year": "2004",
+        "rep_votes": 1914254,
+        "total_votes": 3304481
       },
       {
-        "dem_win_margin": -16.6,
-        "rep_pct": 57.9,
-        "dem_win": false,
-        "dem_pct": 41.3,
-        "cook_pvi_dem": -7,
-        "year": "2004"
+        "dem_votes": 1053849,
+        "year": "1996",
+        "rep_votes": 1080843,
+        "total_votes": 2299071
       },
       {
-        "dem_win_margin": -11.7,
-        "rep_pct": 54.7,
-        "dem_win": false,
-        "dem_pct": 43.0,
-        "cook_pvi_dem": -6,
-        "year": "2000"
+        "dem_votes": 1844123,
+        "year": "2008",
+        "rep_votes": 2048759,
+        "total_votes": 3932158
       },
       {
-        "dem_win_margin": -1.2,
-        "rep_pct": 47.0,
-        "dem_win": false,
-        "dem_pct": 45.8,
-        "cook_pvi_dem": -5,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 0.6,
-        "rep_pct": 42.9,
-        "dem_win": false,
-        "dem_pct": 43.5,
-        "cook_pvi_dem": -3,
-        "year": "1992"
+        "dem_votes": 1116230,
+        "year": "2000",
+        "rep_votes": 1419720,
+        "total_votes": 2596804
       }
-    ]
+    ],
+    "name": "Georgia"
   },
   {
-    "name": "Hawaii",
     "slug": "hawaii",
     "history": [
       {
-        "rep_pct": 30.0,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 32.2,
-        "dem_pct": 62.2
+        "dem_votes": 179310,
+        "year": "1992",
+        "rep_votes": 136822,
+        "total_votes": 372842
       },
       {
-        "dem_win_margin": 42.7,
-        "rep_pct": 27.8,
-        "dem_win": true,
-        "dem_pct": 70.5,
-        "cook_pvi_dem": 20,
-        "year": "2012"
+        "dem_votes": 306658,
+        "year": "2012",
+        "rep_votes": 121015,
+        "total_votes": 434697
       },
       {
-        "dem_win_margin": 45.2,
-        "rep_pct": 26.6,
-        "dem_win": true,
-        "dem_pct": 71.8,
-        "cook_pvi_dem": 19,
-        "year": "2008"
+        "dem_votes": 231708,
+        "year": "2004",
+        "rep_votes": 194191,
+        "total_votes": 429013
       },
       {
-        "dem_win_margin": 8.7,
-        "rep_pct": 45.3,
-        "dem_win": true,
-        "dem_pct": 54.0,
-        "cook_pvi_dem": 6,
-        "year": "2004"
+        "dem_votes": 205012,
+        "year": "1996",
+        "rep_votes": 113943,
+        "total_votes": 360120
       },
       {
-        "dem_win_margin": 18.3,
-        "rep_pct": 37.5,
-        "dem_win": true,
-        "dem_pct": 55.8,
-        "cook_pvi_dem": 10,
-        "year": "2000"
+        "dem_votes": 325871,
+        "year": "2008",
+        "rep_votes": 120566,
+        "total_votes": 453568
       },
       {
-        "dem_win_margin": 25.3,
-        "rep_pct": 31.6,
-        "dem_win": true,
-        "dem_pct": 56.9,
-        "cook_pvi_dem": 10,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 11.4,
-        "rep_pct": 36.7,
-        "dem_win": true,
-        "dem_pct": 48.1,
-        "cook_pvi_dem": 3,
-        "year": "1992"
+        "dem_votes": 205286,
+        "year": "2000",
+        "rep_votes": 137845,
+        "total_votes": 367951
       }
-    ]
+    ],
+    "name": "Hawaii"
   },
   {
-    "name": "Idaho",
     "slug": "idaho",
     "history": [
       {
-        "rep_pct": 59.2,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -31.6,
-        "dem_pct": 27.6
+        "dem_votes": 137013,
+        "year": "1992",
+        "rep_votes": 202645,
+        "total_votes": 482142
       },
       {
-        "dem_win_margin": -31.7,
-        "rep_pct": 64.1,
-        "dem_win": false,
-        "dem_pct": 32.4,
-        "cook_pvi_dem": -18,
-        "year": "2012"
+        "dem_votes": 212787,
+        "year": "2012",
+        "rep_votes": 420911,
+        "total_votes": 656742
       },
       {
-        "dem_win_margin": -25.3,
-        "rep_pct": 61.2,
-        "dem_win": false,
-        "dem_pct": 35.9,
-        "cook_pvi_dem": -17,
-        "year": "2008"
+        "dem_votes": 181098,
+        "year": "2004",
+        "rep_votes": 409235,
+        "total_votes": 598447
       },
       {
-        "dem_win_margin": -38.1,
-        "rep_pct": 68.4,
-        "dem_win": false,
-        "dem_pct": 30.3,
-        "cook_pvi_dem": -18,
-        "year": "2004"
+        "dem_votes": 165443,
+        "year": "1996",
+        "rep_votes": 256595,
+        "total_votes": 491719
       },
       {
-        "dem_win_margin": -39.6,
-        "rep_pct": 67.2,
-        "dem_win": false,
-        "dem_pct": 27.6,
-        "cook_pvi_dem": -21,
-        "year": "2000"
+        "dem_votes": 236440,
+        "year": "2008",
+        "rep_votes": 403012,
+        "total_votes": 658454
       },
       {
-        "dem_win_margin": -18.6,
-        "rep_pct": 52.2,
-        "dem_win": false,
-        "dem_pct": 33.6,
-        "cook_pvi_dem": -16,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -13.6,
-        "rep_pct": 42.0,
-        "dem_win": false,
-        "dem_pct": 28.4,
-        "cook_pvi_dem": -13,
-        "year": "1992"
+        "dem_votes": 138637,
+        "year": "2000",
+        "rep_votes": 336937,
+        "total_votes": 501621
       }
-    ]
+    ],
+    "name": "Idaho"
   },
   {
-    "name": "Illinois",
     "slug": "illinois",
     "history": [
       {
-        "rep_pct": 39.4,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 16.0,
-        "dem_pct": 55.4
+        "dem_votes": 2453350,
+        "year": "1992",
+        "rep_votes": 1734096,
+        "total_votes": 5050157
       },
       {
-        "dem_win_margin": 16.8,
-        "rep_pct": 40.7,
-        "dem_win": true,
-        "dem_pct": 57.5,
-        "cook_pvi_dem": 7,
-        "year": "2012"
+        "dem_votes": 3019512,
+        "year": "2012",
+        "rep_votes": 2135216,
+        "total_votes": 5251432
       },
       {
-        "dem_win_margin": 25.1,
-        "rep_pct": 36.7,
-        "dem_win": true,
-        "dem_pct": 61.8,
-        "cook_pvi_dem": 9,
-        "year": "2008"
+        "dem_votes": 2891550,
+        "year": "2004",
+        "rep_votes": 2345946,
+        "total_votes": 5274322
       },
       {
-        "dem_win_margin": 10.3,
-        "rep_pct": 44.5,
-        "dem_win": true,
-        "dem_pct": 54.8,
-        "cook_pvi_dem": 6,
-        "year": "2004"
+        "dem_votes": 2341744,
+        "year": "1996",
+        "rep_votes": 1587021,
+        "total_votes": 4311391
       },
       {
-        "dem_win_margin": 12.0,
-        "rep_pct": 42.6,
-        "dem_win": true,
-        "dem_pct": 54.6,
-        "cook_pvi_dem": 6,
-        "year": "2000"
+        "dem_votes": 3419348,
+        "year": "2008",
+        "rep_votes": 2031179,
+        "total_votes": 5530179
       },
       {
-        "dem_win_margin": 17.5,
-        "rep_pct": 36.8,
-        "dem_win": true,
-        "dem_pct": 54.3,
-        "cook_pvi_dem": 5,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 14.3,
-        "rep_pct": 34.3,
-        "dem_win": true,
-        "dem_pct": 48.6,
-        "cook_pvi_dem": 5,
-        "year": "1992"
+        "dem_votes": 2589026,
+        "year": "2000",
+        "rep_votes": 2019421,
+        "total_votes": 4742123
       }
-    ]
+    ],
+    "name": "Illinois"
   },
   {
-    "name": "Indiana",
     "slug": "indiana",
     "history": [
       {
-        "rep_pct": 57.2,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -19.3,
-        "dem_pct": 37.9
+        "dem_votes": 848420,
+        "year": "1992",
+        "rep_votes": 989375,
+        "total_votes": 2305871
       },
       {
-        "dem_win_margin": -10.2,
-        "rep_pct": 54.0,
-        "dem_win": false,
-        "dem_pct": 43.8,
-        "cook_pvi_dem": -7,
-        "year": "2012"
+        "dem_votes": 1154275,
+        "year": "2012",
+        "rep_votes": 1422872,
+        "total_votes": 2633143
       },
       {
-        "dem_win_margin": 1.0,
-        "rep_pct": 48.8,
-        "dem_win": false,
-        "dem_pct": 49.8,
-        "cook_pvi_dem": -3,
-        "year": "2008"
+        "dem_votes": 969011,
+        "year": "2004",
+        "rep_votes": 1479438,
+        "total_votes": 2468002
       },
       {
-        "dem_win_margin": -20.6,
-        "rep_pct": 59.9,
-        "dem_win": false,
-        "dem_pct": 39.3,
-        "cook_pvi_dem": -9,
-        "year": "2004"
+        "dem_votes": 887424,
+        "year": "1996",
+        "rep_votes": 1006693,
+        "total_votes": 2135842
       },
       {
-        "dem_win_margin": -15.6,
-        "rep_pct": 56.6,
-        "dem_win": false,
-        "dem_pct": 41.0,
-        "cook_pvi_dem": -8,
-        "year": "2000"
+        "dem_votes": 1374039,
+        "year": "2008",
+        "rep_votes": 1345648,
+        "total_votes": 2756658
       },
       {
-        "dem_win_margin": -5.6,
-        "rep_pct": 47.1,
-        "dem_win": false,
-        "dem_pct": 41.5,
-        "cook_pvi_dem": -8,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -6.1,
-        "rep_pct": 42.9,
-        "dem_win": false,
-        "dem_pct": 36.8,
-        "cook_pvi_dem": -7,
-        "year": "1992"
+        "dem_votes": 901980,
+        "year": "2000",
+        "rep_votes": 1245836,
+        "total_votes": 2199302
       }
-    ]
+    ],
+    "name": "Indiana"
   },
   {
-    "name": "Iowa",
     "slug": "iowa",
     "history": [
       {
-        "rep_pct": 51.8,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -9.6,
-        "dem_pct": 42.2
+        "dem_votes": 586353,
+        "year": "1992",
+        "rep_votes": 504891,
+        "total_votes": 1354607
       },
       {
-        "dem_win_margin": 5.8,
-        "rep_pct": 46.2,
-        "dem_win": true,
-        "dem_pct": 52.0,
-        "cook_pvi_dem": 1,
-        "year": "2012"
+        "dem_votes": 822544,
+        "year": "2012",
+        "rep_votes": 730617,
+        "total_votes": 1582180
       },
       {
-        "dem_win_margin": 9.5,
-        "rep_pct": 44.4,
-        "dem_win": true,
-        "dem_pct": 53.9,
-        "cook_pvi_dem": 1,
-        "year": "2008"
+        "dem_votes": 741898,
+        "year": "2004",
+        "rep_votes": 751957,
+        "total_votes": 1506908
       },
       {
-        "dem_win_margin": -0.7,
-        "rep_pct": 49.9,
-        "dem_win": true,
-        "dem_pct": 49.2,
-        "cook_pvi_dem": 1,
-        "year": "2004"
+        "dem_votes": 620258,
+        "year": "1996",
+        "rep_votes": 492644,
+        "total_votes": 1234075
       },
       {
-        "dem_win_margin": 0.3,
-        "rep_pct": 48.2,
-        "dem_win": false,
-        "dem_pct": 48.5,
-        "cook_pvi_dem": 0,
-        "year": "2000"
+        "dem_votes": 828940,
+        "year": "2008",
+        "rep_votes": 682379,
+        "total_votes": 1537123
       },
       {
-        "dem_win_margin": 10.4,
-        "rep_pct": 39.9,
-        "dem_win": true,
-        "dem_pct": 50.3,
-        "cook_pvi_dem": 1,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 6.0,
-        "rep_pct": 37.3,
-        "dem_win": true,
-        "dem_pct": 43.3,
-        "cook_pvi_dem": 0,
-        "year": "1992"
+        "dem_votes": 638517,
+        "year": "2000",
+        "rep_votes": 634373,
+        "total_votes": 1315563
       }
-    ]
+    ],
+    "name": "Iowa"
   },
   {
-    "name": "Kansas",
     "slug": "kansas",
     "history": [
       {
-        "rep_pct": 57.2,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -21.0,
-        "dem_pct": 36.2
+        "dem_votes": 390434,
+        "year": "1992",
+        "rep_votes": 449951,
+        "total_votes": 1157236
       },
       {
-        "dem_win_margin": -21.7,
-        "rep_pct": 59.7,
-        "dem_win": false,
-        "dem_pct": 38.0,
-        "cook_pvi_dem": -13,
-        "year": "2012"
+        "dem_votes": 439908,
+        "year": "2012",
+        "rep_votes": 689809,
+        "total_votes": 1156254
       },
       {
-        "dem_win_margin": -14.9,
-        "rep_pct": 56.5,
-        "dem_win": false,
-        "dem_pct": 41.6,
-        "cook_pvi_dem": -11,
-        "year": "2008"
+        "dem_votes": 434993,
+        "year": "2004",
+        "rep_votes": 736456,
+        "total_votes": 1187756
       },
       {
-        "dem_win_margin": -25.4,
-        "rep_pct": 62.0,
-        "dem_win": false,
-        "dem_pct": 36.6,
-        "cook_pvi_dem": -12,
-        "year": "2004"
+        "dem_votes": 387659,
+        "year": "1996",
+        "rep_votes": 583245,
+        "total_votes": 1074300
       },
       {
-        "dem_win_margin": -20.8,
-        "rep_pct": 58.0,
-        "dem_win": false,
-        "dem_pct": 37.2,
-        "cook_pvi_dem": -11,
-        "year": "2000"
+        "dem_votes": 514765,
+        "year": "2008",
+        "rep_votes": 699655,
+        "total_votes": 1238873
       },
       {
-        "dem_win_margin": -18.2,
-        "rep_pct": 54.3,
-        "dem_win": false,
-        "dem_pct": 36.1,
-        "cook_pvi_dem": -15,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -5.2,
-        "rep_pct": 38.9,
-        "dem_win": false,
-        "dem_pct": 33.7,
-        "cook_pvi_dem": -7,
-        "year": "1992"
+        "dem_votes": 399276,
+        "year": "2000",
+        "rep_votes": 622332,
+        "total_votes": 1072216
       }
-    ]
+    ],
+    "name": "Kansas"
   },
   {
-    "name": "Kentucky",
     "slug": "kentucky",
     "history": [
       {
-        "rep_pct": 62.5,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -29.8,
-        "dem_pct": 32.7
+        "dem_votes": 665104,
+        "year": "1992",
+        "rep_votes": 617178,
+        "total_votes": 1492900
       },
       {
-        "dem_win_margin": -22.7,
-        "rep_pct": 60.5,
-        "dem_win": false,
-        "dem_pct": 37.8,
-        "cook_pvi_dem": -14,
-        "year": "2012"
+        "dem_votes": 679370,
+        "year": "2012",
+        "rep_votes": 1087190,
+        "total_votes": 1798048
       },
       {
-        "dem_win_margin": -16.3,
-        "rep_pct": 57.4,
-        "dem_win": false,
-        "dem_pct": 41.1,
-        "cook_pvi_dem": -12,
-        "year": "2008"
+        "dem_votes": 712733,
+        "year": "2004",
+        "rep_votes": 1069439,
+        "total_votes": 1796079
       },
       {
-        "dem_win_margin": -19.8,
-        "rep_pct": 59.5,
-        "dem_win": false,
-        "dem_pct": 39.7,
-        "cook_pvi_dem": -9,
-        "year": "2004"
+        "dem_votes": 636614,
+        "year": "1996",
+        "rep_votes": 623283,
+        "total_votes": 1388708
       },
       {
-        "dem_win_margin": -15.1,
-        "rep_pct": 56.5,
-        "dem_win": false,
-        "dem_pct": 41.4,
-        "cook_pvi_dem": -8,
-        "year": "2000"
+        "dem_votes": 751985,
+        "year": "2008",
+        "rep_votes": 1048462,
+        "total_votes": 1827587
       },
       {
-        "dem_win_margin": 0.9,
-        "rep_pct": 44.9,
-        "dem_win": false,
-        "dem_pct": 45.8,
-        "cook_pvi_dem": -4,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 3.3,
-        "rep_pct": 41.3,
-        "dem_win": false,
-        "dem_pct": 44.6,
-        "cook_pvi_dem": -2,
-        "year": "1992"
+        "dem_votes": 638898,
+        "year": "2000",
+        "rep_votes": 872492,
+        "total_votes": 1544187
       }
-    ]
+    ],
+    "name": "Kentucky"
   },
   {
-    "name": "Louisiana",
     "slug": "louisiana",
     "history": [
       {
-        "rep_pct": 58.1,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -19.7,
-        "dem_pct": 38.4
+        "dem_votes": 815971,
+        "year": "1992",
+        "rep_votes": 733386,
+        "total_votes": 1790017
       },
       {
-        "dem_win_margin": -17.2,
-        "rep_pct": 57.8,
-        "dem_win": false,
-        "dem_pct": 40.6,
-        "cook_pvi_dem": -11,
-        "year": "2012"
+        "dem_votes": 809141,
+        "year": "2012",
+        "rep_votes": 1152262,
+        "total_votes": 1994065
       },
       {
-        "dem_win_margin": -18.7,
-        "rep_pct": 58.6,
-        "dem_win": false,
-        "dem_pct": 39.9,
-        "cook_pvi_dem": -13,
-        "year": "2008"
+        "dem_votes": 820299,
+        "year": "2004",
+        "rep_votes": 1102169,
+        "total_votes": 1943106
       },
       {
-        "dem_win_margin": -14.5,
-        "rep_pct": 56.7,
-        "dem_win": false,
-        "dem_pct": 42.2,
-        "cook_pvi_dem": -6,
-        "year": "2004"
+        "dem_votes": 927837,
+        "year": "1996",
+        "rep_votes": 712586,
+        "total_votes": 1783959
       },
       {
-        "dem_win_margin": -7.7,
-        "rep_pct": 52.6,
-        "dem_win": false,
-        "dem_pct": 44.9,
-        "cook_pvi_dem": -4,
-        "year": "2000"
+        "dem_votes": 782989,
+        "year": "2008",
+        "rep_votes": 1148275,
+        "total_votes": 1960761
       },
       {
-        "dem_win_margin": 12.1,
-        "rep_pct": 39.9,
-        "dem_win": true,
-        "dem_pct": 52.0,
-        "cook_pvi_dem": 2,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 4.6,
-        "rep_pct": 41.0,
-        "dem_win": false,
-        "dem_pct": 45.6,
-        "cook_pvi_dem": -1,
-        "year": "1992"
+        "dem_votes": 792344,
+        "year": "2000",
+        "rep_votes": 927871,
+        "total_votes": 1765656
       }
-    ]
+    ],
+    "name": "Louisiana"
   },
   {
-    "name": "Maine",
     "slug": "maine",
     "history": [
       {
-        "rep_pct": 45.2,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 2.7,
-        "dem_pct": 47.9
+        "dem_votes": 263420,
+        "year": "1992",
+        "rep_votes": 206504,
+        "total_votes": 679499
       },
       {
-        "dem_win_margin": 15.3,
-        "rep_pct": 41.0,
-        "dem_win": true,
-        "dem_pct": 56.3,
-        "cook_pvi_dem": 6,
-        "year": "2012"
+        "dem_votes": 401306,
+        "year": "2012",
+        "rep_votes": 292276,
+        "total_votes": 713180
       },
       {
-        "dem_win_margin": 17.3,
-        "rep_pct": 40.4,
-        "dem_win": true,
-        "dem_pct": 57.7,
-        "cook_pvi_dem": 5,
-        "year": "2008"
+        "dem_votes": 396842,
+        "year": "2004",
+        "rep_votes": 330201,
+        "total_votes": 740752
       },
       {
-        "dem_win_margin": 9.0,
-        "rep_pct": 44.6,
-        "dem_win": true,
-        "dem_pct": 53.6,
-        "cook_pvi_dem": 6,
-        "year": "2004"
+        "dem_votes": 312788,
+        "year": "1996",
+        "rep_votes": 186378,
+        "total_votes": 605897
       },
       {
-        "dem_win_margin": 5.1,
-        "rep_pct": 44.0,
-        "dem_win": true,
-        "dem_pct": 49.1,
-        "cook_pvi_dem": 2,
-        "year": "2000"
+        "dem_votes": 421923,
+        "year": "2008",
+        "rep_votes": 295273,
+        "total_votes": 731163
       },
       {
-        "dem_win_margin": 20.8,
-        "rep_pct": 30.8,
-        "dem_win": true,
-        "dem_pct": 51.6,
-        "cook_pvi_dem": 8,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 8.4,
-        "rep_pct": 30.4,
-        "dem_win": true,
-        "dem_pct": 38.8,
-        "cook_pvi_dem": 3,
-        "year": "1992"
+        "dem_votes": 319951,
+        "year": "2000",
+        "rep_votes": 286616,
+        "total_votes": 651817
       }
-    ]
+    ],
+    "name": "Maine"
   },
   {
-    "name": "Maryland",
     "slug": "maryland",
     "history": [
       {
-        "rep_pct": 35.3,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 25.2,
-        "dem_pct": 60.5
+        "dem_votes": 988571,
+        "year": "1992",
+        "rep_votes": 707094,
+        "total_votes": 1985046
       },
       {
-        "dem_win_margin": 26.1,
-        "rep_pct": 35.9,
-        "dem_win": true,
-        "dem_pct": 62.0,
-        "cook_pvi_dem": 11,
-        "year": "2012"
+        "dem_votes": 1677844,
+        "year": "2012",
+        "rep_votes": 971869,
+        "total_votes": 2707327
       },
       {
-        "dem_win_margin": 25.4,
-        "rep_pct": 36.5,
-        "dem_win": true,
-        "dem_pct": 61.9,
-        "cook_pvi_dem": 9,
-        "year": "2008"
+        "dem_votes": 1334493,
+        "year": "2004",
+        "rep_votes": 1024703,
+        "total_votes": 2386678
       },
       {
-        "dem_win_margin": 13.0,
-        "rep_pct": 42.9,
-        "dem_win": true,
-        "dem_pct": 55.9,
-        "cook_pvi_dem": 8,
-        "year": "2004"
+        "dem_votes": 966207,
+        "year": "1996",
+        "rep_votes": 681530,
+        "total_votes": 1780870
       },
       {
-        "dem_win_margin": 16.4,
-        "rep_pct": 40.2,
-        "dem_win": true,
-        "dem_pct": 56.6,
-        "cook_pvi_dem": 8,
-        "year": "2000"
+        "dem_votes": 1629467,
+        "year": "2008",
+        "rep_votes": 959862,
+        "total_votes": 2631596
       },
       {
-        "dem_win_margin": 16.0,
-        "rep_pct": 38.3,
-        "dem_win": true,
-        "dem_pct": 54.3,
-        "cook_pvi_dem": 4,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 14.2,
-        "rep_pct": 35.6,
-        "dem_win": true,
-        "dem_pct": 49.8,
-        "cook_pvi_dem": 5,
-        "year": "1992"
+        "dem_votes": 1145782,
+        "year": "2000",
+        "rep_votes": 813797,
+        "total_votes": 2025480
       }
-    ]
+    ],
+    "name": "Maryland"
   },
   {
-    "name": "Massachusetts",
     "slug": "massachusetts",
     "history": [
       {
-        "rep_pct": 33.5,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 27.3,
-        "dem_pct": 60.8
+        "dem_votes": 1318662,
+        "year": "1992",
+        "rep_votes": 805049,
+        "total_votes": 2773574
       },
       {
-        "dem_win_margin": 23.2,
-        "rep_pct": 37.5,
-        "dem_win": true,
-        "dem_pct": 60.7,
-        "cook_pvi_dem": 10,
-        "year": "2012"
+        "dem_votes": 1921761,
+        "year": "2012",
+        "rep_votes": 1188460,
+        "total_votes": 3167767
       },
       {
-        "dem_win_margin": 25.8,
-        "rep_pct": 36.0,
-        "dem_win": true,
-        "dem_pct": 61.8,
-        "cook_pvi_dem": 10,
-        "year": "2008"
+        "dem_votes": 1803800,
+        "year": "2004",
+        "rep_votes": 1071109,
+        "total_votes": 2912388
       },
       {
-        "dem_win_margin": 25.1,
-        "rep_pct": 36.8,
-        "dem_win": true,
-        "dem_pct": 61.9,
-        "cook_pvi_dem": 14,
-        "year": "2004"
+        "dem_votes": 1571763,
+        "year": "1996",
+        "rep_votes": 718107,
+        "total_votes": 2556785
       },
       {
-        "dem_win_margin": 27.3,
-        "rep_pct": 32.5,
-        "dem_win": true,
-        "dem_pct": 59.8,
-        "cook_pvi_dem": 15,
-        "year": "2000"
+        "dem_votes": 1904098,
+        "year": "2008",
+        "rep_votes": 1108854,
+        "total_votes": 3081069
       },
       {
-        "dem_win_margin": 33.4,
-        "rep_pct": 28.1,
-        "dem_win": true,
-        "dem_pct": 61.5,
-        "cook_pvi_dem": 14,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 18.5,
-        "rep_pct": 29.0,
-        "dem_win": true,
-        "dem_pct": 47.5,
-        "cook_pvi_dem": 9,
-        "year": "1992"
+        "dem_votes": 1616487,
+        "year": "2000",
+        "rep_votes": 878502,
+        "total_votes": 2702984
       }
-    ]
+    ],
+    "name": "Massachusetts"
   },
   {
-    "name": "Michigan",
     "slug": "michigan",
     "history": [
       {
-        "rep_pct": 47.6,
-        "year": "2016",
-        "dem_win": null,
-        "dem_win_margin": -0.3,
-        "dem_pct": 47.3
+        "dem_votes": 1871182,
+        "year": "1992",
+        "rep_votes": 1554940,
+        "total_votes": 4274673
       },
       {
-        "dem_win_margin": 9.4,
-        "rep_pct": 44.6,
-        "dem_win": true,
-        "dem_pct": 54.0,
-        "cook_pvi_dem": 3,
-        "year": "2012"
+        "dem_votes": 2564569,
+        "year": "2012",
+        "rep_votes": 2115256,
+        "total_votes": 4745316
       },
       {
-        "dem_win_margin": 16.4,
-        "rep_pct": 40.9,
-        "dem_win": true,
-        "dem_pct": 57.3,
-        "cook_pvi_dem": 5,
-        "year": "2008"
+        "dem_votes": 2479183,
+        "year": "2004",
+        "rep_votes": 2313746,
+        "total_votes": 4839252
       },
       {
-        "dem_win_margin": 3.4,
-        "rep_pct": 47.8,
-        "dem_win": true,
-        "dem_pct": 51.2,
-        "cook_pvi_dem": 3,
-        "year": "2004"
+        "dem_votes": 1989653,
+        "year": "1996",
+        "rep_votes": 1481212,
+        "total_votes": 3848844
       },
       {
-        "dem_win_margin": 5.2,
-        "rep_pct": 46.1,
-        "dem_win": true,
-        "dem_pct": 51.3,
-        "cook_pvi_dem": 2,
-        "year": "2000"
+        "dem_votes": 2872579,
+        "year": "2008",
+        "rep_votes": 2048639,
+        "total_votes": 5010606
       },
       {
-        "dem_win_margin": 13.2,
-        "rep_pct": 38.5,
-        "dem_win": true,
-        "dem_pct": 51.7,
-        "cook_pvi_dem": 3,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 7.4,
-        "rep_pct": 36.4,
-        "dem_win": true,
-        "dem_pct": 43.8,
-        "cook_pvi_dem": 1,
-        "year": "1992"
+        "dem_votes": 2170418,
+        "year": "2000",
+        "rep_votes": 1953139,
+        "total_votes": 4232711
       }
-    ]
+    ],
+    "name": "Michigan"
   },
   {
-    "name": "Minnesota",
     "slug": "minnesota",
     "history": [
       {
-        "rep_pct": 45.4,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 1.5,
-        "dem_pct": 46.9
+        "dem_votes": 1020997,
+        "year": "1992",
+        "rep_votes": 747841,
+        "total_votes": 2347948
       },
       {
-        "dem_win_margin": 7.7,
-        "rep_pct": 45.0,
-        "dem_win": true,
-        "dem_pct": 52.7,
-        "cook_pvi_dem": 2,
-        "year": "2012"
+        "dem_votes": 1546167,
+        "year": "2012",
+        "rep_votes": 1320225,
+        "total_votes": 2936561
       },
       {
-        "dem_win_margin": 10.3,
-        "rep_pct": 43.8,
-        "dem_win": true,
-        "dem_pct": 54.1,
-        "cook_pvi_dem": 2,
-        "year": "2008"
+        "dem_votes": 1445014,
+        "year": "2004",
+        "rep_votes": 1346695,
+        "total_votes": 2828387
       },
       {
-        "dem_win_margin": 3.5,
-        "rep_pct": 47.6,
-        "dem_win": true,
-        "dem_pct": 51.1,
-        "cook_pvi_dem": 3,
-        "year": "2004"
+        "dem_votes": 1120438,
+        "year": "1996",
+        "rep_votes": 766476,
+        "total_votes": 2192640
       },
       {
-        "dem_win_margin": 2.4,
-        "rep_pct": 45.5,
-        "dem_win": true,
-        "dem_pct": 47.9,
-        "cook_pvi_dem": 1,
-        "year": "2000"
+        "dem_votes": 1573354,
+        "year": "2008",
+        "rep_votes": 1275409,
+        "total_votes": 2910369
       },
       {
-        "dem_win_margin": 16.1,
-        "rep_pct": 35.0,
-        "dem_win": true,
-        "dem_pct": 51.1,
-        "cook_pvi_dem": 5,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 11.6,
-        "rep_pct": 31.9,
-        "dem_win": true,
-        "dem_pct": 43.5,
-        "cook_pvi_dem": 4,
-        "year": "1992"
+        "dem_votes": 1168266,
+        "year": "2000",
+        "rep_votes": 1109659,
+        "total_votes": 2438685
       }
-    ]
+    ],
+    "name": "Minnesota"
   },
   {
-    "name": "Mississippi",
     "slug": "mississippi",
     "history": [
       {
-        "rep_pct": 58.3,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -18.6,
-        "dem_pct": 39.7
+        "dem_votes": 400258,
+        "year": "1992",
+        "rep_votes": 487793,
+        "total_votes": 981793
       },
       {
-        "dem_win_margin": -11.5,
-        "rep_pct": 55.3,
-        "dem_win": false,
-        "dem_pct": 43.8,
-        "cook_pvi_dem": -8,
-        "year": "2012"
+        "dem_votes": 562949,
+        "year": "2012",
+        "rep_votes": 710746,
+        "total_votes": 1285584
       },
       {
-        "dem_win_margin": -13.2,
-        "rep_pct": 56.2,
-        "dem_win": false,
-        "dem_pct": 43.0,
-        "cook_pvi_dem": -10,
-        "year": "2008"
+        "dem_votes": 458094,
+        "year": "2004",
+        "rep_votes": 684981,
+        "total_votes": 1152365
       },
       {
-        "dem_win_margin": -19.6,
-        "rep_pct": 59.4,
-        "dem_win": false,
-        "dem_pct": 39.8,
-        "cook_pvi_dem": -9,
-        "year": "2004"
+        "dem_votes": 394022,
+        "year": "1996",
+        "rep_votes": 439838,
+        "total_votes": 893857
       },
       {
-        "dem_win_margin": -16.9,
-        "rep_pct": 57.6,
-        "dem_win": false,
-        "dem_pct": 40.7,
-        "cook_pvi_dem": -9,
-        "year": "2000"
+        "dem_votes": 554662,
+        "year": "2008",
+        "rep_votes": 724597,
+        "total_votes": 1289939
       },
       {
-        "dem_win_margin": -5.1,
-        "rep_pct": 49.2,
-        "dem_win": false,
-        "dem_pct": 44.1,
-        "cook_pvi_dem": -7,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -8.9,
-        "rep_pct": 49.7,
-        "dem_win": false,
-        "dem_pct": 40.8,
-        "cook_pvi_dem": -8,
-        "year": "1992"
+        "dem_votes": 404964,
+        "year": "2000",
+        "rep_votes": 573230,
+        "total_votes": 994926
       }
-    ]
+    ],
+    "name": "Mississippi"
   },
   {
-    "name": "Missouri",
     "slug": "missouri",
     "history": [
       {
-        "rep_pct": 57.1,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -19.1,
-        "dem_pct": 38.0
+        "dem_votes": 1053873,
+        "year": "1992",
+        "rep_votes": 811159,
+        "total_votes": 2391565
       },
       {
-        "dem_win_margin": -9.3,
-        "rep_pct": 53.6,
-        "dem_win": false,
-        "dem_pct": 44.3,
-        "cook_pvi_dem": -7,
-        "year": "2012"
+        "dem_votes": 1223796,
+        "year": "2012",
+        "rep_votes": 1482440,
+        "total_votes": 2763689
       },
       {
-        "dem_win_margin": -0.2,
-        "rep_pct": 49.4,
-        "dem_win": false,
-        "dem_pct": 49.2,
-        "cook_pvi_dem": -4,
-        "year": "2008"
+        "dem_votes": 1259171,
+        "year": "2004",
+        "rep_votes": 1455713,
+        "total_votes": 2731364
       },
       {
-        "dem_win_margin": -7.2,
-        "rep_pct": 53.3,
-        "dem_win": false,
-        "dem_pct": 46.1,
-        "cook_pvi_dem": -2,
-        "year": "2004"
+        "dem_votes": 1025935,
+        "year": "1996",
+        "rep_votes": 890016,
+        "total_votes": 2158065
       },
       {
-        "dem_win_margin": -3.3,
-        "rep_pct": 50.4,
-        "dem_win": false,
-        "dem_pct": 47.1,
-        "cook_pvi_dem": -2,
-        "year": "2000"
+        "dem_votes": 1441911,
+        "year": "2008",
+        "rep_votes": 1445814,
+        "total_votes": 2929111
       },
       {
-        "dem_win_margin": 6.3,
-        "rep_pct": 41.2,
-        "dem_win": false,
-        "dem_pct": 47.5,
-        "cook_pvi_dem": -1,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 10.2,
-        "rep_pct": 33.9,
-        "dem_win": true,
-        "dem_pct": 44.1,
-        "cook_pvi_dem": 3,
-        "year": "1992"
+        "dem_votes": 1111138,
+        "year": "2000",
+        "rep_votes": 1189924,
+        "total_votes": 2359892
       }
-    ]
+    ],
+    "name": "Missouri"
   },
   {
-    "name": "Montana",
     "slug": "montana",
     "history": [
       {
-        "rep_pct": 56.5,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -20.5,
-        "dem_pct": 36.0
+        "dem_votes": 154507,
+        "year": "1992",
+        "rep_votes": 144207,
+        "total_votes": 410611
       },
       {
-        "dem_win_margin": -13.6,
-        "rep_pct": 55.3,
-        "dem_win": false,
-        "dem_pct": 41.7,
-        "cook_pvi_dem": -9,
-        "year": "2012"
+        "dem_votes": 201839,
+        "year": "2012",
+        "rep_votes": 267928,
+        "total_votes": 484484
       },
       {
-        "dem_win_margin": -2.4,
-        "rep_pct": 49.5,
-        "dem_win": false,
-        "dem_pct": 47.1,
-        "cook_pvi_dem": -5,
-        "year": "2008"
+        "dem_votes": 173710,
+        "year": "2004",
+        "rep_votes": 266063,
+        "total_votes": 450445
       },
       {
-        "dem_win_margin": -20.5,
-        "rep_pct": 59.1,
-        "dem_win": false,
-        "dem_pct": 38.6,
-        "cook_pvi_dem": -9,
-        "year": "2004"
+        "dem_votes": 167922,
+        "year": "1996",
+        "rep_votes": 179652,
+        "total_votes": 407261
       },
       {
-        "dem_win_margin": -25.0,
-        "rep_pct": 58.4,
-        "dem_win": false,
-        "dem_pct": 33.4,
-        "cook_pvi_dem": -14,
-        "year": "2000"
+        "dem_votes": 232159,
+        "year": "2008",
+        "rep_votes": 243882,
+        "total_votes": 492750
       },
       {
-        "dem_win_margin": -2.9,
-        "rep_pct": 44.1,
-        "dem_win": false,
-        "dem_pct": 41.2,
-        "cook_pvi_dem": -6,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 2.5,
-        "rep_pct": 35.1,
-        "dem_win": false,
-        "dem_pct": 37.6,
-        "cook_pvi_dem": -2,
-        "year": "1992"
+        "dem_votes": 137126,
+        "year": "2000",
+        "rep_votes": 240178,
+        "total_votes": 410997
       }
-    ]
+    ],
+    "name": "Montana"
   },
   {
-    "name": "Nebraska",
     "slug": "nebraska",
     "history": [
       {
-        "rep_pct": 60.3,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -26.3,
-        "dem_pct": 34.0
+        "dem_votes": 217344,
+        "year": "1992",
+        "rep_votes": 344346,
+        "total_votes": 739283
       },
       {
-        "dem_win_margin": -21.8,
-        "rep_pct": 59.8,
-        "dem_win": false,
-        "dem_pct": 38.0,
-        "cook_pvi_dem": -13,
-        "year": "2012"
+        "dem_votes": 302081,
+        "year": "2012",
+        "rep_votes": 475064,
+        "total_votes": 794379
       },
       {
-        "dem_win_margin": -14.9,
-        "rep_pct": 56.5,
-        "dem_win": false,
-        "dem_pct": 41.6,
-        "cook_pvi_dem": -11,
-        "year": "2008"
+        "dem_votes": 254328,
+        "year": "2004",
+        "rep_votes": 512814,
+        "total_votes": 778186
       },
       {
-        "dem_win_margin": -33.2,
-        "rep_pct": 65.9,
-        "dem_win": false,
-        "dem_pct": 32.7,
-        "cook_pvi_dem": -16,
-        "year": "2004"
+        "dem_votes": 236761,
+        "year": "1996",
+        "rep_votes": 363467,
+        "total_votes": 677415
       },
       {
-        "dem_win_margin": -28.9,
-        "rep_pct": 62.2,
-        "dem_win": false,
-        "dem_pct": 33.3,
-        "cook_pvi_dem": -15,
-        "year": "2000"
+        "dem_votes": 333319,
+        "year": "2008",
+        "rep_votes": 452979,
+        "total_votes": 801281
       },
       {
-        "dem_win_margin": -18.7,
-        "rep_pct": 53.7,
-        "dem_win": false,
-        "dem_pct": 35.0,
-        "cook_pvi_dem": -15,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -17.2,
-        "rep_pct": 46.6,
-        "dem_win": false,
-        "dem_pct": 29.4,
-        "cook_pvi_dem": -15,
-        "year": "1992"
+        "dem_votes": 231780,
+        "year": "2000",
+        "rep_votes": 433862,
+        "total_votes": 697019
       }
-    ]
+    ],
+    "name": "Nebraska"
   },
   {
-    "name": "Nevada",
     "slug": "nevada",
     "history": [
       {
-        "rep_pct": 45.5,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 2.4,
-        "dem_pct": 47.9
+        "dem_votes": 189148,
+        "year": "1992",
+        "rep_votes": 175828,
+        "total_votes": 506318
       },
       {
-        "dem_win_margin": 6.7,
-        "rep_pct": 45.7,
-        "dem_win": true,
-        "dem_pct": 52.4,
-        "cook_pvi_dem": 1,
-        "year": "2012"
+        "dem_votes": 531373,
+        "year": "2012",
+        "rep_votes": 463567,
+        "total_votes": 1014918
       },
       {
-        "dem_win_margin": 12.4,
-        "rep_pct": 42.7,
-        "dem_win": true,
-        "dem_pct": 55.1,
-        "cook_pvi_dem": 3,
-        "year": "2008"
+        "dem_votes": 397190,
+        "year": "2004",
+        "rep_votes": 418690,
+        "total_votes": 829587
       },
       {
-        "dem_win_margin": -2.6,
-        "rep_pct": 50.5,
-        "dem_win": false,
-        "dem_pct": 47.9,
-        "cook_pvi_dem": 0,
-        "year": "2004"
+        "dem_votes": 203974,
+        "year": "1996",
+        "rep_votes": 199244,
+        "total_votes": 464279
       },
       {
-        "dem_win_margin": -3.5,
-        "rep_pct": 49.5,
-        "dem_win": false,
-        "dem_pct": 46.0,
-        "cook_pvi_dem": -2,
-        "year": "2000"
+        "dem_votes": 533736,
+        "year": "2008",
+        "rep_votes": 412827,
+        "total_votes": 967848
       },
       {
-        "dem_win_margin": 1.0,
-        "rep_pct": 42.9,
-        "dem_win": false,
-        "dem_pct": 43.9,
-        "cook_pvi_dem": -4,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 2.7,
-        "rep_pct": 34.7,
-        "dem_win": false,
-        "dem_pct": 37.4,
-        "cook_pvi_dem": -2,
-        "year": "1992"
+        "dem_votes": 279978,
+        "year": "2000",
+        "rep_votes": 301575,
+        "total_votes": 608970
       }
-    ]
+    ],
+    "name": "Nevada"
   },
   {
-    "name": "New Hampshire",
     "slug": "new-hampshire",
     "history": [
       {
-        "rep_pct": 47.2,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 0.4,
-        "dem_pct": 47.6
+        "dem_votes": 209040,
+        "year": "1992",
+        "rep_votes": 202484,
+        "total_votes": 537945
       },
       {
-        "dem_win_margin": 5.6,
-        "rep_pct": 46.4,
-        "dem_win": true,
-        "dem_pct": 52.0,
-        "cook_pvi_dem": 1,
-        "year": "2012"
+        "dem_votes": 369561,
+        "year": "2012",
+        "rep_votes": 329918,
+        "total_votes": 710972
       },
       {
-        "dem_win_margin": 9.6,
-        "rep_pct": 44.5,
-        "dem_win": true,
-        "dem_pct": 54.1,
-        "cook_pvi_dem": 1,
-        "year": "2008"
+        "dem_votes": 340511,
+        "year": "2004",
+        "rep_votes": 331237,
+        "total_votes": 677738
       },
       {
-        "dem_win_margin": 1.3,
-        "rep_pct": 48.9,
-        "dem_win": true,
-        "dem_pct": 50.2,
-        "cook_pvi_dem": 2,
-        "year": "2004"
+        "dem_votes": 246214,
+        "year": "1996",
+        "rep_votes": 196532,
+        "total_votes": 499175
       },
       {
-        "dem_win_margin": -1.3,
-        "rep_pct": 48.1,
-        "dem_win": false,
-        "dem_pct": 46.8,
-        "cook_pvi_dem": -1,
-        "year": "2000"
+        "dem_votes": 384826,
+        "year": "2008",
+        "rep_votes": 316534,
+        "total_votes": 710970
       },
       {
-        "dem_win_margin": 9.9,
-        "rep_pct": 39.4,
-        "dem_win": true,
-        "dem_pct": 49.3,
-        "cook_pvi_dem": 1,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 1.3,
-        "rep_pct": 37.6,
-        "dem_win": false,
-        "dem_pct": 38.9,
-        "cook_pvi_dem": -3,
-        "year": "1992"
+        "dem_votes": 266348,
+        "year": "2000",
+        "rep_votes": 273559,
+        "total_votes": 569081
       }
-    ]
+    ],
+    "name": "New Hampshire"
   },
   {
-    "name": "New Jersey",
     "slug": "new-jersey",
     "history": [
       {
-        "rep_pct": 41.8,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 13.2,
-        "dem_pct": 55.0
+        "dem_votes": 1436206,
+        "year": "1992",
+        "rep_votes": 1356865,
+        "total_votes": 3343594
       },
       {
-        "dem_win_margin": 17.7,
-        "rep_pct": 40.5,
-        "dem_win": true,
-        "dem_pct": 58.2,
-        "cook_pvi_dem": 7,
-        "year": "2012"
+        "dem_votes": 2126610,
+        "year": "2012",
+        "rep_votes": 1478749,
+        "total_votes": 3651140
       },
       {
-        "dem_win_margin": 15.5,
-        "rep_pct": 41.6,
-        "dem_win": true,
-        "dem_pct": 57.1,
-        "cook_pvi_dem": 4,
-        "year": "2008"
+        "dem_votes": 1911430,
+        "year": "2004",
+        "rep_votes": 1670003,
+        "total_votes": 3612137
       },
       {
-        "dem_win_margin": 6.7,
-        "rep_pct": 46.2,
-        "dem_win": true,
-        "dem_pct": 52.9,
-        "cook_pvi_dem": 5,
-        "year": "2004"
+        "dem_votes": 1652329,
+        "year": "1996",
+        "rep_votes": 1103078,
+        "total_votes": 3075807
       },
       {
-        "dem_win_margin": 15.8,
-        "rep_pct": 40.3,
-        "dem_win": true,
-        "dem_pct": 56.1,
-        "cook_pvi_dem": 8,
-        "year": "2000"
+        "dem_votes": 2215422,
+        "year": "2008",
+        "rep_votes": 1613207,
+        "total_votes": 3877407
       },
       {
-        "dem_win_margin": 17.8,
-        "rep_pct": 35.9,
-        "dem_win": true,
-        "dem_pct": 53.7,
-        "cook_pvi_dem": 5,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 2.4,
-        "rep_pct": 40.6,
-        "dem_win": false,
-        "dem_pct": 43.0,
-        "cook_pvi_dem": -2,
-        "year": "1992"
+        "dem_votes": 1788850,
+        "year": "2000",
+        "rep_votes": 1284173,
+        "total_votes": 3187226
       }
-    ]
+    ],
+    "name": "New Jersey"
   },
   {
-    "name": "New Mexico",
     "slug": "new-mexico",
     "history": [
       {
-        "rep_pct": 40.0,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 8.3,
-        "dem_pct": 48.3
+        "dem_votes": 261617,
+        "year": "1992",
+        "rep_votes": 212824,
+        "total_votes": 569986
       },
       {
-        "dem_win_margin": 10.2,
-        "rep_pct": 42.8,
-        "dem_win": true,
-        "dem_pct": 53.0,
-        "cook_pvi_dem": 3,
-        "year": "2012"
+        "dem_votes": 415335,
+        "year": "2012",
+        "rep_votes": 335788,
+        "total_votes": 783757
       },
       {
-        "dem_win_margin": 15.1,
-        "rep_pct": 41.8,
-        "dem_win": true,
-        "dem_pct": 56.9,
-        "cook_pvi_dem": 4,
-        "year": "2008"
+        "dem_votes": 370942,
+        "year": "2004",
+        "rep_votes": 376930,
+        "total_votes": 756304
       },
       {
-        "dem_win_margin": -0.8,
-        "rep_pct": 49.8,
-        "dem_win": true,
-        "dem_pct": 49.0,
-        "cook_pvi_dem": 1,
-        "year": "2004"
+        "dem_votes": 273495,
+        "year": "1996",
+        "rep_votes": 232751,
+        "total_votes": 556074
       },
       {
-        "dem_win_margin": 0.1,
-        "rep_pct": 47.8,
-        "dem_win": false,
-        "dem_pct": 47.9,
-        "cook_pvi_dem": 0,
-        "year": "2000"
+        "dem_votes": 472422,
+        "year": "2008",
+        "rep_votes": 346832,
+        "total_votes": 830158
       },
       {
-        "dem_win_margin": 7.3,
-        "rep_pct": 41.9,
-        "dem_win": false,
-        "dem_pct": 49.2,
-        "cook_pvi_dem": -1,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 8.6,
-        "rep_pct": 37.3,
-        "dem_win": true,
-        "dem_pct": 45.9,
-        "cook_pvi_dem": 2,
-        "year": "1992"
+        "dem_votes": 286783,
+        "year": "2000",
+        "rep_votes": 286417,
+        "total_votes": 598605
       }
-    ]
+    ],
+    "name": "New Mexico"
   },
   {
-    "name": "New York",
     "slug": "new-york",
     "history": [
       {
-        "rep_pct": 37.5,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 21.3,
-        "dem_pct": 58.8
+        "dem_votes": 3444450,
+        "year": "1992",
+        "rep_votes": 2346649,
+        "total_votes": 6926925
       },
       {
-        "dem_win_margin": 28.1,
-        "rep_pct": 35.2,
-        "dem_win": true,
-        "dem_pct": 63.3,
-        "cook_pvi_dem": 12,
-        "year": "2012"
+        "dem_votes": 4485877,
+        "year": "2012",
+        "rep_votes": 2490496,
+        "total_votes": 7081536
       },
       {
-        "dem_win_margin": 26.9,
-        "rep_pct": 36.0,
-        "dem_win": true,
-        "dem_pct": 62.9,
-        "cook_pvi_dem": 10,
-        "year": "2008"
+        "dem_votes": 4314280,
+        "year": "2004",
+        "rep_votes": 2962567,
+        "total_votes": 7391954
       },
       {
-        "dem_win_margin": 18.3,
-        "rep_pct": 40.1,
-        "dem_win": true,
-        "dem_pct": 58.4,
-        "cook_pvi_dem": 11,
-        "year": "2004"
+        "dem_votes": 3756177,
+        "year": "1996",
+        "rep_votes": 1933492,
+        "total_votes": 6316129
       },
       {
-        "dem_win_margin": 25.0,
-        "rep_pct": 35.2,
-        "dem_win": true,
-        "dem_pct": 60.2,
-        "cook_pvi_dem": 13,
-        "year": "2000"
+        "dem_votes": 4804945,
+        "year": "2008",
+        "rep_votes": 2752771,
+        "total_votes": 7640948
       },
       {
-        "dem_win_margin": 28.9,
-        "rep_pct": 30.6,
-        "dem_win": true,
-        "dem_pct": 59.5,
-        "cook_pvi_dem": 11,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 15.8,
-        "rep_pct": 33.9,
-        "dem_win": true,
-        "dem_pct": 49.7,
-        "cook_pvi_dem": 6,
-        "year": "1992"
+        "dem_votes": 4113791,
+        "year": "2000",
+        "rep_votes": 2405676,
+        "total_votes": 6831178
       }
-    ]
+    ],
+    "name": "New York"
   },
   {
-    "name": "North Carolina",
     "slug": "north-carolina",
     "history": [
       {
-        "rep_pct": 50.5,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -3.8,
-        "dem_pct": 46.7
+        "dem_votes": 1114042,
+        "year": "1992",
+        "rep_votes": 1134661,
+        "total_votes": 2611850
       },
       {
-        "dem_win_margin": -2.0,
-        "rep_pct": 50.4,
-        "dem_win": false,
-        "dem_pct": 48.4,
-        "cook_pvi_dem": -3,
-        "year": "2012"
+        "dem_votes": 2178391,
+        "year": "2012",
+        "rep_votes": 2270395,
+        "total_votes": 4505372
       },
       {
-        "dem_win_margin": 0.3,
-        "rep_pct": 49.4,
-        "dem_win": false,
-        "dem_pct": 49.7,
-        "cook_pvi_dem": -4,
-        "year": "2008"
+        "dem_votes": 1525849,
+        "year": "2004",
+        "rep_votes": 1961166,
+        "total_votes": 3501007
       },
       {
-        "dem_win_margin": -12.4,
-        "rep_pct": 56.0,
-        "dem_win": false,
-        "dem_pct": 43.6,
-        "cook_pvi_dem": -5,
-        "year": "2004"
+        "dem_votes": 1107849,
+        "year": "1996",
+        "rep_votes": 1225938,
+        "total_votes": 2515807
       },
       {
-        "dem_win_margin": -12.8,
-        "rep_pct": 56.0,
-        "dem_win": false,
-        "dem_pct": 43.2,
-        "cook_pvi_dem": -7,
-        "year": "2000"
+        "dem_votes": 2142651,
+        "year": "2008",
+        "rep_votes": 2128474,
+        "total_votes": 4310789
       },
       {
-        "dem_win_margin": -4.7,
-        "rep_pct": 48.7,
-        "dem_win": false,
-        "dem_pct": 44.0,
-        "cook_pvi_dem": -7,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -0.7,
-        "rep_pct": 43.4,
-        "dem_win": false,
-        "dem_pct": 42.7,
-        "cook_pvi_dem": -4,
-        "year": "1992"
+        "dem_votes": 1257692,
+        "year": "2000",
+        "rep_votes": 1631163,
+        "total_votes": 2911262
       }
-    ]
+    ],
+    "name": "North Carolina"
   },
   {
-    "name": "North Dakota",
     "slug": "north-dakota",
     "history": [
       {
-        "rep_pct": 64.1,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -36.3,
-        "dem_pct": 27.8
+        "dem_votes": 99168,
+        "year": "1992",
+        "rep_votes": 136244,
+        "total_votes": 308133
       },
       {
-        "dem_win_margin": -19.6,
-        "rep_pct": 58.3,
-        "dem_win": false,
-        "dem_pct": 38.7,
-        "cook_pvi_dem": -12,
-        "year": "2012"
+        "dem_votes": 124827,
+        "year": "2012",
+        "rep_votes": 188163,
+        "total_votes": 322627
       },
       {
-        "dem_win_margin": -8.7,
-        "rep_pct": 53.2,
-        "dem_win": false,
-        "dem_pct": 44.5,
-        "cook_pvi_dem": -8,
-        "year": "2008"
+        "dem_votes": 111052,
+        "year": "2004",
+        "rep_votes": 196651,
+        "total_votes": 312833
       },
       {
-        "dem_win_margin": -27.4,
-        "rep_pct": 62.9,
-        "dem_win": false,
-        "dem_pct": 35.5,
-        "cook_pvi_dem": -13,
-        "year": "2004"
+        "dem_votes": 106905,
+        "year": "1996",
+        "rep_votes": 125050,
+        "total_votes": 266411
       },
       {
-        "dem_win_margin": -27.6,
-        "rep_pct": 60.7,
-        "dem_win": false,
-        "dem_pct": 33.1,
-        "cook_pvi_dem": -15,
-        "year": "2000"
+        "dem_votes": 141403,
+        "year": "2008",
+        "rep_votes": 168887,
+        "total_votes": 317738
       },
       {
-        "dem_win_margin": -6.8,
-        "rep_pct": 46.9,
-        "dem_win": false,
-        "dem_pct": 40.1,
-        "cook_pvi_dem": -9,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -12.0,
-        "rep_pct": 44.2,
-        "dem_win": false,
-        "dem_pct": 32.2,
-        "cook_pvi_dem": -11,
-        "year": "1992"
+        "dem_votes": 95284,
+        "year": "2000",
+        "rep_votes": 174852,
+        "total_votes": 288267
       }
-    ]
+    ],
+    "name": "North Dakota"
   },
   {
-    "name": "Ohio",
     "slug": "ohio",
     "history": [
       {
-        "rep_pct": 52.1,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -8.6,
-        "dem_pct": 43.5
+        "dem_votes": 1984942,
+        "year": "1992",
+        "rep_votes": 1894310,
+        "total_votes": 4939964
       },
       {
-        "dem_win_margin": 3.0,
-        "rep_pct": 47.6,
-        "dem_win": false,
-        "dem_pct": 50.6,
-        "cook_pvi_dem": 0,
-        "year": "2012"
+        "dem_votes": 2827709,
+        "year": "2012",
+        "rep_votes": 2661437,
+        "total_votes": 5590934
       },
       {
-        "dem_win_margin": 4.6,
-        "rep_pct": 46.8,
-        "dem_win": false,
-        "dem_pct": 51.4,
-        "cook_pvi_dem": -1,
-        "year": "2008"
+        "dem_votes": 2741167,
+        "year": "2004",
+        "rep_votes": 2859768,
+        "total_votes": 5627908
       },
       {
-        "dem_win_margin": -2.1,
-        "rep_pct": 50.8,
-        "dem_win": true,
-        "dem_pct": 48.7,
-        "cook_pvi_dem": 0,
-        "year": "2004"
+        "dem_votes": 2148222,
+        "year": "1996",
+        "rep_votes": 1859883,
+        "total_votes": 4534434
       },
       {
-        "dem_win_margin": -3.5,
-        "rep_pct": 50.0,
-        "dem_win": false,
-        "dem_pct": 46.5,
-        "cook_pvi_dem": -2,
-        "year": "2000"
+        "dem_votes": 2940044,
+        "year": "2008",
+        "rep_votes": 2677820,
+        "total_votes": 5721831
       },
       {
-        "dem_win_margin": 6.4,
-        "rep_pct": 41.0,
-        "dem_win": false,
-        "dem_pct": 47.4,
-        "cook_pvi_dem": -1,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 1.9,
-        "rep_pct": 38.3,
-        "dem_win": false,
-        "dem_pct": 40.2,
-        "cook_pvi_dem": -2,
-        "year": "1992"
+        "dem_votes": 2186190,
+        "year": "2000",
+        "rep_votes": 2351209,
+        "total_votes": 4705457
       }
-    ]
+    ],
+    "name": "Ohio"
   },
   {
-    "name": "Oklahoma",
     "slug": "oklahoma",
     "history": [
       {
-        "rep_pct": 65.3,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -36.4,
-        "dem_pct": 28.9
+        "dem_votes": 473066,
+        "year": "1992",
+        "rep_votes": 592929,
+        "total_votes": 1390359
       },
       {
-        "dem_win_margin": -33.6,
-        "rep_pct": 66.8,
-        "dem_win": false,
-        "dem_pct": 33.2,
-        "cook_pvi_dem": -19,
-        "year": "2012"
+        "dem_votes": 443547,
+        "year": "2012",
+        "rep_votes": 891325,
+        "total_votes": 1334872
       },
       {
-        "dem_win_margin": -31.2,
-        "rep_pct": 65.6,
-        "dem_win": false,
-        "dem_pct": 34.4,
-        "cook_pvi_dem": -19,
-        "year": "2008"
+        "dem_votes": 503966,
+        "year": "2004",
+        "rep_votes": 959792,
+        "total_votes": 1463758
       },
       {
-        "dem_win_margin": -31.2,
-        "rep_pct": 65.6,
-        "dem_win": false,
-        "dem_pct": 34.4,
-        "cook_pvi_dem": -14,
-        "year": "2004"
+        "dem_votes": 488105,
+        "year": "1996",
+        "rep_votes": 582315,
+        "total_votes": 1206713
       },
       {
-        "dem_win_margin": -21.9,
-        "rep_pct": 60.3,
-        "dem_win": false,
-        "dem_pct": 38.4,
-        "cook_pvi_dem": -11,
-        "year": "2000"
+        "dem_votes": 502496,
+        "year": "2008",
+        "rep_votes": 960165,
+        "total_votes": 1462661
       },
       {
-        "dem_win_margin": -7.9,
-        "rep_pct": 48.3,
-        "dem_win": false,
-        "dem_pct": 40.4,
-        "cook_pvi_dem": -9,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -8.6,
-        "rep_pct": 42.6,
-        "dem_win": false,
-        "dem_pct": 34.0,
-        "cook_pvi_dem": -9,
-        "year": "1992"
+        "dem_votes": 474276,
+        "year": "2000",
+        "rep_votes": 744337,
+        "total_votes": 1234229
       }
-    ]
+    ],
+    "name": "Oklahoma"
   },
   {
-    "name": "Oregon",
     "slug": "oregon",
     "history": [
       {
-        "rep_pct": 41.1,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 10.6,
-        "dem_pct": 51.7
+        "dem_votes": 621314,
+        "year": "1992",
+        "rep_votes": 475757,
+        "total_votes": 1462643
       },
       {
-        "dem_win_margin": 12.1,
-        "rep_pct": 42.1,
-        "dem_win": true,
-        "dem_pct": 54.2,
-        "cook_pvi_dem": 4,
-        "year": "2012"
+        "dem_votes": 970488,
+        "year": "2012",
+        "rep_votes": 754175,
+        "total_votes": 1789270
       },
       {
-        "dem_win_margin": 16.3,
-        "rep_pct": 40.4,
-        "dem_win": true,
-        "dem_pct": 56.7,
-        "cook_pvi_dem": 5,
-        "year": "2008"
+        "dem_votes": 943163,
+        "year": "2004",
+        "rep_votes": 866831,
+        "total_votes": 1836782
       },
       {
-        "dem_win_margin": 4.1,
-        "rep_pct": 47.2,
-        "dem_win": true,
-        "dem_pct": 51.3,
-        "cook_pvi_dem": 3,
-        "year": "2004"
+        "dem_votes": 649641,
+        "year": "1996",
+        "rep_votes": 538152,
+        "total_votes": 1377760
       },
       {
-        "dem_win_margin": 0.5,
-        "rep_pct": 46.5,
-        "dem_win": false,
-        "dem_pct": 47.0,
-        "cook_pvi_dem": 0,
-        "year": "2000"
+        "dem_votes": 1037291,
+        "year": "2008",
+        "rep_votes": 738475,
+        "total_votes": 1827864
       },
       {
-        "dem_win_margin": 8.1,
-        "rep_pct": 39.1,
-        "dem_win": false,
-        "dem_pct": 47.2,
-        "cook_pvi_dem": 0,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 10.0,
-        "rep_pct": 32.5,
-        "dem_win": true,
-        "dem_pct": 42.5,
-        "cook_pvi_dem": 3,
-        "year": "1992"
+        "dem_votes": 720342,
+        "year": "2000",
+        "rep_votes": 713577,
+        "total_votes": 1533968
       }
-    ]
+    ],
+    "name": "Oregon"
   },
   {
-    "name": "Pennsylvania",
     "slug": "pennsylvania",
     "history": [
       {
-        "rep_pct": 48.8,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -1.2,
-        "dem_pct": 47.6
+        "dem_votes": 2239164,
+        "year": "1992",
+        "rep_votes": 1791841,
+        "total_votes": 4959810
       },
       {
-        "dem_win_margin": 5.4,
-        "rep_pct": 46.6,
-        "dem_win": true,
-        "dem_pct": 52.0,
-        "cook_pvi_dem": 1,
-        "year": "2012"
+        "dem_votes": 2990274,
+        "year": "2012",
+        "rep_votes": 2680434,
+        "total_votes": 5754939
       },
       {
-        "dem_win_margin": 10.3,
-        "rep_pct": 44.2,
-        "dem_win": true,
-        "dem_pct": 54.5,
-        "cook_pvi_dem": 2,
-        "year": "2008"
+        "dem_votes": 2938095,
+        "year": "2004",
+        "rep_votes": 2793847,
+        "total_votes": 5769590
       },
       {
-        "dem_win_margin": 2.5,
-        "rep_pct": 48.4,
-        "dem_win": true,
-        "dem_pct": 50.9,
-        "cook_pvi_dem": 3,
-        "year": "2004"
+        "dem_votes": 2215819,
+        "year": "1996",
+        "rep_votes": 1801169,
+        "total_votes": 4506118
       },
       {
-        "dem_win_margin": 4.2,
-        "rep_pct": 46.4,
-        "dem_win": true,
-        "dem_pct": 50.6,
-        "cook_pvi_dem": 2,
-        "year": "2000"
+        "dem_votes": 3276363,
+        "year": "2008",
+        "rep_votes": 2655885,
+        "total_votes": 6015476
       },
       {
-        "dem_win_margin": 9.2,
-        "rep_pct": 40.0,
-        "dem_win": true,
-        "dem_pct": 49.2,
-        "cook_pvi_dem": 0,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 9.0,
-        "rep_pct": 36.1,
-        "dem_win": true,
-        "dem_pct": 45.1,
-        "cook_pvi_dem": 2,
-        "year": "1992"
+        "dem_votes": 2485967,
+        "year": "2000",
+        "rep_votes": 2281127,
+        "total_votes": 4913119
       }
-    ]
+    ],
+    "name": "Pennsylvania"
   },
   {
-    "name": "Rhode Island",
     "slug": "rhode-island",
     "history": [
       {
-        "rep_pct": 39.8,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 15.6,
-        "dem_pct": 55.4
+        "dem_votes": 213299,
+        "year": "1992",
+        "rep_votes": 131601,
+        "total_votes": 453478
       },
       {
-        "dem_win_margin": 27.5,
-        "rep_pct": 35.2,
-        "dem_win": true,
-        "dem_pct": 62.7,
-        "cook_pvi_dem": 12,
-        "year": "2012"
+        "dem_votes": 279677,
+        "year": "2012",
+        "rep_votes": 157204,
+        "total_votes": 446049
       },
       {
-        "dem_win_margin": 27.8,
-        "rep_pct": 35.1,
-        "dem_win": true,
-        "dem_pct": 62.9,
-        "cook_pvi_dem": 11,
-        "year": "2008"
+        "dem_votes": 259760,
+        "year": "2004",
+        "rep_votes": 169046,
+        "total_votes": 437134
       },
       {
-        "dem_win_margin": 20.7,
-        "rep_pct": 38.7,
-        "dem_win": true,
-        "dem_pct": 59.4,
-        "cook_pvi_dem": 12,
-        "year": "2004"
+        "dem_votes": 233050,
+        "year": "1996",
+        "rep_votes": 104683,
+        "total_votes": 390284
       },
       {
-        "dem_win_margin": 29.1,
-        "rep_pct": 31.9,
-        "dem_win": true,
-        "dem_pct": 61.0,
-        "cook_pvi_dem": 15,
-        "year": "2000"
+        "dem_votes": 296571,
+        "year": "2008",
+        "rep_votes": 165391,
+        "total_votes": 471766
       },
       {
-        "dem_win_margin": 32.9,
-        "rep_pct": 26.8,
-        "dem_win": true,
-        "dem_pct": 59.7,
-        "cook_pvi_dem": 14,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 18.0,
-        "rep_pct": 29.0,
-        "dem_win": true,
-        "dem_pct": 47.0,
-        "cook_pvi_dem": 8,
-        "year": "1992"
+        "dem_votes": 249508,
+        "year": "2000",
+        "rep_votes": 130555,
+        "total_votes": 409112
       }
-    ]
+    ],
+    "name": "Rhode Island"
   },
   {
-    "name": "South Carolina",
     "slug": "south-carolina",
     "history": [
       {
-        "rep_pct": 54.9,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -14.1,
-        "dem_pct": 40.8
+        "dem_votes": 479514,
+        "year": "1992",
+        "rep_votes": 577507,
+        "total_votes": 1202527
       },
       {
-        "dem_win_margin": -10.5,
-        "rep_pct": 54.6,
-        "dem_win": false,
-        "dem_pct": 44.1,
-        "cook_pvi_dem": -7,
-        "year": "2012"
+        "dem_votes": 865941,
+        "year": "2012",
+        "rep_votes": 1071645,
+        "total_votes": 1964118
       },
       {
-        "dem_win_margin": -9.0,
-        "rep_pct": 53.9,
-        "dem_win": false,
-        "dem_pct": 44.9,
-        "cook_pvi_dem": -8,
-        "year": "2008"
+        "dem_votes": 661699,
+        "year": "2004",
+        "rep_votes": 937974,
+        "total_votes": 1617730
       },
       {
-        "dem_win_margin": -17.1,
-        "rep_pct": 58.0,
-        "dem_win": false,
-        "dem_pct": 40.9,
-        "cook_pvi_dem": -7,
-        "year": "2004"
+        "dem_votes": 504051,
+        "year": "1996",
+        "rep_votes": 573458,
+        "total_votes": 1149457
       },
       {
-        "dem_win_margin": -15.9,
-        "rep_pct": 56.8,
-        "dem_win": false,
-        "dem_pct": 40.9,
-        "cook_pvi_dem": -8,
-        "year": "2000"
+        "dem_votes": 862449,
+        "year": "2008",
+        "rep_votes": 1034896,
+        "total_votes": 1920969
       },
       {
-        "dem_win_margin": -6.0,
-        "rep_pct": 49.9,
-        "dem_win": false,
-        "dem_pct": 43.9,
-        "cook_pvi_dem": -8,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -8.1,
-        "rep_pct": 48.0,
-        "dem_win": false,
-        "dem_pct": 39.9,
-        "cook_pvi_dem": -8,
-        "year": "1992"
+        "dem_votes": 566039,
+        "year": "2000",
+        "rep_votes": 786426,
+        "total_votes": 1383777
       }
-    ]
+    ],
+    "name": "South Carolina"
   },
   {
-    "name": "South Dakota",
     "slug": "south-dakota",
     "history": [
       {
-        "rep_pct": 61.5,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -29.8,
-        "dem_pct": 31.7
+        "dem_votes": 124888,
+        "year": "1992",
+        "rep_votes": 136718,
+        "total_votes": 336254
       },
       {
-        "dem_win_margin": -18.0,
-        "rep_pct": 57.9,
-        "dem_win": false,
-        "dem_pct": 39.9,
-        "cook_pvi_dem": -11,
-        "year": "2012"
+        "dem_votes": 145039,
+        "year": "2012",
+        "rep_votes": 210610,
+        "total_votes": 363815
       },
       {
-        "dem_win_margin": -8.5,
-        "rep_pct": 53.2,
-        "dem_win": false,
-        "dem_pct": 44.7,
-        "cook_pvi_dem": -8,
-        "year": "2008"
+        "dem_votes": 149244,
+        "year": "2004",
+        "rep_votes": 232584,
+        "total_votes": 388215
       },
       {
-        "dem_win_margin": -21.5,
-        "rep_pct": 59.9,
-        "dem_win": false,
-        "dem_pct": 38.4,
-        "cook_pvi_dem": -10,
-        "year": "2004"
+        "dem_votes": 139333,
+        "year": "1996",
+        "rep_votes": 150543,
+        "total_votes": 323826
       },
       {
-        "dem_win_margin": -22.7,
-        "rep_pct": 60.3,
-        "dem_win": false,
-        "dem_pct": 37.6,
-        "cook_pvi_dem": -12,
-        "year": "2000"
+        "dem_votes": 170924,
+        "year": "2008",
+        "rep_votes": 203054,
+        "total_votes": 381975
       },
       {
-        "dem_win_margin": -3.5,
-        "rep_pct": 46.5,
-        "dem_win": false,
-        "dem_pct": 43.0,
-        "cook_pvi_dem": -7,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -3.6,
-        "rep_pct": 40.7,
-        "dem_win": false,
-        "dem_pct": 37.1,
-        "cook_pvi_dem": -6,
-        "year": "1992"
+        "dem_votes": 118804,
+        "year": "2000",
+        "rep_votes": 190700,
+        "total_votes": 316269
       }
-    ]
+    ],
+    "name": "South Dakota"
   },
   {
-    "name": "Tennessee",
     "slug": "tennessee",
     "history": [
       {
-        "rep_pct": 61.1,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -26.2,
-        "dem_pct": 34.9
+        "dem_votes": 933521,
+        "year": "1992",
+        "rep_votes": 841300,
+        "total_votes": 1982638
       },
       {
-        "dem_win_margin": -20.4,
-        "rep_pct": 59.4,
-        "dem_win": false,
-        "dem_pct": 39.0,
-        "cook_pvi_dem": -12,
-        "year": "2012"
+        "dem_votes": 960709,
+        "year": "2012",
+        "rep_votes": 1462330,
+        "total_votes": 2460904
       },
       {
-        "dem_win_margin": -15.0,
-        "rep_pct": 56.8,
-        "dem_win": false,
-        "dem_pct": 41.8,
-        "cook_pvi_dem": -11,
-        "year": "2008"
+        "dem_votes": 1035160,
+        "year": "2004",
+        "rep_votes": 1383336,
+        "total_votes": 2434949
       },
       {
-        "dem_win_margin": -14.3,
-        "rep_pct": 56.8,
-        "dem_win": false,
-        "dem_pct": 42.5,
-        "cook_pvi_dem": -6,
-        "year": "2004"
+        "dem_votes": 909146,
+        "year": "1996",
+        "rep_votes": 863530,
+        "total_votes": 1894105
       },
       {
-        "dem_win_margin": -3.8,
-        "rep_pct": 51.1,
-        "dem_win": false,
-        "dem_pct": 47.3,
-        "cook_pvi_dem": -2,
-        "year": "2000"
+        "dem_votes": 1087437,
+        "year": "2008",
+        "rep_votes": 1479178,
+        "total_votes": 2601982
       },
       {
-        "dem_win_margin": 2.4,
-        "rep_pct": 45.6,
-        "dem_win": false,
-        "dem_pct": 48.0,
-        "cook_pvi_dem": -3,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 4.7,
-        "rep_pct": 42.4,
-        "dem_win": false,
-        "dem_pct": 47.1,
-        "cook_pvi_dem": -1,
-        "year": "1992"
+        "dem_votes": 981720,
+        "year": "2000",
+        "rep_votes": 1061949,
+        "total_votes": 2076181
       }
-    ]
+    ],
+    "name": "Tennessee"
   },
   {
-    "name": "Texas",
     "slug": "texas",
     "history": [
       {
-        "rep_pct": 52.6,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -9.2,
-        "dem_pct": 43.4
+        "dem_votes": 2281815,
+        "year": "1992",
+        "rep_votes": 2496071,
+        "total_votes": 6154018
       },
       {
-        "dem_win_margin": -15.7,
-        "rep_pct": 57.1,
-        "dem_win": false,
-        "dem_pct": 41.4,
-        "cook_pvi_dem": -10,
-        "year": "2012"
+        "dem_votes": 3308124,
+        "year": "2012",
+        "rep_votes": 4569843,
+        "total_votes": 7999532
       },
       {
-        "dem_win_margin": -11.8,
-        "rep_pct": 55.4,
-        "dem_win": false,
-        "dem_pct": 43.6,
-        "cook_pvi_dem": -10,
-        "year": "2008"
+        "dem_votes": 2832704,
+        "year": "2004",
+        "rep_votes": 4526917,
+        "total_votes": 7410765
       },
       {
-        "dem_win_margin": -22.9,
-        "rep_pct": 61.1,
-        "dem_win": false,
-        "dem_pct": 38.2,
-        "cook_pvi_dem": -10,
-        "year": "2004"
+        "dem_votes": 2459683,
+        "year": "1996",
+        "rep_votes": 2736167,
+        "total_votes": 5611644
       },
       {
-        "dem_win_margin": -21.3,
-        "rep_pct": 59.3,
-        "dem_win": false,
-        "dem_pct": 38.0,
-        "cook_pvi_dem": -11,
-        "year": "2000"
+        "dem_votes": 3528633,
+        "year": "2008",
+        "rep_votes": 4479328,
+        "total_votes": 8087791
       },
       {
-        "dem_win_margin": -5.0,
-        "rep_pct": 48.8,
-        "dem_win": false,
-        "dem_pct": 43.8,
-        "cook_pvi_dem": -7,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -3.5,
-        "rep_pct": 40.6,
-        "dem_win": false,
-        "dem_pct": 37.1,
-        "cook_pvi_dem": -6,
-        "year": "1992"
+        "dem_votes": 2433746,
+        "year": "2000",
+        "rep_votes": 3799639,
+        "total_votes": 6407637
       }
-    ]
+    ],
+    "name": "Texas"
   },
   {
-    "name": "Utah",
     "slug": "utah",
     "history": [
       {
-        "rep_pct": 45.9,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -18.1,
-        "dem_pct": 27.8
+        "dem_votes": 183429,
+        "year": "1992",
+        "rep_votes": 322632,
+        "total_votes": 744069
       },
       {
-        "dem_win_margin": -47.8,
-        "rep_pct": 72.5,
-        "dem_win": false,
-        "dem_pct": 24.7,
-        "cook_pvi_dem": -27,
-        "year": "2012"
+        "dem_votes": 251813,
+        "year": "2012",
+        "rep_votes": 740600,
+        "total_votes": 1020861
       },
       {
-        "dem_win_margin": -28.0,
-        "rep_pct": 62.2,
-        "dem_win": false,
-        "dem_pct": 34.2,
-        "cook_pvi_dem": -18,
-        "year": "2008"
+        "dem_votes": 241199,
+        "year": "2004",
+        "rep_votes": 663742,
+        "total_votes": 927844
       },
       {
-        "dem_win_margin": -45.5,
-        "rep_pct": 71.5,
-        "dem_win": false,
-        "dem_pct": 26.0,
-        "cook_pvi_dem": -22,
-        "year": "2004"
+        "dem_votes": 221633,
+        "year": "1996",
+        "rep_votes": 361911,
+        "total_votes": 665629
       },
       {
-        "dem_win_margin": -40.5,
-        "rep_pct": 66.8,
-        "dem_win": false,
-        "dem_pct": 26.3,
-        "cook_pvi_dem": -22,
-        "year": "2000"
+        "dem_votes": 327670,
+        "year": "2008",
+        "rep_votes": 596030,
+        "total_votes": 958996
       },
       {
-        "dem_win_margin": -21.1,
-        "rep_pct": 54.4,
-        "dem_win": false,
-        "dem_pct": 33.3,
-        "cook_pvi_dem": -17,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -18.7,
-        "rep_pct": 43.4,
-        "dem_win": false,
-        "dem_pct": 24.7,
-        "cook_pvi_dem": -17,
-        "year": "1992"
+        "dem_votes": 203053,
+        "year": "2000",
+        "rep_votes": 515096,
+        "total_votes": 770754
       }
-    ]
+    ],
+    "name": "Utah"
   },
   {
-    "name": "Vermont",
     "slug": "vermont",
     "history": [
       {
-        "rep_pct": 32.6,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 28.5,
-        "dem_pct": 61.1
+        "dem_votes": 133592,
+        "year": "1992",
+        "rep_votes": 88122,
+        "total_votes": 289701
       },
       {
-        "dem_win_margin": 35.6,
-        "rep_pct": 31.0,
-        "dem_win": true,
-        "dem_pct": 66.6,
-        "cook_pvi_dem": 16,
-        "year": "2012"
+        "dem_votes": 199239,
+        "year": "2012",
+        "rep_votes": 92698,
+        "total_votes": 299290
       },
       {
-        "dem_win_margin": 37.1,
-        "rep_pct": 30.4,
-        "dem_win": true,
-        "dem_pct": 67.5,
-        "cook_pvi_dem": 15,
-        "year": "2008"
+        "dem_votes": 184067,
+        "year": "2004",
+        "rep_votes": 121180,
+        "total_votes": 312309
       },
       {
-        "dem_win_margin": 20.1,
-        "rep_pct": 38.8,
-        "dem_win": true,
-        "dem_pct": 58.9,
-        "cook_pvi_dem": 12,
-        "year": "2004"
+        "dem_votes": 137894,
+        "year": "1996",
+        "rep_votes": 80352,
+        "total_votes": 258449
       },
       {
-        "dem_win_margin": 9.9,
-        "rep_pct": 40.7,
-        "dem_win": true,
-        "dem_pct": 50.6,
-        "cook_pvi_dem": 5,
-        "year": "2000"
+        "dem_votes": 219262,
+        "year": "2008",
+        "rep_votes": 98974,
+        "total_votes": 325046
       },
       {
-        "dem_win_margin": 22.3,
-        "rep_pct": 31.1,
-        "dem_win": true,
-        "dem_pct": 53.4,
-        "cook_pvi_dem": 8,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 15.7,
-        "rep_pct": 30.4,
-        "dem_win": true,
-        "dem_pct": 46.1,
-        "cook_pvi_dem": 7,
-        "year": "1992"
+        "dem_votes": 149022,
+        "year": "2000",
+        "rep_votes": 119775,
+        "total_votes": 294308
       }
-    ]
+    ],
+    "name": "Vermont"
   },
   {
-    "name": "Virginia",
     "slug": "virginia",
     "history": [
       {
-        "rep_pct": 45.0,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 4.9,
-        "dem_pct": 49.9
+        "dem_votes": 1038650,
+        "year": "1992",
+        "rep_votes": 1150517,
+        "total_votes": 2558665
       },
       {
-        "dem_win_margin": 3.9,
-        "rep_pct": 47.3,
-        "dem_win": true,
-        "dem_pct": 51.2,
-        "cook_pvi_dem": 0,
-        "year": "2012"
+        "dem_votes": 1971820,
+        "year": "2012",
+        "rep_votes": 1822522,
+        "total_votes": 3854489
       },
       {
-        "dem_win_margin": 6.3,
-        "rep_pct": 46.3,
-        "dem_win": false,
-        "dem_pct": 52.6,
-        "cook_pvi_dem": -1,
-        "year": "2008"
+        "dem_votes": 1454742,
+        "year": "2004",
+        "rep_votes": 1716959,
+        "total_votes": 3198367
       },
       {
-        "dem_win_margin": -8.2,
-        "rep_pct": 53.7,
-        "dem_win": false,
-        "dem_pct": 45.5,
-        "cook_pvi_dem": -3,
-        "year": "2004"
+        "dem_votes": 1091060,
+        "year": "1996",
+        "rep_votes": 1138350,
+        "total_votes": 2416642
       },
       {
-        "dem_win_margin": -8.1,
-        "rep_pct": 52.5,
-        "dem_win": false,
-        "dem_pct": 44.4,
-        "cook_pvi_dem": -4,
-        "year": "2000"
+        "dem_votes": 1959532,
+        "year": "2008",
+        "rep_votes": 1725005,
+        "total_votes": 3723260
       },
       {
-        "dem_win_margin": -2.0,
-        "rep_pct": 47.1,
-        "dem_win": false,
-        "dem_pct": 45.1,
-        "cook_pvi_dem": -6,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -4.4,
-        "rep_pct": 45.0,
-        "dem_win": false,
-        "dem_pct": 40.6,
-        "cook_pvi_dem": -6,
-        "year": "1992"
+        "dem_votes": 1217290,
+        "year": "2000",
+        "rep_votes": 1437490,
+        "total_votes": 2739447
       }
-    ]
+    ],
+    "name": "Virginia"
   },
   {
-    "name": "Washington",
     "slug": "washington",
     "history": [
       {
-        "rep_pct": 38.2,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 16.2,
-        "dem_pct": 54.4
+        "dem_votes": 993037,
+        "year": "1992",
+        "rep_votes": 731234,
+        "total_votes": 2288230
       },
       {
-        "dem_win_margin": 14.8,
-        "rep_pct": 41.0,
-        "dem_win": true,
-        "dem_pct": 55.8,
-        "cook_pvi_dem": 6,
-        "year": "2012"
+        "dem_votes": 1755396,
+        "year": "2012",
+        "rep_votes": 1290670,
+        "total_votes": 3145958
       },
       {
-        "dem_win_margin": 17.0,
-        "rep_pct": 40.3,
-        "dem_win": true,
-        "dem_pct": 57.3,
-        "cook_pvi_dem": 5,
-        "year": "2008"
+        "dem_votes": 1510201,
+        "year": "2004",
+        "rep_votes": 1304894,
+        "total_votes": 2861713
       },
       {
-        "dem_win_margin": 7.2,
-        "rep_pct": 45.6,
-        "dem_win": true,
-        "dem_pct": 52.8,
-        "cook_pvi_dem": 5,
-        "year": "2004"
+        "dem_votes": 1123323,
+        "year": "1996",
+        "rep_votes": 840712,
+        "total_votes": 2253837
       },
       {
-        "dem_win_margin": 5.5,
-        "rep_pct": 44.6,
-        "dem_win": true,
-        "dem_pct": 50.1,
-        "cook_pvi_dem": 3,
-        "year": "2000"
+        "dem_votes": 1750848,
+        "year": "2008",
+        "rep_votes": 1229216,
+        "total_votes": 3053261
       },
       {
-        "dem_win_margin": 12.5,
-        "rep_pct": 37.3,
-        "dem_win": true,
-        "dem_pct": 49.8,
-        "cook_pvi_dem": 2,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 11.4,
-        "rep_pct": 32.0,
-        "dem_win": true,
-        "dem_pct": 43.4,
-        "cook_pvi_dem": 4,
-        "year": "1992"
+        "dem_votes": 1247652,
+        "year": "2000",
+        "rep_votes": 1108864,
+        "total_votes": 2488745
       }
-    ]
+    ],
+    "name": "Washington"
   },
   {
-    "name": "West Virginia",
     "slug": "west-virginia",
     "history": [
       {
-        "rep_pct": 68.7,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -42.2,
-        "dem_pct": 26.5
+        "dem_votes": 331001,
+        "year": "1992",
+        "rep_votes": 241974,
+        "total_votes": 683711
       },
       {
-        "dem_win_margin": -26.6,
-        "rep_pct": 62.1,
-        "dem_win": false,
-        "dem_pct": 35.5,
-        "cook_pvi_dem": -16,
-        "year": "2012"
+        "dem_votes": 238269,
+        "year": "2012",
+        "rep_votes": 417655,
+        "total_votes": 672119
       },
       {
-        "dem_win_margin": -13.1,
-        "rep_pct": 55.6,
-        "dem_win": false,
-        "dem_pct": 42.5,
-        "cook_pvi_dem": -10,
-        "year": "2008"
+        "dem_votes": 326541,
+        "year": "2004",
+        "rep_votes": 423778,
+        "total_votes": 755887
       },
       {
-        "dem_win_margin": -12.9,
-        "rep_pct": 56.1,
-        "dem_win": false,
-        "dem_pct": 43.2,
-        "cook_pvi_dem": -5,
-        "year": "2004"
+        "dem_votes": 327812,
+        "year": "1996",
+        "rep_votes": 233946,
+        "total_votes": 636459
       },
       {
-        "dem_win_margin": -6.3,
-        "rep_pct": 51.9,
-        "dem_win": false,
-        "dem_pct": 45.6,
-        "cook_pvi_dem": -4,
-        "year": "2000"
+        "dem_votes": 303857,
+        "year": "2008",
+        "rep_votes": 397466,
+        "total_votes": 715123
       },
       {
-        "dem_win_margin": 14.7,
-        "rep_pct": 36.8,
-        "dem_win": true,
-        "dem_pct": 51.5,
-        "cook_pvi_dem": 4,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 13.0,
-        "rep_pct": 35.4,
-        "dem_win": true,
-        "dem_pct": 48.4,
-        "cook_pvi_dem": 4,
-        "year": "1992"
+        "dem_votes": 295497,
+        "year": "2000",
+        "rep_votes": 336475,
+        "total_votes": 648124
       }
-    ]
+    ],
+    "name": "West Virginia"
   },
   {
-    "name": "Wisconsin",
     "slug": "wisconsin",
     "history": [
       {
-        "rep_pct": 47.9,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -1.0,
-        "dem_pct": 46.9
+        "dem_votes": 1041066,
+        "year": "1992",
+        "rep_votes": 930855,
+        "total_votes": 2531114
       },
       {
-        "dem_win_margin": 6.9,
-        "rep_pct": 45.9,
-        "dem_win": true,
-        "dem_pct": 52.8,
-        "cook_pvi_dem": 2,
-        "year": "2012"
+        "dem_votes": 1620985,
+        "year": "2012",
+        "rep_votes": 1407966,
+        "total_votes": 3068434
       },
       {
-        "dem_win_margin": 13.9,
-        "rep_pct": 42.3,
-        "dem_win": true,
-        "dem_pct": 56.2,
-        "cook_pvi_dem": 3,
-        "year": "2008"
+        "dem_votes": 1489504,
+        "year": "2004",
+        "rep_votes": 1478120,
+        "total_votes": 2997007
       },
       {
-        "dem_win_margin": 0.4,
-        "rep_pct": 49.3,
-        "dem_win": true,
-        "dem_pct": 49.7,
-        "cook_pvi_dem": 1,
-        "year": "2004"
+        "dem_votes": 1071971,
+        "year": "1996",
+        "rep_votes": 845029,
+        "total_votes": 2196169
       },
       {
-        "dem_win_margin": 0.2,
-        "rep_pct": 47.6,
-        "dem_win": false,
-        "dem_pct": 47.8,
-        "cook_pvi_dem": 0,
-        "year": "2000"
+        "dem_votes": 1677211,
+        "year": "2008",
+        "rep_votes": 1262393,
+        "total_votes": 2983417
       },
       {
-        "dem_win_margin": 10.3,
-        "rep_pct": 38.5,
-        "dem_win": true,
-        "dem_pct": 48.8,
-        "cook_pvi_dem": 1,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 4.3,
-        "rep_pct": 36.8,
-        "dem_win": false,
-        "dem_pct": 41.1,
-        "cook_pvi_dem": -1,
-        "year": "1992"
+        "dem_votes": 1242987,
+        "year": "2000",
+        "rep_votes": 1237279,
+        "total_votes": 2598607
       }
-    ]
+    ],
+    "name": "Wisconsin"
   },
   {
-    "name": "Wyoming",
     "slug": "wyoming",
     "history": [
       {
-        "rep_pct": 70.1,
-        "year": "2016",
-        "dem_win": false,
-        "dem_win_margin": -47.6,
-        "dem_pct": 22.5
+        "dem_votes": 68160,
+        "year": "1992",
+        "rep_votes": 79347,
+        "total_votes": 200625
       },
       {
-        "dem_win_margin": -40.8,
-        "rep_pct": 68.6,
-        "dem_win": false,
-        "dem_pct": 27.8,
-        "cook_pvi_dem": -23,
-        "year": "2012"
+        "dem_votes": 69286,
+        "year": "2012",
+        "rep_votes": 170962,
+        "total_votes": 249061
       },
       {
-        "dem_win_margin": -32.3,
-        "rep_pct": 64.8,
-        "dem_win": false,
-        "dem_pct": 32.5,
-        "cook_pvi_dem": -20,
-        "year": "2008"
+        "dem_votes": 70776,
+        "year": "2004",
+        "rep_votes": 167629,
+        "total_votes": 243428
       },
       {
-        "dem_win_margin": -39.8,
-        "rep_pct": 68.9,
-        "dem_win": false,
-        "dem_pct": 29.1,
-        "cook_pvi_dem": -19,
-        "year": "2004"
+        "dem_votes": 77934,
+        "year": "1996",
+        "rep_votes": 105388,
+        "total_votes": 211571
       },
       {
-        "dem_win_margin": -40.1,
-        "rep_pct": 67.8,
-        "dem_win": false,
-        "dem_pct": 27.7,
-        "cook_pvi_dem": -21,
-        "year": "2000"
+        "dem_votes": 82868,
+        "year": "2008",
+        "rep_votes": 164958,
+        "total_votes": 254658
       },
       {
-        "dem_win_margin": -13.0,
-        "rep_pct": 49.8,
-        "dem_win": false,
-        "dem_pct": 36.8,
-        "cook_pvi_dem": -12,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": -5.5,
-        "rep_pct": 39.5,
-        "dem_win": false,
-        "dem_pct": 34.0,
-        "cook_pvi_dem": -7,
-        "year": "1992"
+        "dem_votes": 60481,
+        "year": "2000",
+        "rep_votes": 147947,
+        "total_votes": 218351
       }
-    ]
+    ],
+    "name": "Wyoming"
   },
   {
-    "name": "Washington DC",
     "slug": "washington-dc",
     "history": [
       {
-        "rep_pct": 4.1,
-        "year": "2016",
-        "dem_win": true,
-        "dem_win_margin": 88.7,
-        "dem_pct": 92.8
+        "dem_votes": 192619,
+        "year": "1992",
+        "rep_votes": 20698,
+        "total_votes": 227572
       },
       {
-        "dem_win_margin": 83.6,
-        "rep_pct": 7.3,
-        "dem_win": true,
-        "dem_pct": 90.9,
-        "cook_pvi_dem": 41,
-        "year": "2012"
+        "dem_votes": 267070,
+        "year": "2012",
+        "rep_votes": 21381,
+        "total_votes": 293764
       },
       {
-        "dem_win_margin": 86.0,
-        "rep_pct": 6.5,
-        "dem_win": true,
-        "dem_pct": 92.5,
-        "cook_pvi_dem": 40,
-        "year": "2008"
+        "dem_votes": 202970,
+        "year": "2004",
+        "rep_votes": 21256,
+        "total_votes": 227586
       },
       {
-        "dem_win_margin": 79.9,
-        "rep_pct": 9.3,
-        "dem_win": true,
-        "dem_pct": 89.2,
-        "cook_pvi_dem": 42,
-        "year": "2004"
+        "dem_votes": 158220,
+        "year": "1996",
+        "rep_votes": 17339,
+        "total_votes": 185726
       },
       {
-        "dem_win_margin": 76.2,
-        "rep_pct": 9.0,
-        "dem_win": true,
-        "dem_pct": 85.2,
-        "cook_pvi_dem": 40,
-        "year": "2000"
+        "dem_votes": 245800,
+        "year": "2008",
+        "rep_votes": 17367,
+        "total_votes": 265853
       },
       {
-        "dem_win_margin": 75.9,
-        "rep_pct": 9.3,
-        "dem_win": true,
-        "dem_pct": 85.2,
-        "cook_pvi_dem": 35,
-        "year": "1996"
-      },
-      {
-        "dem_win_margin": 75.5,
-        "rep_pct": 9.1,
-        "dem_win": true,
-        "dem_pct": 84.6,
-        "cook_pvi_dem": 37,
-        "year": "1992"
+        "dem_votes": 171923,
+        "year": "2000",
+        "rep_votes": 18073,
+        "total_votes": 201894
       }
-    ]
+    ],
+    "name": "Washington DC"
   }
 ]
