@@ -1,0 +1,7 @@
+extends:
+  - standard
+  - vue
+  - plugin:import/errors
+
+plugins:
+  - vue

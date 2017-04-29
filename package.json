@@ -1,15 +1,23 @@
 {
   "name": "whyvote.us",
   "private": true,
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "vbuild dev",
+    "build": "vbuild build"
+  },
+  "dependencies": {
+    "eslint-plugin-node": "^4.2.2",
+    "vue": "^2.3.0"
+  },
   "devDependencies": {
     "eslint": "^3.10.0",
     "eslint-config-standard": "^6.2.1",
-    "eslint-plugin-promise": "^3.3.2",
-    "eslint-plugin-react": "^6.6.0",
-    "eslint-plugin-standard": "^2.0.1"
-  },
-  "scripts": {
-    "build": "webpack",
-    "serve": "webpack-dev-server --output-public-path dist/"
+    "eslint-config-vue": "^2.0.2",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "eslint-plugin-vue": "^2.0.1",
+    "vbuild": "^7.2.4"
   }
 }
