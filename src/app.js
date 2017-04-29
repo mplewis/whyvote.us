@@ -1,5 +1,9 @@
 import Vue from 'vue'
 
+/* eslint-disable */
+import '!style-loader!css-loader!purecss/build/pure.css'
+/* eslint-enable */
+
 const Component = {
   name: 'Component',
   render () {
