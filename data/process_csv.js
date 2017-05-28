@@ -16,6 +16,16 @@ function transpose (table) {
   return range(table[0].length).map(colNum => colFromTable(table, colNum))
 }
 
+function groupBy (data, key) {
+  const output = {}
+  data.forEach(one => { output[key(one)] = one })
+  return output
+}
+
+function coerceToNumber (val) {
+  return parseInt(val.replace(/,/g, '')) || val
+}
+
 const csv = 'us_pres_results_by_state_1828-2016_overall.csv'
 const csvPath = path.join(__dirname, csv)
 const raw = fs.readFileSync(csvPath)
@@ -46,7 +56,6 @@ const colsToDrop = cols
   .filter(Boolean)
 colsToDrop.reverse()
 colsToDrop.forEach(colNum => { cols = cols.slice(0, colNum).concat(cols.slice(colNum + 1)) })
-
 table = transpose(cols)
 
 // drop rows with regions - states and regions are separated by a blank row
@@ -56,3 +65,15 @@ table = table.slice(0, dropRegionsRow)
 // drop nationwide row
 const dropNationwideRow = cols[0].findIndex(cell => cell === 'Nationwide')
 table = table.slice(0, dropNationwideRow).concat(table.slice(dropNationwideRow + 1))
+
+// coerce all table values to numbers if they're probably numbers (year, votes, etc.)
+table.forEach(row => {
+  row.forEach((cell, i) => {
+    row[i] = coerceToNumber(cell)
+  })
+})
+cols = transpose(table)
+
+// group by year
+const grouped = groupBy(cols.slice(1), col => col[0])
+console.log(Object.keys(grouped))
