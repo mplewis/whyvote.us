@@ -16,16 +16,11 @@ function transpose (table) {
   return range(table[0].length).map(colNum => colFromTable(table, colNum))
 }
 
-function groupBy (data, key) {
-  const output = {}
-  data.forEach(one => { output[key(one)] = one })
-  return output
-}
-
 function coerceToNumber (val) {
   return parseInt(val.replace(/,/g, '')) || val
 }
 
+// load data from csv
 const csv = 'us_pres_results_by_state_1828-2016_overall.csv'
 const csvPath = path.join(__dirname, csv)
 const raw = fs.readFileSync(csvPath)
@@ -72,8 +67,22 @@ table.forEach(row => {
     row[i] = coerceToNumber(cell)
   })
 })
-cols = transpose(table)
 
-// group by year
-const grouped = groupBy(cols.slice(1), col => col[0])
-console.log(Object.keys(grouped))
+// group all state data
+const stateData = {}
+table.slice(2).forEach(row => {
+  const stateName = row[0]
+  stateData[stateName] = stateData[stateName] || {}
+  row.slice(1).forEach((votes, i) => {
+    i++  // fix lookup error since we're starting at col 1
+    const year = table[0][i]
+    const [candidate, party] = table[1][i].split(' - ')
+    stateData[stateName][year] = stateData[stateName][year] || []
+    stateData[stateName][year].push({ candidate, party, votes })
+  })
+})
+
+// write to json
+const jsonOut = path.join(__dirname, '..', 'src', 'fixtures', 'voting_data.json')
+const data = JSON.stringify(stateData, null, 2)
+fs.writeFileSync(jsonOut, data)
