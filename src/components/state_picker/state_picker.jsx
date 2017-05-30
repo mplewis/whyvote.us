@@ -1,26 +1,17 @@
-const states = [
-  'Colorado',
-  'Minnesota',
-  'Wisconsin'
-]
+import states from '../../fixtures/states.json'
 
 export default {
   name: 'StatePicker',
-  methods: {
-    select () {
-      const options = states.map(s => <option value={s.toLowerCase()}>{s}</option>)
-      return (
-        <select>{options}</select>
-      )
-    }
+  props: {
+    statePicked: { type: Function, required: true }
   },
   render () {
     return (
       <div>
-        <p>
-          Select your state:
-        </p>
-        { this.select() }
+        <select onChange={this.statePicked}>
+          <option selected disabled>Select your state:</option>
+          { states.map(s => <option value={s.toLowerCase()}>{s}</option>) }
+        </select>
       </div>
     )
   }
