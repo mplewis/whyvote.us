@@ -5,14 +5,14 @@ export default {
   render () {
     return (
       <div class={style.content}>
-        <div class='pure-g'>
-          <div class='pure-u-3'>
+        <div class='row'>
+          <div class='column'>
             <p>whyvote.us</p>
           </div>
-          <div class='pure-u-3'>
+          <div class='column'>
             <p>The grid system works!</p>
           </div>
-          <div class='pure-u-3'>
+          <div class='column'>
             <p>This is a three-column layout.</p>
           </div>
         </div>
