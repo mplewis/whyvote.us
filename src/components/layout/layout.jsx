@@ -1,3 +1,4 @@
+import Header from '../header/header.jsx'
 import style from './layout.styl'
 
 export default {
@@ -5,17 +6,7 @@ export default {
   render () {
     return (
       <div class={style.content}>
-        <div class='row'>
-          <div class='column'>
-            <p>whyvote.us</p>
-          </div>
-          <div class='column'>
-            <p>The grid system works!</p>
-          </div>
-          <div class='column'>
-            <p>This is a three-column layout.</p>
-          </div>
-        </div>
+        <Header />
       </div>
     )
   }
