@@ -1,4 +1,4 @@
-import states from '../../fixtures/states.json'
+import { states } from '../../fixtures/voting_data'
 
 export default {
   name: 'StatePicker',
@@ -10,7 +10,7 @@ export default {
       <div>
         <select onChange={this.statePicked}>
           <option selected disabled>Select your state:</option>
-          { states.map(s => <option value={s.toLowerCase()}>{s}</option>) }
+          { states.map(s => <option value={s}>{s}</option>) }
         </select>
       </div>
     )

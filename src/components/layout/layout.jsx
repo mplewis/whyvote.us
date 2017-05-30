@@ -3,7 +3,7 @@ import StatePicker from '../state_picker/state_picker.jsx'
 import VotingInfo from '../voting_info/voting_info.jsx'
 
 import style from './layout.styl'
-import states from '../../fixtures/states.json'
+import { states } from '../../fixtures/voting_data'
 
 export default {
   name: 'Layout',
