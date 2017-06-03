@@ -1,4 +1,5 @@
 import SingleElection from '../single_election/single_election.jsx'
+import style from './voting_info.styl'
 import { twoPartyVotesForState } from '../../fixtures/voting_data'
 
 export default {
@@ -25,7 +26,9 @@ export default {
         <h1>
           Voting info for {this.state}
         </h1>
-        { this.allResults() }
+        <div class={style.results}>
+          { this.allResults() }
+        </div>
       </div>
     )
   }

@@ -9,7 +9,7 @@ function electionStats (repVotes, demVotes) {
   const demWin = demVotes > repVotes
   const repWin = repVotes > demVotes
   const demWinMargin = demPct - repPct
-  const close = Math.abs(demWinMargin) > CLOSE_ELECTION_MARGIN
+  const close = Math.abs(demWinMargin) < CLOSE_ELECTION_MARGIN
   const data = { total, demPct, repPct, demWin, repWin, demWinMargin, close }
   return data
 }
@@ -21,6 +21,11 @@ export default {
     repVotes: { type: Number, required: true },
     demVotes: { type: Number, required: true }
   },
+  methods: {
+    colorize (stats) {
+      return { [style.demWin]: stats.demWin, [style.repWin]: stats.repWin }
+    }
+  },
   render () {
     const stats = electionStats(this.repVotes, this.demVotes)
 
@@ -29,14 +34,12 @@ export default {
     const margin = `${party} +${points}`
 
     return (
-      <div class={[style.result, { [style.close]: stats.close }]}>
-        <p class='year'>{this.year}</p>
-        <p class={{
-          [style.demWin]: stats.demWin,
-          [style.repWin]: stats.repWin
-        }}>
-          {margin}
-        </p>
+      <div class={{ [style.result]: true, [style.close]: stats.close }}>
+        <p class={style.year}>{this.year}</p>
+        <div class={this.colorize(stats)}>
+          <p class={style.margin}>{margin}</p>
+        </div>
+        {stats.close && <p>Close!</p>}
       </div>
     )
   }
