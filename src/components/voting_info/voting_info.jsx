@@ -37,8 +37,8 @@ export default {
     howManyClose (data) {
       const closeCount = data.filter(e => e.stats.close).length
       return (
-        `In ${closeCount} out of ${data.length} presidential elections, ` +
-        `the margin of victory in ${this.state} has been close.`
+        `The margin of victory in ${this.state} has been close ` +
+        `in ${closeCount} out of ${data.length} presidential elections.`
       )
     }
   },
