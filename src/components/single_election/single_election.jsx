@@ -4,7 +4,7 @@ export default {
   name: 'SingleElection',
   props: {
     year: { type: String, required: true },
-    stats: { type: Object, required: true },
+    stats: { type: Object, required: true }
   },
   methods: {
     colorize () {
