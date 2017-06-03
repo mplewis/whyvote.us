@@ -16,7 +16,6 @@ export default {
       return elections
     },
     allResults () {
-      console.log('lookup')
       return this.orderedElections().map(e => <SingleElection year={e.year} repVotes={e.r} demVotes={e.d} />)
     }
   },
