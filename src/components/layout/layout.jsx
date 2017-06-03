@@ -15,9 +15,7 @@ export default {
       this.selectedState = states[event.target.selectedIndex - 1]
     },
     votingInfo () {
-      console.log('votingInfo')
       if (!this.selectedState) return null
-      console.log('render')
       return <VotingInfo state={this.selectedState} />
     }
   },
