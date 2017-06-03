@@ -22,27 +22,38 @@ export default {
     state: { type: String, required: true }
   },
   methods: {
-    orderedElections () {
-      const data = twoPartyVotesForState(this.state)
+    processElections () {
+      const raw = twoPartyVotesForState(this.state)
       const elections = []
-      Object.entries(data).forEach(([year, { d, r }]) => elections.push({ year, d, r }))
+      Object.entries(raw).forEach(([year, { r, d }]) =>
+        elections.push({ year, stats: electionStats(r, d) })
+      )
       elections.sort((a, b) => a.year - b.year)
       return elections
     },
-    allResults () {
-      return this.orderedElections().map(e =>
-        <SingleElection year={e.year} stats={electionStats(e.r, e.d)} />
+    allResults (data) {
+      return data.map(e => <SingleElection year={e.year} stats={e.stats} />)
+    },
+    howManyClose (data) {
+      const closeCount = data.filter(e => e.stats.close).length
+      return (
+        `In ${closeCount} out of ${data.length} presidential elections, ` +
+        `the margin of victory in ${this.state} has been close.`
       )
     }
   },
   render () {
+    const data = this.processElections()
     return (
       <div>
         <h1>
           Voting info for {this.state}
         </h1>
+        <p>
+          {this.howManyClose(data)}
+        </p>
         <div class={style.results}>
-          { this.allResults() }
+          { this.allResults(data) }
         </div>
       </div>
     )
