@@ -22,6 +22,13 @@ export default {
       if (!this.selectedState) return null
       return <VotingInfo state={this.selectedState} />
     },
+    hintOrFaq () {
+      if (this.selectedState) {
+        return <Faq />
+      } else {
+        return (<p class={style.hint}>To find out, pick your state from the dropdown above.</p>)
+      }
+    },
     forkMe () {
       /* eslint-disable jsx-quotes */
       return (
@@ -51,7 +58,7 @@ export default {
         <StatePicker statePicked={this.onStatePicked} />
         { this.votingInfo() }
         { this.googleAnalytics() }
-        <Faq />
+        { this.hintOrFaq() }
       </div>
     )
   }
