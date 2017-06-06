@@ -2,13 +2,11 @@
 
 ## Does my vote count?
 
-If you don't live in a swing state, your vote probably doesn't count.
+If you don't live in a swing state, your vote probably doesn't matter. Sorry.
 
-If the collective voters of your state support one party with consistently high margins, it's not worth the time of a presidential candidate to try and flip your state. Candidates prefer to brawl over swing states that could easily go to either party.
+If your state's voters consistently support one party, it's not worth the time of a presidential candidate to try and flip your state. Why would a Democrat spend time trying to win **Kansas** (<span class="rep-red">R +15-22%</span>)? And why would a Republican spend money in **Rhode Island** (<span class="dem-blu">D +17-38%</span>)?
 
-Why would a Democrat spend time trying to flip **Kansas** (<span class="rep-red">R +15-22%</span>)? And why would a Republican try to score **Rhode Island** (<span class="dem-blu">D +17-38%</span>)?
-
-Both candidates can spend money more efficiently by campaigning in states like **Florida** (<span class="rep-red">R +5%</span> to <span class="dem-blu">D +6%</span>) and **Colorado** (<span class="rep-red">R +9%</span> to <span class="dem-blu">D +9%</span>). Swing states like these are more likely to flip either direction.
+Candidates prefer to fight for swing states like **Florida** (<span class="rep-red">R +5%</span> to <span class="dem-blu">D +6%</span>) and **Colorado** (<span class="rep-red">R +9%</span> to <span class="dem-blu">D +9%</span>). States like these are more likely to flip either direction, and political campaigns get more bang for their buck when spending time and money there.
 
 ## This sucks, right?
 
