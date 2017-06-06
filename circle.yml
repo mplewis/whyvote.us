@@ -7,6 +7,10 @@ machine:
   node:
     version: 6.1.0
 
+dependencies:
+  override:
+    - yarn install
+
 test:
   override:
     - echo 'no tests'
