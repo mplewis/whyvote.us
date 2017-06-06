@@ -1,5 +1,6 @@
 module.exports = {
   cssModules: true,
+  extractCSS: false,
   autoprefixer: {
     browsers: ['> 5%']
   },
