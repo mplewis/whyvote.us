@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "poi dev",
     "build": "poi build",
-    "deploy": "echo 'whyvote.us' > dist/CNAME; gh-pages -d dist"
+    "deploy": "echo 'whyvote.us' > dist/CNAME; gh-pages -d dist -m \"[skip ci] $(git rev-parse --short HEAD)\""
   },
   "dependencies": {
     "flexboxgrid": "^6.3.1",
