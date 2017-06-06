@@ -16,7 +16,7 @@ This isn't how democracy works.
 
 ## What can I do to change this?
 
-**Call, fax, and write your state representatives.** Reaching out directly to your reps is one of the most effective ways to make your opinion heard in Washington.
+**Call, fax, and write your state representatives.** Tell them the Electoral College sucks and you want direct representation. Tell them you want them to support the [National Popular Vote law](http://www.nationalpopularvote.com/status) – 11 states already have. 
 
 **Text RESIST to 50409** or [message Resistbot on Messenger](http://m.me/resistbot/) and you can mail letters to Congress from the comfort of your phone. It's free and extremely easy.
 
