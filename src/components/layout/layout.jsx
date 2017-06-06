@@ -1,6 +1,7 @@
 import Header from '../header/header.jsx'
 import StatePicker from '../state_picker/state_picker.jsx'
 import VotingInfo from '../voting_info/voting_info.jsx'
+import Faq from '../faq/faq.jsx'
 
 import style from './layout.styl'
 import { states } from '../../fixtures/voting_data'
@@ -35,6 +36,7 @@ export default {
         <Header />
         <StatePicker statePicked={this.onStatePicked} />
         { this.votingInfo() }
+        <Faq />
       </div>
     )
   }
