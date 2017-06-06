@@ -8,6 +8,7 @@
     "deploy": "echo 'whyvote.us' > dist/CNAME; gh-pages -d dist"
   },
   "dependencies": {
+    "flexboxgrid": "^6.3.1",
     "milligram": "^1.3.0",
     "vue": "^2.3.0"
   },

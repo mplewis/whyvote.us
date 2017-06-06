@@ -1,3 +1,4 @@
+import style from './state_picker.styl'
 import { states } from '../../fixtures/voting_data'
 
 export default {
@@ -7,7 +8,7 @@ export default {
   },
   render () {
     return (
-      <div>
+      <div class={style.statePicker}>
         <select onChange={this.statePicked}>
           <option selected disabled>Select your state:</option>
           { states.map(s => <option value={s}>{s}</option>) }
