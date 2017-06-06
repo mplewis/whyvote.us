@@ -32,13 +32,17 @@ export default {
       return elections
     },
     allResults (data) {
-      return data.map(e => <SingleElection year={e.year} stats={e.stats} />)
+      return data.map(e =>
+        <div class={[style.singleElection, 'col-xs-4', 'col-sm-2']}>
+          <SingleElection year={e.year} stats={e.stats} />
+        </div>
+      )
     },
     howManyClose (data) {
       const closeCount = data.filter(e => e.stats.close).length
       return (
         `The margin of victory in ${this.state} has been close ` +
-        `in ${closeCount} out of ${data.length} presidential elections.`
+        `in ${closeCount} out of ${data.length} recent presidential elections.`
       )
     }
   },
@@ -46,13 +50,10 @@ export default {
     const data = this.processElections()
     return (
       <div>
-        <h1>
-          Voting info for {this.state}
-        </h1>
         <p>
           {this.howManyClose(data)}
         </p>
-        <div class={style.results}>
+        <div class='row'>
           { this.allResults(data) }
         </div>
       </div>
