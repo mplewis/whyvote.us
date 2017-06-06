@@ -16,6 +16,10 @@ function electionStats (repVotes, demVotes) {
   return data
 }
 
+function numWord (num) {
+  return 'zero one two three four five six'.split(' ')[num]
+}
+
 export default {
   name: 'VotingInfo',
   props: {
@@ -61,7 +65,7 @@ export default {
     howManyClose (data) {
       return (
         `The margin of victory in ${this.state} has been close in ` +
-        `${this.closeCount(data)} of ${data.length} recent presidential elections.`
+        `${numWord(this.closeCount(data))} of ${numWord(data.length)} recent presidential elections.`
       )
     }
   },
