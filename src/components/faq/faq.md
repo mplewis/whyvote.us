@@ -2,7 +2,7 @@
 
 ## Does my vote count?
 
-If you don't live in a swing state, probably not.
+If you don't live in a swing state, your vote probably doesn't count.
 
 If the collective voters of your state support one party with consistently high margins, it's not worth the time of a presidential candidate to try and flip your state. Candidates prefer to brawl over swing states that could easily go to either party.
 
