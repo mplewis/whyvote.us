@@ -52,4 +52,4 @@ Data comes from [Daily Kos Elections](http://www.dailykos.com/story/2016/11/25/1
 
 ## Who are you?
 
-I'm [Matt Lewis](https://mplewis.com), a software engineer in Denver, CO.
+I'm [Matt Lewis](http://mplewis.com), a software engineer in Denver, CO.
