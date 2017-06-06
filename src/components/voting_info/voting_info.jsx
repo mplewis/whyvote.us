@@ -38,11 +38,27 @@ export default {
         </div>
       )
     },
-    howManyClose (data) {
-      const closeCount = data.filter(e => e.stats.close).length
+    closeCount (data) {
+      return data.filter(e => e.stats.close).length
+    },
+    stateSwinginess (data) {
+      const close = this.closeCount(data)
+      let influence = <span><strong>not</strong> a swing state</span>
+      if (close >= 4) {
+        influence = <span>a <strong>swing state</strong></span>
+      } else if (close >= 2) {
+        influence = <span><strong>not quite</strong> a swing state</span>
+      }
       return (
-        `The margin of victory in ${this.state} has been close ` +
-        `in ${closeCount} out of ${data.length} recent presidential elections.`
+        <div>
+        {this.state} is {influence}.
+        </div>
+      )
+    },
+    howManyClose (data) {
+      return (
+        `The margin of victory in ${this.state} has been close in ` +
+        `${this.closeCount(data)} of ${data.length} recent presidential elections.`
       )
     }
   },
@@ -50,9 +66,14 @@ export default {
     const data = this.processElections()
     return (
       <div>
-        <p>
-          {this.howManyClose(data)}
-        </p>
+        <div class={style.textInfo}>
+          <h2>
+            {this.stateSwinginess(data)}
+          </h2>
+          <p>
+            {this.howManyClose(data)}
+          </p>
+        </div>
         <div class='row'>
           { this.allResults(data) }
         </div>

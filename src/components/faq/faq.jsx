@@ -6,6 +6,12 @@ export default {
     this.$refs.faq.innerHTML = faqBody
   },
   render () {
-    return <div ref='faq' />
+    return (
+      <div class='row around-xs'>
+        <div class='col-sm-8 col-xs-12'>
+          <div ref='faq' />
+        </div>
+      </div>
+    )
   }
 }

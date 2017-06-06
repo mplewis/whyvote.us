@@ -6,7 +6,15 @@ Data comes from [Daily Kos Elections](http://www.dailykos.com/story/2016/11/25/1
 
 ## What counts as a **close** election?
 
-Close elections are ones where the Republican and Democrat votes are within 10 percentage points of each other.
+This site defines close elections as ones where the Republican and Democrat votes are within 10 percentage points of each other.
+
+## What counts as a **swing state**?
+
+From [Wikipedia](https://www.wikiwand.com/en/Swing_state):
+
+> In American politics, the term swing state refers to any state that could reasonably be won by either the Democratic or Republican presidential candidate.
+
+This site marks a state as a swing state if four or more recent elections were close.
 
 ## Does my vote count?
 
@@ -14,9 +22,9 @@ If you don't live in a swing state, probably not.
 
 If the collective voters of your state support one party with consistently high margins, it's not worth the time of a presidential candidate to try and flip your state. Candidates prefer to brawl over swing states that could easily go to either party.
 
-Why would a Democrat spend time trying to flip Kansas (R +15-22%)? And why would a Republican try to score Rhode Island (D +17-38%)?
+Why would a Democrat spend time trying to flip **Kansas** (<span class="rep-red">R +15-22%</span>)? And why would a Republican try to score **Rhode Island** (<span class="dem-blu">D +17-38%</span>)?
 
-Both candidates can spend money more efficiently by campaigning in states like Florida (R +5% to D +6%) and Colorado (R +9% to D +9%). Swing states like these are more likely to flip either direction.
+Both candidates can spend money more efficiently by campaigning in states like **Florida** (<span class="rep-red">R +5%</span> to <span class="dem-blu">D +6%</span>) and **Colorado** (<span class="rep-red">R +9%</span> to <span class="dem-blu">D +9%</span>). Swing states like these are more likely to flip either direction.
 
 ## Why didn't you include third-party candidates?
 
