@@ -44,14 +44,17 @@ export default {
     stateSwinginess (data) {
       const close = this.closeCount(data)
       let influence = <span><strong>not</strong> a swing state</span>
+      let yourVote = 'has little impact'
       if (close >= 4) {
         influence = <span>a <strong>swing state</strong></span>
+        yourVote = 'makes a real difference'
       } else if (close >= 2) {
         influence = <span><strong>not quite</strong> a swing state</span>
+        yourVote = 'might have some impact'
       }
       return (
         <div>
-        {this.state} is {influence}.
+        {this.state} is {influence}. Your vote {yourVote}.
         </div>
       )
     },
