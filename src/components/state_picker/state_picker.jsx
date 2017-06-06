@@ -8,12 +8,17 @@ export default {
   },
   render () {
     return (
-      <div class={style.statePicker}>
-        <select onChange={this.statePicked}>
-          <option selected disabled>Select your state:</option>
-          { states.map(s => <option value={s}>{s}</option>) }
-        </select>
+      <div class='row around-xs'>
+        <div class='col-sm-6 col-xs-12'>
+          <div class={style.statePicker}>
+            <select onChange={this.statePicked}>
+              <option selected disabled>Select your state:</option>
+              { states.map(s => <option value={s}>{s}</option>) }
+            </select>
+          </div>
+        </div>
       </div>
+
     )
   }
 }
