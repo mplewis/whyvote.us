@@ -1,17 +1,5 @@
 # FAQ
 
-## What counts as a **swing state**?
-
-From [Wikipedia](https://www.wikiwand.com/en/Swing_state):
-
-> In American politics, the term swing state refers to any state that could reasonably be won by either the Democratic or Republican presidential candidate.
-
-This site marks a state as a swing state if four or more recent elections were close.
-
-## What counts as a **close** election?
-
-This site defines close elections as ones where the Republican and Democrat votes are within 10 percentage points of each other.
-
 ## Does my vote count?
 
 If you don't live in a swing state, probably not.
@@ -45,6 +33,18 @@ No Libertarian or Green Party candidate will ever win a presidential election be
 Learn more about [first past the post and why it forces us into a two-party system.](https://www.youtube.com/watch?v=s7tWHJfhiyo)
 
 Then learn about the sane alternative, [instant runoff voting (also known as the alternative vote).](https://www.youtube.com/watch?v=3Y3jE3B8HsE)
+
+## What counts as a **swing state**?
+
+From [Wikipedia](https://www.wikiwand.com/en/Swing_state):
+
+> In American politics, the term swing state refers to any state that could reasonably be won by either the Democratic or Republican presidential candidate.
+
+This site marks a state as a swing state if four or more recent elections were close.
+
+## What counts as a **close** election?
+
+This site defines close elections as ones where the Republican and Democrat votes are within 10 percentage points of each other.
 
 ## Where does your data come from?
 
